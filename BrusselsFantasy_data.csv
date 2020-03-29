@@ -1,0 +1,109 @@
+tconst,Year,awardName,categoryName,isWinner,otherAwards,primaryNominees,nconst,secondaryNominees,Name,releaseYear,Genre1,AdjustedTotalGross
+tt0086014,1984,Golden Raven,,True,False,Nightmares,nm0765121,Joseph Sargent,Nightmares,1983.0,Others,33856582
+tt0087050,1984,Best Fantasy Film,,True,True,Children of the Corn,nm0452607,Fritz Kiersch,Children of the Corn,1984.0,Others,72574580
+tt0086541,1984,Best Science-Fiction Film,,True,True,Videodrome,nm0000343,David Cronenberg,Videodrome,1983.0,Others,11069947
+tt0087175,1985,Golden Raven,,True,False,Dreamscape,nm0747849,Joseph Ruben,Dreamscape,1984.0,Action,59400452
+tt0087015,1985,Best Fantasy Film,,True,True,C.H.U.D.,nm0154877,Douglas Cheek,C.H.U.D.,1984.0,Others,22764181
+tt0082677,1985,Best Science-Fiction Film,,True,True,Looker,nm0000341,Michael Crichton,Looker,1981.0,Drama,8980383
+tt0089569,1986,Silver Raven,,True,True,Maxie,nm0007477,Paul Aaron,Maxie,1985.0,Others,12101497
+tt0091818,1987,Golden Raven,,True,False,Radioactive Dreams,nm0089502,Albert Pyun,Radioactive Dreams,1986.0,Action,1020513
+tt0090644,1988,Golden Raven,,True,False,Anguish,nm0000940,Bigas Luna,Anguish,1988.0,Others,505329
+tt0093605,1988,Silver Raven,,True,True,Near Dark,nm0000941,Kathryn Bigelow,Near Dark,1987.0,Action,14935293
+tt0093560,1988,Silver Raven,,True,True,The Monster Squad,nm0215269,Fred Dekker,The Monster Squad,1987.0,Action,16842891
+tt0098061,1989,Golden Raven,,True,False,Paperhouse,nm0741262,Bernard Rose,Paperhouse,1989.0,Drama,1014113
+tt0096426,1989,Silver Raven,,True,True,Waxwork,nm0382776,Anthony Hickox,Waxwork,1988.0,Others,3500201
+tt0099740,1991,Silver Raven,,True,True,Hardware,nm0822582,Richard Stanley,Hardware,1990.0,Others,22065146
+tt0099763,1991,Silver Raven,,True,True,Henry: Portrait of a Serial Killer,nm0573796,John McNaughton,Henry: Portrait of a Serial Killer,1990.0,Others,2349189
+tt0098622,1991,Pegasus Audience Award,,True,True,Warlock,nm0591171,Steve Miner,Warlock,1991.0,Action,34532968
+tt0102035,1992,Silver Raven,,True,True,Highway 61,nm0567680,Bruce McDonald,Highway 61,1992.0,Others,534260
+tt0105569,1992,Silver Raven,,True,True,Tetsuo II: Body Hammer,nm0875354,Shin'ya Tsukamoto,Tetsuo II: Body Hammer,1997.0,Others,4052
+tt0105121,1992,Pegasus Audience Award,,True,True,The People Under the Stairs,nm0000127,Wes Craven,The People Under the Stairs,1991.0,Others,103019054
+tt0106308,1993,Golden Raven,,True,False,Army of Darkness,nm0000600,Sam Raimi,Army of Darkness,1993.0,Others,41084032
+tt0107529,1993,Silver Raven,,True,True,Matinee,nm0001102,Joe Dante,Matinee,1993.0,Others,34167072
+tt0104409,1993,Pegasus Audience Award,,True,True,Hellraiser III: Hell on Earth,nm0382776,Anthony Hickox,Hellraiser III: Hell on Earth,1992.0,Others,45340187
+tt0106963,1994,Golden Raven,,True,False,Frauds,nm0254632,Stephan Elliott,Frauds,1993.0,Others,973
+tt0104029,1994,Silver Raven,,True,True,Cronos,nm0868219,Guillermo del Toro,Cronos,1994.0,Others,2153159
+tt0117883,1997,Grand Prize of European Fantasy Film in Silver,,True,True,Thesis,nm0024622,Alejandro Amenábar,Thesis,1997.0,Others,22779
+tt0119506,1998,Golden Raven,,True,True,Lawn Dogs,nm0241090,John Duigan,Lawn Dogs,1998.0,Drama,334045
+tt0118541,1998,Silver Raven,,True,True,8 Heads in a Duffel Bag,nm0776114,Tom Schulman,8 Heads in a Duffel Bag,1997.0,Others,11494504
+tt0119081,1998,Pegasus Audience Award,,True,True,Event Horizon,nm0027271,Paul W.S. Anderson,Event Horizon,1997.0,Others,84779771
+tt0178868,1999,Golden Raven,,True,False,Ringu,nm0620378,Hideo Nakata,Ringu,2003.0,Others,81854
+tt0123755,1999,Silver Raven,,True,True,Cube,nm0622112,Vincenzo Natali,Cube,1998.0,Drama,1688174
+tt0120710,1999,Silver Raven,,True,True,In Dreams,nm0001403,Neil Jordan,In Dreams,1999.0,Drama,37383014
+tt0118929,1999,Pegasus Audience Award,,True,True,Dark City,nm0001639,Alex Proyas,Dark City,1998.0,Others,65629030
+tt0120894,1999,Grand Prize of European Fantasy Film in Silver,,True,True,Immortality,nm0502987,Po-Chih Leong,Immortality,2000.0,Others,119927
+tt0222368,2000,Golden Raven,,True,False,The Nameless,nm0049371,Jaume Balagueró,The Nameless,2005.0,Drama,5127093
+tt0177789,2000,Silver Raven,Best Screenplay,True,True,Galaxy Quest,nm0397232,David Howard,Galaxy Quest,1999.0,Others,246388710
+tt0255589,2001,Golden Raven,,True,False,The Isle,nm1104118,Ki-duk Kim,The Isle,2002.0,Drama,64529
+tt0211661,2001,Silver Raven,,True,True,Terror Tract,nm0004165,Lance W. Dreesen,Terror Tract,2000.0,Others,29960
+tt0280609,2002,Golden Raven,,True,True,Dog Soldiers,nm0551076,Neil Marshall,Dog Soldiers,2002.0,Action,5009677
+tt0308379,2002,Silver Raven,,True,True,Dark Water,nm0620378,Hideo Nakata,Dark Water,2002.0,Drama,2044928
+tt0299873,2002,Silver Raven,,True,True,Fausto 5.0,nm1077590,Isidro Ortiz,Fausto 5.0,2003.0,Drama,46097
+tt0262826,2002,Grand Prize of European Fantasy Film in Gold,,True,True,Thomas in Love,nm0719348,Pierre-Paul Renders,Thomas in Love,2000.0,Others,228787
+tt0237534,2002,Grand Prize of European Fantasy Film in Gold,,False,False,Brotherhood of the Wolf,nm0304521,Christophe Gans,Brotherhood of the Wolf,2002.0,Action,117875467
+tt0284978,2003,Golden Raven,,True,False,Cypher,nm0622112,Vincenzo Natali,Cypher,2005.0,Others,1168917
+tt0303361,2003,Silver Raven,,True,True,May,nm0079374,Angela Bettis,May,2002.0,Drama,598288
+tt0324242,2003,Special Mention,,True,True,3 Extremes II,nm0151066,Peter Ho-Sun Chan,3 Extremes II,2003.0,Others,2336967
+tt0354668,2004,Golden Raven,,True,False,Save the Green Planet!,nm2287741,Joon-Hwan Jang,Save the Green Planet!,2004.0,Others,41847
+tt0365376,2004,Silver Raven,,True,True,A Tale of Two Sisters,nm0947514,Jung-ah Yum,A Tale of Two Sisters,2003.0,Drama,1544052
+tt0361668,2004,Silver Raven,,True,True,Gozu,nm0766499,Sakichi Sato,Gozu,2004.0,Others,157058
+tt0289879,2004,Pegasus Audience Award,,True,True,The Butterfly Effect,nm0107774,Eric Bress,The Butterfly Effect,2004.0,Drama,212008726
+tt0342492,2004,Grand Prize of European Fantasy Film in Silver,,True,True,The Green Butchers,nm0421314,Anders Thomas Jensen,The Green Butchers,2004.0,Others,10284
+tt0434179,2005,Golden Raven,,True,False,Marebito,nm1234345,Takashi Shimizu,Marebito,2004.0,Drama,163845
+tt0403358,2005,Silver Raven,,True,True,Night Watch,nm0067457,Timur Bekmambetov,Night Watch,2006.0,Action,66302385
+tt0387564,2005,Pegasus Audience Award,,True,True,Saw,nm1490123,James Wan,Saw,2004.0,Others,214066010
+tt0376650,2005,Grand Prize of European Fantasy Film in Silver,,True,True,Hipnos,nm0140235,David Carreras,Hipnos,2004.0,Drama,2212399
+tt0418455,2006,Golden Raven,,True,True,Adam's Apples,nm0421314,Anders Thomas Jensen,Adam's Apples,2006.0,Others,3098912
+tt0484273,2007,Best Fantasy Film,,False,False,The Dark Hour,nm0004439,Elio Quiroga,The Dark Hour,2007.0,Others,87206
+tt0758742,2007,Pegasus Audience Award,Best Film,True,True,Death Note,nm0437526,Shûsuke Kaneko,Death Note,2007.0,Others,36680692
+tt0883995,2008,Golden Raven,International Competition,True,False,13: Game of Death,nm1840848,Chookiat Sakveerakul,13: Game of Death,2008.0,Others,434117
+tt0984155,2008,Golden Raven,International Competition,False,False,Before the Fall,nm1279573,F. Javier Gutiérrez,Before the Fall,2008.0,Others,395723
+tt1038988,2008,Silver Raven,Jury Prize,True,True,REC,nm0049371,Jaume Balagueró,REC,2008.0,Others,38340457
+tt0758786,2008,Silver Raven,,True,True,Stuck,nm0002340,Stuart Gordon,Stuck,2007.0,Others,267800
+tt0814685,2008,Grand Prize of European Fantasy Film in Silver,,True,True,Frontier(s),,[],Frontier(s),2008.0,Others,2975900
+tt1139797,2009,Golden Raven,International Competition,True,False,Let the Right One In,nm0019247,Tomas Alfredson,Let the Right One In,2008.0,Drama,16227204
+tt1060234,2009,Special Mention,The 7th Orbit,True,True,8th Wonderland,,[],8th Wonderland,2009.0,Drama,121088
+tt1056416,2009,Pegasus Audience Award,Best Film,True,True,Sexy Killer: You'll Die for Her,nm2161247,Paco Cabezas,"Sexykiller, morirás por ella",2009.0,Others,447135
+tt0829251,2010,Best Fantasy Film,,False,False,The Haunting,nm0004439,Elio Quiroga,The Haunting,2010.0,Others,316982
+tt1588170,2011,Golden Raven,International Competition,True,False,I Saw the Devil,nm0453518,Jee-woon Kim,I Saw the Devil,2011.0,Action,14972945
+tt1401143,2011,Pegasus Audience Award,Best Film,True,True,Rare Exports,nm1118351,Jalmari Helander,Rare Exports: A Christmas Tale,2010.0,Others,4973732
+tt1740707,2011,Honorable Mention,,True,True,Trollhunter,nm0004217,André Øvredal,Trollhunter,2011.0,Drama,5121011
+tt1687901,2012,Golden Raven,,True,False,The Awakening,nm1960322,Nick Murphy,The Awakening,2012.0,Others,5446149
+tt1027820,2012,Golden Raven,,False,False,Asylum Blackout,nm2035216,Alexandre Courtès,Asylum Blackout,2012.0,Others,109196
+tt1839494,2012,Golden Raven,,False,False,Children Who Chase Lost Voices,nm1396121,Makoto Shinkai,Children Who Chase Lost Voices,2011.0,Others,542177
+tt1013860,2012,Golden Raven,,False,False,Dylan Dog: Dead of Night,nm1083489,Kevin Munroe,Dylan Dog: Dead of Night,2011.0,Action,6613619
+tt1680133,2012,Golden Raven,,False,False,Extraterrestre,nm1443023,Nacho Vigalondo,Extraterrestrial,2011.0,Others,300175
+tt1686784,2012,Golden Raven,,False,False,Flying Swords of Dragon Gate,nm0007139,Hark Tsui,Flying Swords of Dragon Gate,2012.0,Action,3875340
+tt1650555,2012,Golden Raven,,False,False,Game of Werewolves,nm0554890,Juan Martínez Moreno,Game of Werewolves,2012.0,Others,159353
+tt1034314,2012,Golden Raven,,False,True,Iron Sky,nm1993322,Timo Vuorensola,Iron Sky,2012.0,Action,9198615
+tt1838571,2012,Golden Raven,,False,True,Juan of the Dead,nm1486025,Alejandro Brugués,Juan of the Dead,2012.0,Action,381925
+tt1592525,2012,Golden Raven,,False,False,Lockout,nm1140492,James Mather,Lockout,2012.0,Action,51680365
+tt1623759,2012,Golden Raven,,False,False,Mr. and Mrs. Incredible,nm0463674,Vincent Kok,Mr. and Mrs. Incredible,2011.0,Action,11671313
+tt1801808,2012,Silver Méliès - Special Mention,,True,True,The Fraulein and the Sandman,nm1280221,Peter Luisi,The Fraulein and the Sandman,2011.0,Others,178922
+tt1900893,2012,7th Orbit Prize,,True,True,Himizu,nm0814469,Sion Sono,Themis,2014.0,Others,511386
+tt0896872,2012,Thriller Prize,,True,True,The Whistleblower,nm2326979,Larysa Kondracki,The Whistleblower,2011.0,Action,3622081
+tt1924273,2013,Golden Raven,International Competition,True,True,Ghost Graduation,nm1027519,Javier Ruiz Caldera,Ghost Graduation,2013.0,Others,2223992
+tt2081311,2013,Silver Méliès,,True,True,May I Kill U?,nm0005614,Stuart Urban,May I Kill U?,2014.0,Others,13733
+tt1854513,2013,7th Orbit Prize,,True,True,Blancanieves,nm0074311,Pablo Berger,Blancanieves,2012.0,Drama,3165399
+tt2208216,2013,Honorable Mention,,True,True,Vanishing Waves,nm3043504,Kristina Buozyte,Vanishing Waves,2013.0,Others,99
+tt2404738,2014,Golden Raven,International Competition,True,True,Witching and Bitching,nm0407067,Álex de la Iglesia,Witching and Bitching,2013.0,Action,1771875
+tt2771800,2014,Silver Raven,Jury Prize,True,True,Rigor Mortis,nm1474034,Juno Mak,Rigor Mortis,2014.0,Action,3244690
+tt2466684,2014,7th Orbit Prize,7th Orbit Award,False,False,Heavenly Shift,nm2724080,Márk Bodzsár,Heavenly Shift,2013.0,Others,68430
+tt4086032,2015,Golden Raven,International Competition,True,False,Frankenstein,nm0741262,Bernard Rose,Frankenstein,2015.0,Others,272429
+tt0862748,2015,Best Fantasy Film,,False,False,Lupin the 3rd,nm0457565,Ryûhei Kitamura,Lupin the 3rd,2015.0,Action,24451426
+tt2210769,2015,Pegasus Audience Award,Best Film,True,True,Liza the Fox-Fairy,nm1902132,Károly Ujj Mészáros,Liza the Fox-Fairy,2015.0,Others,581287
+tt3775202,2016,Golden Raven,International Competition,True,False,I Am a Hero,nm0766263,Shinsuke Sato,I Am a Hero,2016.0,Action,14777648
+tt3531578,2016,7th Orbit Prize,Best Feature Film,True,True,Traders,nm1255719,Rachael Moriarty,Traders,2016.0,Others,11478
+tt4443658,2017,Golden Raven,International Competition,True,False,Better Watch Out,nm2577199,Chris Peckover,Better Watch Out,2017.0,Others,203740
+tt4731148,2017,Golden Raven,International Competition,False,False,Attraction,nm0094080,Fedor Bondarchuk,Attraction,2017.0,Drama,20473015
+tt4211312,2017,Grand Prize of European Fantasy Film in Gold,Best European Fantastic Feature Film,False,False,The White King,nm2975353,Alex Helfrecht,The White King,2017.0,Drama,14589
+tt5458566,2017,Silver Méliès,Best European Film,True,True,Small Town Killers,nm0097079,Ole Bornedal,Small Town Killers,2017.0,Others,171878
+tt4695548,2017,Silver Méliès,Best European Film,False,False,Bad Cat,nm7335981,Mehmet Kurtulus,Bad Cat,2019.0,Action,1656516
+tt4401006,2017,Silver Méliès,Best European Film,False,False,Eat Locals,nm0002076,Jason Flemyng,Eat Locals,2017.0,Action,13188
+tt4118932,2017,Silver Méliès,Best European Film,False,False,Loop,nm2161035,Isti Madarász,Loop,2016.0,Others,27016
+tt4711924,2017,Silver Méliès,Best European Film,False,False,Monolith,nm1989547,Ivan Silvestrini,Monolith,2017.0,Drama,446170
+tt4695098,2017,Silver Méliès,Best European Film,False,False,Nails,nm1156853,Dennis Bartok,Nails,2017.0,Others,43032
+tt3469798,2017,Silver Méliès,Best European Film,False,False,Orbiter 9,nm1523747,Hatem Khraiche,Orbiter 9,2017.0,Drama,311102
+tt6095090,2017,Silver Méliès,Best European Film,False,False,The Bride,nm5276483,Svyatoslav Podgaevskiy,The Bride,2017.0,Drama,7308736
+tt6000744,2017,7th Orbit Prize,7th Orbit Award,False,False,Children of the Night,,[],Children of the Night,2017.0,Drama,44394
+tt5133308,2017,Thriller Prize,Best Thriller Award,True,True,At the End of the Tunnel,nm0334824,Rodrigo Grande,At the End of the Tunnel,2017.0,Others,3090516

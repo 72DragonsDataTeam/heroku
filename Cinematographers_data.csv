@@ -1,0 +1,129 @@
+tconst,Year,awardName,categoryName,isWinner,otherAwards,primaryNominees,nconst,secondaryNominees,Name,releaseYear,Genre1,AdjustedTotalGross
+tt0106307,1993,Golden Camera 300,,True,False,Arizona Dream,nm0276803,Vilko Filac,Arizona Dream,1994.0,Others,385022
+tt0113725,1996,Golden Camera 300,,True,False,Maborosi,nm0619919,Masao Nakabori,Maborosi,1995.0,Drama,239461
+tt0140888,1998,Golden Camera 300,,True,True,Central Station,nm0142504,Walter Carvalho,Central Station,1998.0,Drama,18606116
+tt0119448,1998,Silver Camera 300,,True,True,Character,nm0831114,Rogier Stoffers,Character,1998.0,Crime,1966185
+tt0169145,1998,Bronze Camera 300,,True,True,Cabaret Balkan,nm0817131,Milan Spasic,Cabaret Balkan,1999.0,Drama,165719
+tt0188653,1999,Golden Camera 300,,True,False,Journey to the Sun,nm0678456,Jacek Petrycki,Journey to the Sun,2001.0,Drama,6382
+tt0165078,1999,Bronze Camera 300,,True,True,After Life,nm0945594,Yutaka Yamazaki,After Life,1999.0,Drama,2466253
+tt0150662,1999,Special Jury Award,,True,True,Show Me Love,nm0105308,Ulf Brantås,Show Me Love,1999.0,Others,597604
+tt0234805,2000,Golden Camera 300,,True,False,The Legend of Rita,nm0405813,Andreas Höfer,The Legend of Rita,2000.0,Drama,986305
+tt0158302,2000,Silver Camera 300,,True,True,Under the Sun,nm0278980,Jens Fischer,Under the Sun,1999.0,Drama,960264
+tt0258761,2001,Golden Camera 300,,True,False,Last Resort,nm0501755,Ryszard Lenczewski,Last Resort,2001.0,Drama,169378
+tt0283509,2001,Golden Camera 300,,False,True,No Man's Land,nm0005698,Walther van den Ende,No Man's Land,2001.0,Drama,8443038
+tt0234041,2001,Golden Camera 300,,False,False,Roberto Succo,nm0551785,Pascal Marti,Roberto Succo,2001.0,Others,135765
+tt0120263,2001,Golden Camera 300,,False,True,Songs from the Second Floor,nm0095983,István Borbás,Songs from the Second Floor,2001.0,Others,231314
+tt0234837,2001,Golden Camera 300,,False,False,Suzhou River,nm0911094,Yu Wang,Suzhou River,2000.0,Drama,142789
+tt0208911,2001,Golden Camera 300,,False,True,The King Is Alive,nm0002854,Jens Schlosser,The King Is Alive,2001.0,Drama,51566
+tt0181865,2001,Golden Camera 300,,False,False,Traffic,nm0001752,Steven Soderbergh,Traffic,2001.0,Crime,483996309
+tt0241663,2002,Golden Camera 300,,True,True,To the Left of the Father,nm0142504,Walter Carvalho,To the Left of the Father,2002.0,Drama,731416
+tt0308071,2002,Silver Camera 300,,True,True,Burning in the Wind,nm0081723,Luca Bigazzi,Burning in the Wind,2002.0,Drama,1595564
+tt0310009,2002,Special Mention,,True,True,Higher Still,nm0130389,Sylvia Calle,Higher Still,2002.0,Drama,4991
+tt0281718,2002,Student Jury Award,,True,True,Friend,nm0997089,Ki S. Hwang,Friend,2001.0,Others,792329
+tt0299977,2003,Golden Camera 300,,True,True,Hero,nm0236313,Christopher Doyle,Hero,2004.0,Others,311654711
+tt0313670,2003,Golden Camera 300,,True,False,Sweet Sixteen,nm0010096,Barry Ackroyd,Sweet Sixteen,2002.0,Crime,5567405
+tt0317248,2003,Silver Camera 300,,True,True,City of God,nm0153263,César Charlone,City of God,2004.0,Crime,52489246
+tt0351238,2003,Bronze Camera 300,,True,True,Distant Lights,nm0323950,Bogumil Godfrejow,Distant Lights,2003.0,Drama,1110672
+tt0346094,2003,Special Mention,,True,True,Uzak,nm0149196,Nuri Bilge Ceylan,Distant,2003.0,Drama,569927
+tt0347048,2004,Golden Camera 300,,True,False,Head-On,nm0458430,Rainer Klausmann,Head-On,2004.0,Drama,15396058
+tt0373981,2004,Silver Camera 300,,True,True,Kontroll,nm0655822,Gyula Pados,Kontroll,2004.0,Others,2038709
+tt0415855,2004,Bronze Camera 300,,True,True,Hotel,nm0345116,Martin Gschlacht,Hotel,2004.0,Drama,7248
+tt0331370,2004,Special Jury Award,,True,True,Whisky,nm1204748,Barbara Alvarez,Whisky,2004.0,Others,848383
+tt0445506,2005,Golden Camera 300,,True,True,Peacock,nm0946057,Shu Yang,Peacock,2005.0,Drama,72
+tt0367082,2005,Silver Camera 300,,True,True,Fateless,nm0655822,Gyula Pados,Fateless,2005.0,Drama,3482119
+tt0456396,2005,Silver Camera 300,,True,True,The Child,nm0545822,Alain Marcoen,The Child,2005.0,Crime,7917536
+tt0382189,2005,Bronze Camera 300,,True,True,My Summer of Love,nm0501755,Ryszard Lenczewski,My Summer of Love,2005.0,Drama,4927722
+tt0401792,2005,Special Award,,True,True,Sin City,nm0001675,Robert Rodriguez,Sin City,2005.0,Crime,305761527
+tt0387898,2005,Audience Award,,True,True,Caché,nm0074141,Christian Berger,Caché,2006.0,Drama,25522911
+tt0411270,2006,Golden Camera 300,,True,False,The Beat That My Heart Skipped,nm0284860,Stéphane Fontaine,The Beat That My Heart Skipped,2005.0,Crime,16783348
+tt0464665,2006,Silver Camera 300,,True,True,Dreaming of Space,nm0459532,Yuriy Klimenko,Dreaming of Space,2006.0,Drama,896001
+tt0475317,2006,Bronze Camera 300,,True,True,Tough Enough,nm0104951,Kolja Brandt,Tough Enough,2006.0,Crime,316577
+tt0497273,2006,Special Mention,,True,True,Tomorrow Morning,nm0170157,Miladin Colakovic,Tomorrow Morning,2007.0,Drama,15474
+tt0434409,2006,Special Award,,True,True,V for Vendetta,nm0000939,Adrian Biddle,V for Vendetta,2006.0,Others,259669088
+tt0284363,2007,Golden Camera 300,,True,False,I Served the King of England,nm0812179,Jaromír Sofr,I Served the King of England,2007.0,Others,9750345
+tt0421082,2007,Golden Camera 300,,False,False,Control,nm0749508,Martin Ruhe,Control,2007.0,Others,11046675
+tt0383064,2007,Golden Camera 300,,False,True,Dolina,nm0575973,Gábor Medvigy,Dolina,2007.0,Drama,1953
+tt0855843,2007,Golden Camera 300,,False,True,I Am from Titov Veles,nm0756738,Virginie Saint-Martin,I Am from Titov Veles,2008.0,Drama,8457
+tt0842929,2007,Golden Camera 300,,False,True,Paranoid Park,nm0236313,Christopher Doyle,Paranoid Park,2007.0,Crime,6155228
+tt0880502,2007,Golden Camera 300,,False,False,The Edge of Heaven,nm0458430,Rainer Klausmann,The Edge of Heaven,2008.0,Drama,22389152
+tt0448131,2007,Golden Camera 300,,False,True,The Missing Star,nm0081723,Luca Bigazzi,The Missing Star,2006.0,Drama,3647381
+tt1016205,2007,Golden Camera 300,,False,False,The Mourning Forest,nm2631218,Hideyo Nakano,The Mourning Forest,2008.0,Drama,672664
+tt0499540,2007,Golden Camera 300,,False,False,The Other,nm0492120,Marcelo Lavintman,The Other,2007.0,Drama,369071
+tt1063675,2007,Golden Camera 300,,False,False,Which Way Today,nm0817153,Radoslav Spassov,Which Way Today,2007.0,Others,9074
+tt0808357,2008,Golden Camera 300,,True,False,"Lust, Caution",nm0006509,Rodrigo Prieto,"Lust, Caution",2007.0,Drama,87691918
+tt0436854,2008,Silver Camera 300,,True,True,Tulpan,nm0245896,Jolanta Dylewska,Tulpan,2008.0,Others,1563550
+tt1233381,2008,Special Award,,True,True,Three Monkeys,nm1780337,Gökhan Tiryaki,Three Monkeys,2009.0,Drama,2419643
+tt1206488,2009,Golden Camera 300,,True,False,The Milk of Sorrow,nm1161987,Natasha Braier,The Milk of Sorrow,2009.0,Drama,1853820
+tt1224373,2009,Golden Camera 300,,False,False,A Call Girl,nm1075990,Ales Belak,A Call Girl,2010.0,Drama,44011
+tt1235166,2009,Golden Camera 300,,False,True,A Prophet,nm0284860,Stéphane Fontaine,A Prophet,2010.0,Crime,23439209
+tt1204773,2009,Golden Camera 300,,False,False,Everyone Else,nm1007373,Bernhard Keller,Everyone Else,2009.0,Drama,3269995
+tt1232776,2009,Golden Camera 300,,False,False,Fish Tank,nm0752811,Robbie Ryan,Fish Tank,2009.0,Drama,3233296
+tt1360866,2009,Golden Camera 300,,False,False,Giant,nm1473216,Arauco Hernández Holz,Giant,2009.0,Drama,601057
+tt1360875,2009,Golden Camera 300,,False,False,Katalin Varga,nm1539359,Márk Györi,Katalin Varga,2010.0,Crime,33483
+tt1291064,2009,Golden Camera 300,,False,False,Mala Moskwa,nm0229847,Tomasz Dobrowolski,Mala Moskwa,2009.0,Drama,1143637
+tt1038043,2009,Golden Camera 300,,False,False,Mammoth,nm0959128,Marcel Zyskind,Mammoth,2009.0,Drama,2162806
+tt1424431,2009,Golden Camera 300,,False,True,Tsar,nm0827869,Tom Stern,Tsar,2010.0,Drama,6418523
+tt1498887,2010,Golden Camera 300,,True,False,Women Without Men,nm0345116,Martin Gschlacht,Women Without Men,2010.0,Drama,1150577
+tt1431181,2010,Golden Camera 300,,False,False,Another Year,nm0005836,Dick Pope,Another Year,2011.0,Others,26475765
+tt1191111,2010,Golden Camera 300,,False,True,Enter the Void,nm0213424,Benoît Debie,Enter the Void,2010.0,Drama,1286326
+tt1403846,2010,Golden Camera 300,,False,False,Everything Will Be Fine,nm0993994,Manuel Alberto Claro,Everything Will be Fine,2011.0,Drama,384924
+tt1341167,2010,Golden Camera 300,,False,False,Four Lions,nm0187018,Lol Crawley,Four Lions,2010.0,Others,5854080
+tt1452626,2010,Golden Camera 300,,False,False,Hahaha,nm3297226,Hong-yeol Park,Hahaha,2011.0,Others,468330
+tt1571724,2010,Golden Camera 300,,False,False,Honey,nm0994020,Baris Özbiçer,Honey,2011.0,Drama,1517091
+tt1588875,2010,Golden Camera 300,,False,False,How I Ended This Summer,nm1018307,Pavel Kostomarov,How I Ended This Summer,2011.0,Drama,732653
+tt1483831,2010,Golden Camera 300,,False,True,Lebanon,nm0067330,Giora Bejach,Lebanon,2009.0,Drama,1929109
+tt0485947,2010,Golden Camera 300,,False,False,Mr. Nobody,nm0064290,Christophe Beaucarne,Mr. Nobody,2013.0,Drama,3877315
+tt1320352,2010,Golden Camera 300,,False,False,Nothing Personal,nm2387156,Daniël Bouquet,Nothing Personal,2010.0,Drama,1136842
+tt1316540,2011,Golden Camera 300,,True,False,The Turin Horse,nm0445435,Fred Kelemen,The Turin Horse,2011.0,Drama,246584
+tt1817236,2011,Golden Manaki,New Visions Award,True,True,Shelter,nm1288551,Dragomir Sholev,Shelter,2011.0,Others,25854
+tt1711021,2011,Golden Manaki,New Visions Award,False,False,Zefir,nm0954853,Mehmet Zengin,Zefir,2011.0,Drama,13248
+tt2298820,2013,Golden Camera 300,Main Competition Camera 300,False,False,La cinquième saison,nm3878047,Hans Bruch Jr.,La cinquième saison,2013.0,Drama,43576
+tt3808342,2015,Golden Camera 300,Main Competition Camera 300,True,False,Son of Saul,nm0258799,Mátyás Erdély,Son of Saul,2015.0,Drama,9060265
+tt3685622,2015,Golden Camera 300,Main Competition Camera 300,False,False,600 Miles,nm0545822,Alain Marcoen,600 Miles,2016.0,Drama,299969
+tt4663992,2015,Golden Camera 300,Main Competition Camera 300,False,True,Land and Shade,nm3237467,Mateo Guzmán,Land and Shade,2016.0,Drama,174858
+tt2884018,2015,Golden Camera 300,Main Competition Camera 300,False,True,Macbeth,nm1714622,Adam Arkapaw,Macbeth,2015.0,Drama,18834839
+tt4636046,2015,Golden Camera 300,Main Competition Camera 300,False,True,Nahid,nm7334627,Morteza Gheidi,Nahid,2015.0,Drama,155477
+tt3397884,2015,Golden Camera 300,Main Competition Camera 300,False,False,Sicario,nm0005683,Roger Deakins,Sicario,2015.0,Others,141573038
+tt3508840,2015,Golden Camera 300,Main Competition Camera 300,False,False,The Assassin,nm0496742,Ping Bin Lee,The Assassin,2015.0,Others,13564240
+tt3591984,2015,Golden Camera 300,Main Competition Camera 300,False,False,The Postman's White Nights,nm1677985,Aleksandr Simonov,The Postman's White Nights,2015.0,Drama,45894
+tt3409392,2015,Golden Camera 300,Main Competition Camera 300,False,False,Timbuktu,nm1384878,Sofian El Fani,Timbuktu,2014.0,Drama,8885318
+tt4226388,2015,Golden Camera 300,Main Competition Camera 300,False,False,Victoria,nm3163889,Sturla Brandth Grøvlen,Victoria,2015.0,Crime,3447613
+tt3894190,2015,Diploma,Cinematographic Talent,True,True,Black Souls,nm0705842,Vladan Radovic,Black Souls,2015.0,Crime,1492955
+tt2662716,2015,"""Bona Dea"" Award in ""New European Cinema"" Program",Best Cinematography,True,True,Montanha,nm1738811,Vasco Viana,Montanha,2015.0,Drama,28587
+tt3296658,2015,"""Bona Dea"" Award in ""New European Cinema"" Program",Best Film,True,True,Rams,nm1963886,Grímur Hákonarson,Rams,2015.0,Drama,2101584
+tt3470790,2015,"""Golden Manaki"" for ""SEE Camera"" Program",Best Cinematography,True,True,The Woods Are Still Green,nm1475415,Milos Srdic,The Woods Are Still Green,2015.0,Drama,33289
+tt4771932,2016,Golden Camera 300,,True,False,The Happiest Day in the Life of Olli Maki,nm1331070,Jani-Petteri Passi,The Happiest Day in the Life of Olli Mäki,2016.0,Others,594695
+tt3838728,2016,Golden Camera 300,,False,True,Bang Gang (A Modern Love Story),nm1328334,Mattias Troelstrup,Bang Gang (A Modern Love Story),2016.0,Drama,146902
+tt3544218,2016,Golden Camera 300,,False,True,Belgica,nm0408249,Ruben Impens,Belgica,2016.0,Drama,647677
+tt4451458,2016,Golden Camera 300,,False,False,Endless Poetry,nm0236313,Christopher Doyle,Endless Poetry,2017.0,Others,743792
+tt4936450,2016,Golden Camera 300,,False,False,Graduation,nm5430544,Tudor Vladimir Panduru,Graduation,2016.0,Crime,2334667
+tt4621872,2016,Golden Camera 300,,False,False,Like Crazy,nm0705842,Vladan Radovic,Like Crazy,2016.0,Others,9658821
+tt4466490,2016,Golden Camera 300,,False,False,Sieranevada,nm2456483,Barbu Balasoiu,Sieranevada,2016.0,Others,261327
+tt2249039,2016,Golden Camera 300,,False,False,Soy Nero,nm1030410,Christos Karamanis,Soy Nero,2016.0,Drama,59858
+tt4632440,2016,Golden Camera 300,,False,False,The Dancer,nm0213424,Benoît Debie,The Dancer,2017.0,Others,2032274
+tt1974419,2016,Golden Camera 300,,False,False,The Neon Demon,nm1161987,Natasha Braier,The Neon Demon,2016.0,Others,4994534
+tt4424228,2016,Golden Camera 300,,False,False,The Patriarch,nm1442000,Ginny Loane,The Patriarch,2016.0,Drama,967006
+tt4048272,2016,Golden Camera 300,,False,False,Toni Erdmann,nm0011752,Maren Ade,Toni Erdmann,2016.0,Others,14039087
+tt5333110,2016,Golden Camera 300,,False,False,United States of Love,nm1412545,Oleg Mutu,United States of Love,2016.0,Drama,235200
+tt5842890,2017,Golden Camera 300,,True,False,Jupiter's Moon,nm2815444,Marcell Rév,Jupiter's Moon,2018.0,Drama,90258
+tt6467968,2017,Golden Camera 300,,False,False,Directions,nm2491213,Vesselin Hristov,Directions,2017.0,Drama,203785
+tt5980798,2017,Golden Camera 300,,False,False,Félicité,nm0102515,Céline Bozon,Félicité,2017.0,Drama,287939
+tt5837242,2017,Golden Camera 300,,False,False,How Viktor 'The Garlic' Took Alexey 'The Stud' to the Nursing Home,nm6727306,Daniil Fomichev,How Viktor 'The Garlic' Took Alexey 'The Stud' to the Nursing Home,2018.0,Crime,128027
+tt5723272,2017,Golden Camera 300,,False,True,In the Fade,nm0458430,Rainer Klausmann,In the Fade,2017.0,Crime,5594790
+tt6423776,2017,Golden Camera 300,,False,False,Let the Sunshine In,nm0323707,Agnès Godard,Let the Sunshine In,2017.0,Others,5268177
+tt6304162,2017,Golden Camera 300,,False,False,Loveless,nm1319279,Mikhail Krichman,Loveless,2017.0,Drama,6291068
+tt5607714,2017,Golden Camera 300,,False,False,On Body and Soul,nm1030033,Máté Herbai,On Body and Soul,2018.0,Drama,2187363
+tt6412864,2017,Golden Camera 300,,False,False,On the Beach at Night Alone,nm0453484,Hyung-ku Kim,On the Beach at Night Alone,2017.0,Drama,486828
+tt5328350,2017,Golden Camera 300,,False,False,Spoor,nm0245896,Jolanta Dylewska,Spoor,2017.0,Crime,1074245
+tt3497596,2017,Golden Camera 300,,False,True,The Frog,nm1522955,Dejan Dimeski,The Frog,2018.0,Drama,1021
+tt5814592,2017,Golden Camera 300,,False,False,The Party,nm0734870,Aleksey Rodionov,The Party,2018.0,Others,6514941
+tt7282468,2018,Golden Camera 300,,True,False,Burning,nm0393240,Kyung-pyo Hong,Burning,2018.0,Drama,8165687
+tt7298400,2018,Golden Camera 300,,False,True,Ash Is Purest White,nm0310341,Eric Gautier,Ash Is Purest White,2018.0,Crime,12346927
+tt7349662,2018,Golden Camera 300,,False,False,BlacKkKlansman,nm1978735,Chayse Irvin,BlacKkKlansman,2018.0,Others,144503314
+tt6543652,2018,Golden Camera 300,,False,True,Cold War,nm2617994,Lukasz Zal,Cold War,2019.0,Drama,24909769
+tt6896536,2018,Golden Camera 300,,False,False,Foxtrot,nm0067330,Giora Bejach,Foxtrot,2017.0,Drama,2044891
+tt8254556,2018,Golden Camera 300,,False,False,Girl,nm0886139,Frank van den Eeden,Girl,2019.0,Drama,4179831
+tt7342838,2018,Golden Camera 300,,False,False,Leto,nm0649065,Vladislav Opelyants,Leto,2019.0,Others,3055458
+tt7186092,2018,Golden Camera 300,,False,False,"Nico, 1988",nm0994004,Crystel Fournier,"Nico, 1988",2018.0,Others,158978
+tt6675244,2018,Golden Camera 300,,False,False,Transit,nm0296362,Hans Fromm,Transit,2019.0,Drama,1778446
+tt8523292,2018,Golden Camera 300,,False,False,Winter Flies,nm2494915,Lukás Milota,Winter Flies,2019.0,Others,7500

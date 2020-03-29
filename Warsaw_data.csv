@@ -1,0 +1,335 @@
+tconst,Year,awardName,categoryName,isWinner,otherAwards,primaryNominees,nconst,secondaryNominees,Name,releaseYear,Genre1,AdjustedTotalGross
+tt0086969,1987,Audience Award,,True,True,Birdy,nm0000570,Alan Parker,Birdy,1984.0,Drama,7062371
+tt0085809,1988,Audience Award,,True,True,Koyaanisqatsi,nm0716585,Godfrey Reggio,Koyaanisqatsi,1982.0,Others,9284131
+tt0092929,1989,Audience Award,,True,True,Drowning by Numbers,nm0000425,Peter Greenaway,Drowning by Numbers,1991.0,Comedy,1596321
+tt0097165,1990,Audience Award,,True,True,Dead Poets Society,nm0001837,Peter Weir,Dead Poets Society,1989.0,Comedy,683081723
+tt0101765,1991,Audience Award,,True,True,The Double Life of Véronique,nm0001425,Krzysztof Kieslowski,The Double Life of Véronique,1991.0,Drama,7705525
+tt0094651,1992,Audience Award,Feature Film,False,False,Amsterdamned,nm0530975,Dick Maas,Amsterdamned,1988.0,Others,416366
+tt0102722,1992,Audience Award,,True,True,Prospero's Books,nm0000425,Peter Greenaway,Prospero's Books,1991.0,Drama,6520202
+tt0106307,1994,Audience Award,,True,True,Arizona Dream,nm0001437,Emir Kusturica,Arizona Dream,1994.0,Comedy,385022
+tt0110882,1995,Audience Award,,True,True,Before the Rain,nm0541391,Milcho Manchevski,Before the Rain,1995.0,Drama,2587138
+tt0112379,1996,Audience Award,Feature Film,False,False,Antonia's Line,nm0331296,Marleen Gorris,Antonia's Line,1996.0,Comedy,13986008
+tt0117951,1996,Audience Award,,True,True,Trainspotting,nm0000965,Danny Boyle,Trainspotting,1996.0,Drama,53748642
+tt0119164,1997,Audience Award,,True,True,The Full Monty,nm0146341,Peter Cattaneo,The Full Monty,1997.0,Comedy,481750419
+tt0119448,1998,Audience Award,Feature Film,False,False,Character,nm0226016,Mike van Diem,Character,1998.0,Others,1966185
+tt0119512,1998,Audience Award,Feature Film,False,False,Left Luggage,nm0469103,Jeroen Krabbé,Left Luggage,1998.0,Drama,4956415
+tt0118799,1998,Audience Award,,True,True,Life Is Beautiful,nm0000905,Roberto Benigni,Life Is Beautiful,1999.0,Comedy,446878134
+tt0118849,1999,Audience Award,,True,True,Children of Heaven,nm0006498,Majid Majidi,Children of Heaven,1999.0,Drama,2905230
+tt0219288,2000,Audience Award,,True,True,Loners,nm0648576,David Ondrícek,Loners,2002.0,Comedy,1001419
+tt0243862,2001,Audience Award,,True,True,Italian for Beginners,nm0771054,Lone Scherfig,Italian for Beginners,2002.0,Comedy,29698755
+tt0279064,2002,Audience Award,,True,True,Elling,nm0639033,Petter Næss,Elling,2002.0,Comedy,3349866
+tt0338949,2002,Grand Prix,,True,False,Edi,nm0970382,Piotr Trzaskalski,Edi,2003.0,Drama,1843337
+tt0285848,2002,Special Mention,,True,True,The Orphan of Anyang,nm0910852,Chao Wang,The Orphan of Anyang,2001.0,Drama,125893
+tt0243859,2002,Special Mention,,True,True,The Wild Bees,nm0805246,Bohdan Sláma,The Wild Bees,2002.0,Comedy,107394
+tt0245157,2003,Audience Award,Feature Film,False,False,Zus & zo,nm0644309,Paula van der Oest,Zus & Zo,2003.0,Comedy,465087
+tt0371589,2003,Audience Award,,True,True,Buddy,nm0878763,Morten Tyldum,Buddy,2004.0,Comedy,3534103
+tt0308129,2003,Special Mention,,True,True,Conspiracy of Silence,nm1009027,John Deery,Conspiracy of Silence,2003.0,Others,7196
+tt0336264,2003,Special Mention,,True,True,Since Otar Left,nm0078465,Julie Bertuccelli,Since Otar Left,2003.0,Drama,2741543
+tt0373981,2004,Audience Award,,True,True,Kontroll,nm0030735,Nimród Antal,Kontroll,2004.0,Comedy,2038709
+tt0420318,2004,Best Script,,True,True,The Wedding,nm1500530,Wojciech Smarzowski,The Wedding,2004.0,Comedy,938332
+tt0418455,2005,Audience Award,,True,True,Adam's Apples,nm0421314,Anders Thomas Jensen,Adam's Apples,2006.0,Comedy,3098912
+tt0446460,2006,Audience Award,Feature Film,False,False,Het schnitzelparadijs,nm0465551,Martin Koolhoven,Het schnitzelparadijs,2005.0,Comedy,4609435
+tt0393423,2006,Audience Award,Feature Film,False,False,Leef!,nm0885993,Willem van de Sande Bakhuyzen,Leef!,2005.0,Drama,857602
+tt0405094,2006,Audience Award,,True,True,The Lives of Others,nm0003697,Florian Henckel von Donnersmarck,The Lives of Others,2007.0,Drama,110310857
+tt0847877,2006,Grand Prix,,True,False,Euphoria,nm2196782,Ivan Vyrypaev,Euphoria,2007.0,Drama,470440
+tt0421068,2006,Grand Prix,,False,False,Kontakt,nm1690993,Sergej Stanojkovski,Kontakt,2006.0,Drama,16216
+tt0492490,2006,Grand Prix,,False,False,Son of Man,nm0233919,Mark Dornford-May,Son of Man,2006.0,Drama,2871
+tt0479506,2006,Grand Prix,,False,False,The Blossoming of Maximo Oliveros,nm2039919,Auraeus Solito,The Blossoming of Maximo Oliveros,2006.0,Drama,85824
+tt0431321,2006,Grand Prix,,False,False,The Dog Pound,nm0631315,Manolo Nieto,The Dog Pound,2006.0,Drama,6088
+tt0819895,2006,Grand Prix,,False,False,The Paper Will Be Blue,nm1364086,Radu Muntean,The Paper Will Be Blue,2006.0,Others,22058
+tt0497539,2006,Grand Prix,,False,False,Uro,nm1000820,Stefan Faldbakken,Uro,2006.0,Others,2557456
+tt0841182,2006,Grand Prix,,False,False,Valerie,nm1455321,Birgit Möller,Valerie,2007.0,Drama,52452
+tt0880633,2006,Central and Eastern Europe Award,,False,False,Monkeys in Winter,nm0027978,Milena Andonova,Monkeys in Winter,2006.0,Drama,10603
+tt0799991,2006,Central and Eastern Europe Award,,False,False,The Way I Spent the End of the World,nm0594198,Cãtãlin Mitulescu,The Way I Spent the End of the World,2006.0,Drama,372205
+tt0758939,2006,Central and Eastern Europe Award,,False,False,Un acoperis deasupra capului,nm1110558,Adrian Popovici,Un acoperis deasupra capului,2006.0,Drama,1456
+tt0464955,2006,Central and Eastern Europe Award,,False,False,White Palms,nm0354451,Szabolcs Hajdu,White Palms,2007.0,Drama,66001
+tt0841992,2006,Best Documentary,,False,False,Absolute Wilson,nm0653267,Katharina Otto-Bernstein,Absolute Wilson,2006.0,Others,208879
+tt2675106,2006,Best Documentary,,False,False,Cha-Ci-Pe,nm0417448,Miroslav Janek,Cha-Ci-Pe,2006.0,Others,2424
+tt0499019,2006,Best Documentary,,False,False,Estrellas de La Línea,nm1320860,Chema Rodríguez,Estrellas de La Línea,2006.0,Others,48874
+tt0479046,2006,Best Documentary,,False,False,Ghosts of Cité Soleil,nm1300606,Asger Leth,Ghosts of Cité Soleil,2006.0,Others,336527
+tt0492464,2006,Best Documentary,,False,False,In the Pit,nm0750032,Juan Carlos Rulfo,In the Pit,2006.0,Others,261803
+tt0825671,2006,Best Documentary,,False,False,Life in Loops (A Megacities RMX),nm1119183,Timo Novotny,Life in Loops (A Megacities RMX),2006.0,Others,2349
+tt0436231,2006,Best Documentary,,False,False,The Devil and Daniel Johnston,nm0275418,Jeff Feuerzeig,The Devil and Daniel Johnston,2005.0,Others,1025719
+tt0476681,2007,Audience Award,Feature Film,False,False,Ober,nm0912334,Alex van Warmerdam,Ober,2006.0,Comedy,1089993
+tt1032856,2007,Audience Award,,True,True,The Band's Visit,nm0464115,Eran Kolirin,The Band's Visit,2008.0,Comedy,21075865
+tt1032941,2007,Grand Prix,,True,False,Night Train,nm0224801,Yi'nan Diao,Night Train,2008.0,Drama,41555
+tt0775417,2007,Grand Prix,,False,False,Am Ende kommen Touristen,nm1840944,Robert Thalheim,Am Ende kommen Touristen,2008.0,Drama,1003821
+tt0834170,2007,Grand Prix,,False,False,Autumn Ball,nm1803711,Veiko Õunpuu,Autumn Ball,2007.0,Drama,20758
+tt0812243,2007,Grand Prix,,False,True,Ex Drummer,nm0607831,Koen Mortier,Ex Drummer,2008.0,Comedy,270000
+tt0812366,2007,Grand Prix,,False,False,Pudor,nm0880554,Tristán Ulloa,Pudor,2007.0,Drama,427852
+tt0425990,2007,Grand Prix,,False,False,Red Ants,nm0139543,Stéphan Carpiaux,Red Ants,2007.0,Drama,8366
+tt0495040,2007,Grand Prix,,False,True,The Art of Crying,nm0283844,Peter Schønau Fog,The Art of Crying,2007.0,Comedy,20783
+tt0893507,2007,Grand Prix,,False,False,The International,nm1021563,Muharrem Gulmez,Beynelmilel,2006.0,Comedy,3052572
+tt1058027,2007,Grand Prix,,False,False,The Milky Way,nm0150525,Lina Chamie,The Milky Way,2008.0,Drama,59120
+tt1006823,2007,Grand Prix,,False,False,The Mugger,nm1458527,Pablo Fendrik,The Mugger,2008.0,Drama,6599
+tt1499354,2007,Grand Prix,,False,False,The Wonder Years,nm3587010,Hee-jung Kim,The Wonder Years,2007.0,Drama,43433
+tt0813630,2007,Warsaw Award,,False,False,A Stray Girlfriend,nm1195064,Ana Katz,A Stray Girlfriend,2007.0,Drama,65499
+tt0878674,2007,Warsaw Award,,False,False,Garage,nm1049433,Lenny Abrahamson,Garage,2008.0,Drama,1156850
+tt0780621,2007,Warsaw Award,,False,False,Gone with the Woman,nm0639033,Petter Næss,Gone with the Woman,2007.0,Comedy,2959250
+tt0476461,2007,Warsaw Award,,False,False,Outside Love,nm1174251,Daniel Espinosa,Outside Love,2007.0,Drama,57984
+tt0988108,2007,Warsaw Award,,False,True,The Class,nm0704664,Ilmar Raag,The Class,2008.0,Drama,8722
+tt0825749,2007,Warsaw Award,,False,False,The Investigation,nm0872706,Iglika Triffonova,The Investigation,2008.0,Others,4556
+tt0839967,2007,Warsaw Award,,False,False,The Rest is Silence,nm0135952,Nae Caranfil,The Rest is Silence,2008.0,Comedy,123621
+tt1047845,2007,Warsaw Award,,False,False,Travelling with Pets,nm0832669,Vera Storozheva,Travelling with Pets,2008.0,Drama,56601
+tt0910888,2007,Free Spirit Award,,True,True,"Funuke Show Some Love, You Losers!",nm2469894,Daihachi Yoshida,"Funuke Show Some Love, You Losers!",2009.0,Drama,843
+tt0494284,2007,Free Spirit Award,,False,False,Cover Boy... Last Revolution,nm0025251,Carmine Amoroso,Cover Boy... Last Revolution,2008.0,Drama,176148
+tt0383064,2007,Free Spirit Award,,False,False,Dolina,nm0436878,Zoltán Kamondi,Dolina,2007.0,Drama,1953
+tt0814143,2007,Free Spirit Award,,False,False,Héros,nm1315212,Bruno Merle,Héros,2007.0,Others,329602
+tt0477331,2007,Free Spirit Award,,False,False,Lo que sé de Lola,nm1503559,Javier Rebollo,Lo que sé de Lola,2006.0,Drama,10613
+tt0800205,2007,Free Spirit Award,,False,True,Skills Like This,nm0592167,Monty Miranda,Skills Like This,2009.0,Comedy,151767
+tt0989030,2007,Best Documentary,,False,False,M,nm2594154,Nicolás Prividera,M,2007.0,Others,6488
+tt0912592,2007,Best Documentary,,False,False,My Kid Could Paint That,nm0052737,Amir Bar-Lev,My Kid Could Paint That,2007.0,Others,617657
+tt0823668,2007,Best Documentary,,False,False,Screamers,nm2013302,Carla Garapedian,Screamers,2006.0,Others,131785
+tt1043510,2007,Best Documentary,,False,False,The Mosquito Problem and Other Stories,nm1269734,Andrey Paounov,The Mosquito Problem and Other Stories,2007.0,Others,3519
+tt0954008,2007,Best Documentary,,False,False,The Singing Revolution,nm2537532,Maureen Castle Tusty,The Singing Revolution,2007.0,Others,1038697
+tt1047007,2008,Audience Award,Documentary,True,True,Young@Heart,nm0908223,Stephen Walker,Young@Heart,2008.0,Others,13081264
+tt1185616,2008,Audience Award,Feature Film,True,True,Waltz with Bashir,nm0284369,Ari Folman,Waltz with Bashir,2008.0,Others,15641444
+tt0093596,2008,Audience Award,Feature Film,False,False,Nadine,nm0116830,Erik de Bruyn,Nadine,1987.0,Comedy,25330663
+tt1227796,2008,Grand Prix,,True,False,Yuri's Day,nm1970598,Kirill Serebrennikov,Yuri's Day,2008.0,Drama,85675
+tt1263736,2008,Grand Prix,,False,False,33 Scenes from Life,nm0844333,Malgorzata Szumowska,33 Scenes from Life,2009.0,Drama,1040211
+tt0211946,2008,Grand Prix,,False,False,Berlin Calling,nm0836708,Hannes Stöhr,Berlin Calling,2009.0,Comedy,719509
+tt1204366,2008,Grand Prix,,False,False,Desierto adentro,nm0687751,Rodrigo Plá,Desierto adentro,2009.0,Drama,58512
+tt1169272,2008,Grand Prix,,False,False,Heart of Fire,nm0266510,Luigi Falorni,Heart of Fire,2008.0,Others,20997
+tt1270799,2008,Grand Prix,,False,False,Katia's Sister,nm0209010,Mijke de Jong,Katia's Sister,2009.0,Drama,7998
+tt0944958,2008,Grand Prix,,False,False,Love and Other Crimes,nm1313590,Stefan Arsenijevic,Love and Other Crimes,2008.0,Comedy,280149
+tt1267406,2008,Grand Prix,,False,False,Mar nero,nm0094137,Federico Bondi,Mar nero,2009.0,Drama,179002
+tt0972883,2008,Grand Prix,,False,False,Red,nm0226148,Trygve Allister Diesen,Red,2008.0,Drama,18612
+tt1087578,2008,Grand Prix,,False,False,Still Walking,nm0466153,Hirokazu Koreeda,Still Walking,2009.0,Drama,4266931
+tt0930856,2008,Grand Prix,,False,False,The Fourth Man,nm0954099,Dejan Zecevic,The Fourth Man,2007.0,Others,417671
+tt0857191,2008,Grand Prix,,False,False,The Visitor,nm0565336,Tom McCarthy,The Visitor,2008.0,Drama,32446338
+tt1178197,2008,Grand Prix,,False,True,The World is Big and Salvation Lurks Around the Corner,nm0464526,Stephan Komandarev,The World is Big and Salvation Lurks Around the Corner,2010.0,Drama,236935
+tt1223975,2008,Special Jury Award,Free Spirit Competition,True,True,Tony Manero,nm1883257,Pablo Larraín,Tony Manero,2008.0,Drama,827071
+tt1183901,2008,Warsaw Award,Feature Film,False,False,End of the Line,nm0825756,Gustavo Steinberg,End of the Line,2008.0,Comedy,7288
+tt0380249,2008,Free Spirit Award,,True,True,Tears for Sale,nm1452689,Uros Stojanovic,Tears for Sale,2008.0,Comedy,815080
+tt1280553,2008,Free Spirit Award,,False,False,Another Man,nm0047049,Lionel Baier,Another Man,2009.0,Drama,21796
+tt0953318,2008,Free Spirit Award,,False,False,Ben X,nm0051206,Nic Balthazar,Ben X,2008.0,Drama,3324515
+tt1242848,2008,Free Spirit Award,,False,False,Fantastic Parasuicides,nm1887936,Soo-young Park,Fantastic Parasuicides,2007.0,Drama,7714
+tt1103221,2008,Free Spirit Award,,False,False,Fix,nm0963103,Tao Ruspoli,Fix,2008.0,Drama,23529
+tt0820054,2008,Free Spirit Award,,False,False,La crisis carnívora,nm1038878,Pedro Rivero,La crisis carnívora,2008.0,Others,111898
+tt0813537,2008,Free Spirit Award,,False,False,Military Intelligence and You!,nm0476600,Dale Kutzera,Military Intelligence and You!,2006.0,Comedy,36093
+tt1227165,2008,Free Spirit Award,,False,False,Nirvana,nm1119972,Igor Voloshin,Nirvana,2008.0,Drama,303370
+tt1092019,2008,Free Spirit Award,,False,False,Nothing to Lose,nm0474233,Pieter Kuijpers,Nothing to Lose,2008.0,Others,1478540
+tt1172203,2008,Free Spirit Award,,False,False,Sita Sings the Blues,nm1315434,Nina Paley,Sita Sings the Blues,2008.0,Others,15011
+tt0804529,2008,Free Spirit Award,,False,False,Sleep Dealer,nm1642796,Alex Rivera,Sleep Dealer,2008.0,Drama,227236
+tt1224455,2008,Free Spirit Award,,False,False,Soi Cowboy,nm0165583,Thomas Clay,Soi Cowboy,2009.0,Drama,6943
+tt1092007,2008,Best Documentary,,True,True,Heavy Metal in Baghdad,nm2448616,Suroosh Alvi,Heavy Metal in Baghdad,2008.0,Others,12111
+tt1151309,2008,Best Documentary,,False,False,Bigger Stronger Faster*,nm0068106,Chris Bell,Bigger Stronger Faster*,2008.0,Others,747164
+tt1078891,2008,Best Documentary,,False,False,Full Battle Rattle,nm0314155,Tony Gerber,Full Battle Rattle,2008.0,Others,28593
+tt0996966,2008,Best Documentary,,False,False,"Not Quite Hollywood: The Wild, Untold Story of Ozploitation!",nm0366867,Mark Hartley,"Not Quite Hollywood: The Wild, Untold Story of Ozploitation!",2008.0,Others,236072
+tt1237916,2008,Best Documentary,,False,False,Roskilde,nm1451698,Ulrik Wivel,Roskilde,2008.0,Others,55582
+tt1092021,2008,FIPRESCI Prize,,True,True,The Investigator,nm1029564,Attila Gigor,The Investigator,2008.0,Comedy,104984
+tt0431842,2008,Competition 1-2 Award,,True,True,Go with Peace Jamil,nm1494245,Omar Shargawi,Go with Peace Jamil,2008.0,Others,103831
+tt0842675,2008,Competition 1-2 Award,,False,False,"Carmo, Hit the Road",nm1233826,Murilo Pasta,"Carmo, Hit the Road",2010.0,Others,268431
+tt0920460,2008,Competition 1-2 Award,,False,False,Gitmek: My Marlon and Brando,nm2345855,Hüseyin Karabey,Gitmek: My Marlon and Brando,2008.0,Drama,66493
+tt1232826,2008,Competition 1-2 Award,,False,False,Involuntary,nm1128037,Ruben Östlund,Involuntary,2009.0,Drama,745470
+tt1288482,2008,Competition 1-2 Award,,False,False,Landscape No.2,nm1628186,Vinko Moderndorfer,Landscape No.2,2009.0,Others,35581
+tt1281962,2008,Competition 1-2 Award,,False,False,March,nm0405551,Klaus Händl,March,2008.0,Drama,28144
+tt0986232,2008,Competition 1-2 Award,,False,False,Mr. Kuka's Advice,nm1375125,Dariusz Gajewski,Mr. Kuka's Advice,2008.0,Comedy,61244
+tt0481417,2008,Competition 1-2 Award,,False,True,Music,nm0638434,Juraj Nvota,Music,2008.0,Comedy,215235
+tt1146295,2008,Competition 1-2 Award,,False,False,Snow,nm1548101,Aida Begic,Snow,2008.0,Drama,198446
+tt1110272,2008,Competition 1-2 Award,,False,False,The King of Ping Pong,nm0429634,Jens Jonsson,The King of Ping Pong,2008.0,Drama,355060
+tt1377278,2009,Audience Award,Documentary,True,True,Defamation,nm1516376,Yoav Shamir,Defamation,2009.0,Others,35068
+tt1485698,2009,Audience Award,Feature Film,True,True,The Dark House,nm1500530,Wojciech Smarzowski,The Dark House,2010.0,Others,1433326
+tt1314280,2009,Audience Award,Feature Film,True,True,Welcome,nm0513371,Philippe Lioret,Welcome,2009.0,Drama,16225090
+tt1405809,2009,Grand Prix,,True,False,Lourdes,nm0369618,Jessica Hausner,Lourdes,2010.0,Drama,3457984
+tt1224373,2009,Grand Prix,,False,False,A Call Girl,nm0468995,Damjan Kozole,A Call Girl,2010.0,Drama,44011
+tt1406160,2009,Grand Prix,,False,False,Jaffa,nm0947121,Keren Yedaya,Jaffa,2009.0,Drama,639746
+tt1261397,2009,Grand Prix,,False,False,Men on the Bridge,nm2196871,Asli Özge,Men on the Bridge,2012.0,Drama,30694
+tt0985058,2009,Grand Prix,,False,False,Metropia,nm0757975,Tarik Saleh,Metropia,2010.0,Others,95231
+tt1320352,2009,Grand Prix,,False,False,Nothing Personal,nm1773563,Urszula Antoniak,Nothing Personal,2010.0,Drama,1136842
+tt1139666,2009,Grand Prix,,False,False,One for the Road,nm0529960,Eva López Sánchez,One for the Road,2009.0,Drama,332445
+tt1441344,2009,Grand Prix,,False,False,Piggies,nm0322894,Robert Glinski,Piggies,2009.0,Drama,7791
+tt1522832,2009,Grand Prix,,False,False,Searching for the Elephant,nm3634685,Seung-koo Jhung,Searching for the Elephant,2009.0,Drama,1081992
+tt1410261,2009,Grand Prix,,False,False,Symbol,nm1035719,Hitoshi Matsumoto,Symbol,2009.0,Comedy,5956204
+tt1422122,2009,Grand Prix,,False,False,Tales from the Golden Age,nm0612816,Cristian Mungiu,Tales from the Golden Age,2011.0,Comedy,557791
+tt1239446,2009,Grand Prix,,False,False,The Last Days of Emma Blank,nm0912334,Alex van Warmerdam,The Last Days of Emma Blank,2009.0,Comedy,420072
+tt1489263,2009,Grand Prix,,False,False,Upperdog,nm0994537,Sara Johnsen,Upperdog,2010.0,Comedy,1818895
+tt1388402,2009,Free Spirit Award,,True,True,Bad Day to Go Fishing,nm1304308,Álvaro Brechner,Bad Day to Go Fishing,2010.0,Comedy,286620
+tt1258123,2009,Free Spirit Award,,False,False,A Matter of Size,nm0846328,Erez Tadmor,A Matter of Size,2009.0,Comedy,25452
+tt1433540,2009,Free Spirit Award,,False,False,A Town Called Panic,nm0041334,Stéphane Aubier,A Town Called Panic,2009.0,Others,427968
+tt1205908,2009,Free Spirit Award,,False,False,El enemigo,nm0482901,Luis Alberto Lamata,El enemigo,2008.0,Drama,143748
+tt1095423,2009,Free Spirit Award,,False,False,Journey to Saturn,nm2760467,Craig Frank,Journey to Saturn,2008.0,Others,5743533
+tt1248886,2009,Free Spirit Award,,False,False,Manila,nm0019723,Adolfo Alix Jr.,Manila,2009.0,Drama,17140
+tt1459994,2009,Free Spirit Award,,False,False,Some Place Nowhere,nm0227578,Víctor Dínenzon,Some Place Nowhere,2009.0,Drama,1304
+tt1421032,2009,Best Documentary,,True,True,Disco and Atomic War,nm0453262,Jaak Kilmi,Disco and Atomic War,2010.0,Others,3593
+tt1381090,2009,Best Documentary,,False,False,"Ne me libérez pas, je m'en charge",nm0323937,Fabienne Godet,"Ne me libérez pas, je m'en charge",2009.0,Others,129316
+tt1326954,2009,Best Documentary,,False,False,Oh My God,nm3201913,Peter Rodger,Oh My God,2009.0,Others,179725
+tt1393744,2009,Best Documentary,,False,False,Only When I Dance,nm1848098,Beadie Finzi,Only When I Dance,2009.0,Others,20943
+tt1049400,2009,Best Documentary,,False,False,Outrage,nm0225269,Kirby Dick,Outrage,2009.0,Others,688359
+tt1292648,2009,Best Documentary,,False,False,Plastic Planet,nm1923741,Werner Boote,Plastic Planet,2011.0,Others,978141
+tt1180311,2009,Best Documentary,,False,False,The Flower of Kim Jong II,nm2912984,N.C. Heikin,The Flower of Kim Jong II,2009.0,Others,14292
+tt1424062,2009,Best Documentary,,False,False,The Thorn in the Heart,nm0327273,Michel Gondry,The Thorn in the Heart,2010.0,Others,29568
+tt0498329,2009,Best Documentary,,False,False,We Live in Public,nm0863756,Ondi Timoner,We Live in Public,2009.0,Others,100966
+tt1270707,2009,Best Documentary,,False,False,Z32,nm0595783,Avi Mograbi,Z32,2009.0,Others,66652
+tt1514837,2009,FIPRESCI Prize,,True,True,The Reverse,nm1346665,Borys Lankosz,The Reverse,2010.0,Comedy,2695229
+tt1426361,2009,Competition 1-2 Award,,True,True,Eastern Plays,nm1189816,Kamen Kalev,Eastern Plays,2009.0,Drama,67825
+tt1404017,2009,Competition 1-2 Award,,False,False,Bitten Bullet,nm0616396,Diego Muñoz,Bitten Bullet,2011.0,Others,73368
+tt1424327,2009,Competition 1-2 Award,,False,False,Eyes Wide Open,nm3432861,Haim Tabakman,Eyes Wide Open,2009.0,Drama,357987
+tt1272022,2009,Competition 1-2 Award,,False,False,Little Foxes,nm1007017,Mira Fornay,Little Foxes,2010.0,Drama,5367
+tt1405808,2009,Competition 1-2 Award,,False,False,Lost Persons Area,nm0835249,Caroline Strubbe,Lost Persons Area,2010.0,Drama,15162
+tt1490749,2009,Competition 1-2 Award,,False,False,Low Lights,nm1090660,Ignas Miskinis,Low Lights,2009.0,Drama,63088
+tt0363780,2009,Competition 1-2 Award,,False,False,Lymelife,nm0553796,Derick Martini,Lymelife,2009.0,Comedy,1146829
+tt1157549,2009,Competition 1-2 Award,,False,False,The Happiest Girl in the World,nm1257492,Radu Jude,The Happiest Girl in the World,2010.0,Comedy,7748
+tt1465494,2010,Audience Award,Documentary,True,True,Keep Surfing,nm2354636,Bjoern Richie Lob,Keep Surfing,2010.0,Others,289498
+tt1278449,2010,Audience Award,Feature Film,True,True,Sound of Noise,nm0800800,Ola Simonsson,Sound of Noise,2012.0,Comedy,295925
+tt1255953,2010,Grand Prix,,True,True,Incendies,nm0898288,Denis Villeneuve,Incendies,2010.0,Drama,6574859
+tt1719497,2010,Grand Prix,,False,True,A Useful Life,nm0992159,Federico Veiroj,A Useful Life,2011.0,Drama,24977
+tt1403846,2010,Grand Prix,,False,False,Everything Will Be Fine,nm1061993,Christoffer Boe,Everything Will be Fine,2011.0,Drama,384924
+tt1503777,2010,Grand Prix,,False,True,Illégal,nm0557267,Olivier Masset-Depasse,Illégal,2011.0,Drama,332500
+tt1706414,2010,Grand Prix,,False,False,Kray,nm0879783,Aleksey Uchitel,The Edge,2010.0,Others,6294134
+tt1646221,2010,Grand Prix,,False,True,Outbound,nm3054794,Bogdan George Apetri,Outbound,2011.0,Others,12210
+tt1693830,2010,Grand Prix,,False,False,Silent Souls,nm1922735,Aleksey Fedorchenko,Silent Souls,2010.0,Drama,659292
+tt0774519,2010,Grand Prix,,False,False,The Chosen Heaven,nm0328515,Víctor González,The Chosen Heaven,2012.0,Drama,4306
+tt1674050,2010,Grand Prix,,False,False,The Christening,nm1672085,Marcin Wrona,The Christening,2010.0,Drama,311387
+tt1510906,2010,Grand Prix,,False,False,Third Star,nm1463009,Hattie Dalton,Third Star,2011.0,Drama,16513
+tt1359434,2010,Grand Prix,,False,False,Walking Too Fast,nm0816478,Radim Spacek,Walking Too Fast,2011.0,Drama,80792
+tt1235827,2010,Free Spirit Award,,False,False,Boogie,nm0184362,Gustavo Cova,Boogie,2009.0,Others,613525
+tt1608285,2010,Free Spirit Award,,False,False,Littlerock,nm0653056,Mike Ott,Littlerock,2010.0,Drama,40578
+tt1653929,2010,Free Spirit Award,,False,False,Robert Mitchum Is Dead,nm1282415,Olivier Babinet,Robert Mitchum Is Dead,2011.0,Drama,2888
+tt1612774,2010,Free Spirit Award,,False,False,Rubber,nm1189197,Quentin Dupieux,Rubber,2010.0,Comedy,236432
+tt1620604,2010,Free Spirit Award,,False,False,We Are What We Are,nm1664036,Jorge Michel Grau,We Are What We Are,2010.0,Drama,391581
+tt1417090,2010,Best Documentary,,True,True,Eye Above Prague,nm1100276,Olga Spátová,Eye Above Prague,2010.0,Others,67628
+tt1650404,2010,Best Documentary,,False,False,Draquila - L'Italia che trema,nm0350127,Sabina Guzzanti,Draquila - L'Italia che trema,2010.0,Others,2622759
+tt1152822,2010,Best Documentary,,False,False,Freakonomics,nm0418659,Eugene Jarecki,Freakonomics,2010.0,Others,261452
+tt1753789,2010,Competition 1-2 Award,,True,True,Erratum,nm1274194,Marek Lechki,Erratum,2010.0,Drama,231671
+tt1423593,2010,Competition 1-2 Award,,True,True,The Imperialists Are Still Alive!,nm1884759,Zeina Durra,The Imperialists Are Still Alive!,2010.0,Drama,13854
+tt1410272,2010,Competition 1-2 Award,,False,False,Before Your Eyes,nm3109814,Miraz Bezar,Before Your Eyes,2010.0,Drama,118682
+tt1666364,2010,Competition 1-2 Award,,False,False,HDSP: Hunting Down Small Predators,nm3460475,Cvetodar Markov,HDSP: Hunting Down Small Predators,2010.0,Drama,86640
+tt1590024,2010,Competition 1-2 Award,,False,False,"If I Want to Whistle, I Whistle",nm2758521,Florin Serban,"If I Want to Whistle, I Whistle",2010.0,Drama,285233
+tt1969991,2010,Competition 1-2 Award,,False,False,Lincz,nm1373326,Krzysztof Lukaszewicz,Lincz,2010.0,Drama,261389
+tt1555209,2010,Competition 1-2 Award,,False,False,Snap,nm1288939,Carmel Winters,Snap,2011.0,Drama,8252
+tt1415290,2010,Competition 1-2 Award,,False,False,Son of Babylon,nm1865534,Mohamed Al Daradji,Son of Babylon,2010.0,Drama,56587
+tt1529253,2010,Competition 1-2 Award,,False,False,The Pursuer,nm0190490,Víctor Cruz,The Pursuer,2010.0,Drama,5604
+tt1516593,2010,Competition 1-2 Award,,False,False,Tilva Rosh,nm3116547,Nikola Lezaic,Tilva Rosh,2011.0,Drama,22183
+tt1639426,2010,Competition 1-2 Award,,False,False,Udaan,nm0003939,Vikramaditya Motwane,Udaan,2010.0,Drama,17491
+tt1673702,2011,Audience Award,Children's Film,True,True,A Cat in Paris,nm0300944,Alain Gagnol,A Cat in Paris,2011.0,Others,2226350
+tt1753549,2011,Audience Award,Documentary,True,True,Buck,nm4137350,Cindy Meehl,Buck,2011.0,Others,9849104
+tt2043979,2011,Audience Award,Feature Film,True,True,Rose,nm1500530,Wojciech Smarzowski,Rose,2012.0,Drama,1280961
+tt1754392,2011,Audience Award,Feature Film,False,False,Rabat,nm2165987,Jim Taihuttu,Rabat,2011.0,Drama,617879
+tt1714834,2011,Grand Prix,,False,False,23-F: la película,nm0679154,Chema de la Peña,23-F: la película,2011.0,Others,555289
+tt1853614,2011,Grand Prix,,False,False,A Letter to Momo,nm0645657,Hiroyuki Okiura,A Letter to Momo,2011.0,Others,7697809
+tt1374985,2011,Grand Prix,,False,False,Alois Nebel,nm0526819,Tomás Lunák,Alois Nebel,2013.0,Others,731076
+tt1837508,2011,Grand Prix,,False,True,Another Silence,nm0024887,Santiago Amigorena,Another Silence,2011.0,Drama,5092
+tt2062714,2011,Grand Prix,,False,True,Courage,nm1325852,Greg Zglinski,Courage,2011.0,Others,285765
+tt1642261,2011,Grand Prix,,False,False,Lena,nm0739755,Christophe Van Rompaey,Lena,2012.0,Drama,30980
+tt1978447,2011,Grand Prix,,False,False,Policeman,nm2028715,Nadav Lapid,Policeman,2011.0,Drama,55897
+tt1821502,2011,Grand Prix,,False,False,The Reasons of the Heart,nm0728149,Arturo Ripstein,The Reasons of the Heart,2011.0,Drama,59896
+tt1740018,2011,Free Spirit Award,,True,True,Pompeya,nm1194585,Tamae Garateguy,Pompeya,2012.0,Others,7347
+tt1753670,2011,Free Spirit Award,,False,False,Clubbing,nm4138471,Rosendo Ruíz,Clubbing,2011.0,Others,114701
+tt1900891,2011,Free Spirit Award,,False,False,Haunters,nm3029976,Min-suk Kim,Haunters,2010.0,Others,15701596
+tt1826583,2011,Best Documentary,,True,True,A Bitter Taste of Freedom,nm0325960,Marina Goldovskaya,A Bitter Taste of Freedom,2011.0,Others,6690
+tt1409772,2011,Best Documentary,,False,False,A Man's Story,nm2300852,Varon Bonicos,A Man's Story,2012.0,Others,16219
+tt1433099,2011,Best Documentary,,False,False,Dancing Across Borders,nm3426032,Anne Bass,Dancing Across Borders,2010.0,Others,155387
+tt1743720,2011,Best Documentary,,False,False,The Greatest Movie Ever Sold,nm1041597,Morgan Spurlock,The Greatest Movie Ever Sold,2011.0,Comedy,1551143
+tt1833647,2011,FIPRESCI Prize,,True,True,Avé,nm1965972,Konstantin Bojanov,Avé,2011.0,Drama,34317
+tt1680679,2011,Competition 1-2 Award,,False,False,Breathing,nm0548686,Karl Markovics,Breathing,2012.0,Drama,900784
+tt1890373,2011,Competition 1-2 Award,,False,False,Combat Girls,nm1177494,David Wnendt,Combat Girls,2012.0,Drama,793795
+tt1860262,2011,Competition 1-2 Award,,False,False,La sombra del sol,nm1230148,David Blanco,La sombra del sol,2011.0,Others,1792
+tt1621426,2011,Competition 1-2 Award,,False,False,Natural Selection,nm0681852,Robbie Pickering,Natural Selection,2012.0,Comedy,123170
+tt1774531,2011,Competition 1-2 Award,,False,False,Porfirio,nm1622258,Alejandro Landes,Porfirio,2012.0,Comedy,3760
+tt1753866,2011,Competition 1-2 Award,,False,False,Toll Booth,nm3796645,Tolga Karaçelik,Toll Booth,2012.0,Drama,117050
+tt1611876,2012,Audience Award,Children's Film,True,True,Knerten i knipe,nm0648433,Arild Østin Ommundsen,Knerten i knipe,2011.0,Others,1257038
+tt1974254,2012,Audience Award,Documentary,True,True,Far Out Isn't Far Enough: The Tomi Ungerer Story,nm2034166,Brad Bernstein,Far Out Isn't Far Enough: The Tomi Ungerer Story,2013.0,Others,78024
+tt2370034,2012,Grand Prix,,True,False,Tango libre,nm0285090,Frédéric Fonteyne,Tango libre,2012.0,Drama,679745
+tt2287661,2012,Grand Prix,,False,False,Blondie,nm2376562,Jesper Ganslandt,Blondie,2013.0,Drama,285898
+tt2473746,2012,Grand Prix,,False,False,I'll Be Around,nm1253078,Pavel Ruminov,I'll Be Around,2012.0,Drama,37007
+tt2235164,2012,Grand Prix,,False,False,Lullaby Ride,nm0770257,Christoph Schaub,Lullaby Ride,2012.0,Drama,32462
+tt1845846,2012,Grand Prix,,False,True,Operación E,nm0183984,Miguel Courtois,Operación E,2012.0,Drama,964369
+tt2209180,2012,Grand Prix,,False,False,Poka noch ne razluchit,nm1402557,Boris Khlebnikov,Poka noch ne razluchit,2012.0,Comedy,247576
+tt2066986,2012,Grand Prix,,False,False,The Confidant,nm0638434,Juraj Nvota,The Confidant,2012.0,Comedy,165754
+tt1890391,2012,Grand Prix,,False,False,The Dead Man and Being Happy,nm1503559,Javier Rebollo,The Dead Man and Being Happy,2012.0,Comedy,37095
+tt1854513,2012,Free Spirit Award,,False,False,Blancanieves,nm0074311,Pablo Berger,Blancanieves,2012.0,Drama,3165399
+tt1568812,2012,Free Spirit Award,,False,False,Diablo,nm0520875,Nicanor Loreti,Diablo,2012.0,Others,47349
+tt2008562,2012,Free Spirit Award,,False,False,Le grand soir,nm0218022,Benoît Delépine,Le grand soir,2013.0,Comedy,2980530
+tt1723807,2012,Free Spirit Award,,False,False,Practical Guide to Belgrade with Singing and Crying,nm1423161,Bojan Vuletic,Practical Guide to Belgrade with Singing and Crying,2011.0,Comedy,6375
+tt2444006,2012,Best Documentary,,True,True,Fuck for Forest,nm2777808,Michal Marczak,Fuck for Forest,2013.0,Others,11789
+tt2359085,2012,Best Documentary,,False,False,Hitler's Children,nm0954028,Chanoch Ze'evi,Hitler's Children,2012.0,Others,63331
+tt2294729,2012,Best Documentary,,False,False,Mansome,nm1041597,Morgan Spurlock,Mansome,2012.0,Others,80590
+tt2117946,2012,Best Documentary,,False,False,Ping Pong,nm2014847,Hugh Hartford,Ping Pong,2012.0,Others,59273
+tt2403001,2012,Best Documentary,,False,False,Stoichkov,nm0464053,Borislav Kolev,Stoichkov,2012.0,Others,78687
+tt2499834,2012,Best Documentary,,False,False,The Greatest Wish 3,nm1100276,Olga Spátová,The Greatest Wish 3,2012.0,Others,4776
+tt1966604,2012,Best Documentary,,False,False,The Imposter,nm1717925,Bart Layton,The Imposter,2012.0,Others,3266822
+tt2125666,2012,Best Documentary,,False,False,The Queen of Versailles,nm1132362,Lauren Greenfield,The Queen of Versailles,2012.0,Others,5521799
+tt2113090,2012,Best Documentary,,False,False,This Ain't California,nm4775043,Marten Persiel,This Ain't California,2013.0,Others,132002
+tt2416822,2012,FIPRESCI Prize,,True,True,The Daughter,nm2354607,Aleksandr Kasatkin,The Daughter,2013.0,Drama,37849
+tt1741246,2012,Competition 1-2 Award,,False,False,Flower Buds,nm0423177,Zdenek Jiráský,Flower Buds,2011.0,Drama,52574
+tt2099788,2012,Competition 1-2 Award,,False,False,Welcome to Pine Hill,nm2142624,Keith Miller,Welcome to Pine Hill,2013.0,Drama,13426
+tt2393787,2012,Competition 1-2 Award,,False,False,Women's Day,nm2895884,Maria Sadowska,Women's Day,2013.0,Drama,241407
+tt2137594,2012,Competition 1-2 Award,,False,False,Yabanci,nm2418460,Filiz Alpgezmen,Yabanci,2013.0,Drama,61144
+tt2991224,2013,Audience Award,Feature Film,True,True,Tangerines,nm0882203,Zaza Urushadze,Tangerines,2015.0,Drama,1262227
+tt2718492,2013,Grand Prix,,True,True,Ida,nm0667734,Pawel Pawlikowski,Ida,2013.0,Drama,16372301
+tt2418372,2013,Grand Prix,,False,False,Abuse of Weakness,nm0106924,Catherine Breillat,Abuse of Weakness,2013.0,Drama,222420
+tt2405182,2013,Grand Prix,,False,False,Concrete Night,nm0393345,Pirjo Honkasalo,Concrete Night,2014.0,Drama,47950
+tt3074328,2013,Grand Prix,,False,False,In Hiding,nm0452221,Jan Kidawa-Blonski,In Hiding,2013.0,Drama,143296
+tt3214108,2013,Grand Prix,,False,False,Paradise for the Damned,nm1210360,Alejandro Montiel,Paradise for the Damned,2013.0,Drama,80144
+tt2924336,2013,Grand Prix,,False,True,The Gambler,nm2061225,Ignas Jonynas,The Gambler,2015.0,Drama,484310
+tt2737310,2013,Free Spirit Award,,False,False,Mistaken for Strangers,nm2120645,Tom Berninger,Mistaken for Strangers,2014.0,Comedy,424241
+tt2395395,2013,Free Spirit Award,,False,False,Trolling,nm1287094,Kosta Djordjevic,Trolling,2013.0,Comedy,40738
+tt2532528,2013,Best Documentary,,True,True,Dirty Wars,nm0746823,Rick Rowley,Dirty Wars,2013.0,Others,889253
+tt2599898,2013,Best Documentary,,False,False,My Stuff,nm5442742,Petri Luukkainen,My Stuff,2013.0,Comedy,8735
+tt2732932,2013,Best Documentary,,False,False,The Kill Team,nm1830532,Dan Krauss,The Kill Team,2013.0,Others,41724
+tt2388819,2013,FIPRESCI Prize,,True,True,Yozgat Blues,nm3312722,Mahmut Fazil Coskun,Yozgat Blues,2013.0,Comedy,53584
+tt2466684,2013,Competition 1-2 Award,,False,False,Heavenly Shift,nm2724080,Márk Bodzsár,Heavenly Shift,2013.0,Comedy,68430
+tt2304426,2013,Competition 1-2 Award,,False,False,The Selfish Giant,nm1163237,Clio Barnard,The Selfish Giant,2013.0,Drama,1232315
+tt2664258,2013,Competition 1-2 Award,,False,False,Ummah - Unter Freunden,nm2677390,Cüneyt Kaya,Ummah - Unter Freunden,2013.0,Comedy,121349
+tt3416742,2014,Audience Award,Feature Film,True,True,What We Do in the Shadows,nm1318596,Jemaine Clement,What We Do in the Shadows,2015.0,Comedy,10595971
+tt4078856,2014,Grand Prix,,True,True,Deep in the Heart,nm6810894,Yukun Xin,Deep in the Heart,2015.0,Drama,741481
+tt2823088,2014,Grand Prix,,False,True,Carmina y amén.,nm1346713,Paco León,Carmina y amén.,2014.0,Comedy,3020027
+tt3685218,2014,Grand Prix,,False,False,Félix & Meira,nm2113645,Maxime Giroux,Félix & Meira,2015.0,Drama,1019676
+tt2534660,2014,Grand Prix,,False,True,In the Crosswind,nm3761088,Martti Helde,In the Crosswind,2015.0,Drama,22639
+tt3924450,2014,Grand Prix,,False,False,Star,nm1346885,Anna Melikyan,Star,2014.0,Comedy,56639
+tt3854234,2014,Grand Prix,,False,False,"The Boss, Anatomy of a Crime",nm0994416,Sebastián Schindel,"The Boss, Anatomy of a Crime",2014.0,Others,109
+tt3037582,2014,Grand Prix,,False,False,The Guide,nm0762781,Oles Sanin,The Guide,2014.0,Drama,980400
+tt2199436,2014,Grand Prix,,False,False,The Judgment,nm0464526,Stephan Komandarev,The Judgment,2014.0,Drama,10700
+tt3413772,2014,Grand Prix,,False,False,Unlucky Plaza,nm1828375,Ken Kwek,Unlucky Plaza,2016.0,Comedy,50407
+tt3060492,2014,Free Spirit Award,,False,True,Before I Disappear,nm0159900,Shawn Christensen,Before I Disappear,2014.0,Drama,21811
+tt1179031,2014,Free Spirit Award,,False,False,Cold in July,nm0585344,Jim Mickle,Cold in July,2014.0,Others,2157695
+tt2992894,2014,Free Spirit Award,,False,False,Halfway,nm0258172,Geoffrey Enthoven,Halfway,2015.0,Comedy,699106
+tt3646462,2014,Free Spirit Award,,False,False,Let's Sin,nm1729447,Onur Ünlü,Let's Sin,2014.0,Others,739984
+tt3422606,2014,Free Spirit Award,,False,False,Tada's Do-It-All House: Disconcerto,nm0959994,Tatsushi Ohmori,Tada's Do-It-All House: Disconcerto,2014.0,Comedy,2193488
+tt3958072,2014,Competition 1-2 Award,,True,True,The Lesson,nm1571492,Kristina Grozeva,The Lesson,2015.0,Drama,80769
+tt3263718,2014,Competition 1-2 Award,,False,False,Across the Sea,nm4047337,Nisan Dag,Across the Sea,2015.0,Comedy,15884
+tt3657970,2014,Competition 1-2 Award,,False,False,Modris,nm3302367,Juris Kursietis,Modris,2014.0,Drama,59722
+tt1745787,2014,Competition 1-2 Award,,False,False,The Tribe,nm2990632,Myroslav Slaboshpytskyi,The Tribe,2014.0,Others,392502
+tt3636528,2014,Competition 1-2 Award,,False,False,Vincent,nm1167415,Thomas Salvador,Vincent,2015.0,Comedy,3893
+tt3170832,2015,Audience Award,Feature Film,True,True,Room,nm1049433,Lenny Abrahamson,Room,2016.0,Drama,54017852
+tt3430416,2015,Grand Prix,,False,False,Schneider vs. Bax,nm0912334,Alex van Warmerdam,Schneider vs. Bax,2015.0,Comedy,299409
+tt3986926,2015,Free Spirit Award,Free Spirit Award,False,False,Ve Panayir Köyden Gider,nm5534592,Mete Sozer,Ve Panayir Köyden Gider,2016.0,Drama,12924
+tt4935954,2015,Best Documentary,,True,True,A Flickering Truth,nm2027586,Pietra Brettkelly,A Flickering Truth,2017.0,Others,6290
+tt4886070,2015,FIPRESCI Prize,,True,True,Ana Yurdu,nm4127109,Senem Tüzen,Ana Yurdu,2016.0,Drama,15801
+tt3823018,2015,Competition 1-2 Award,Best Film,True,True,Sparrows,nm1242172,Rúnar Rúnarsson,Sparrows,2015.0,Drama,135559
+tt4949088,2015,Competition 1-2 Award,Best Film,False,False,Thirst,nm0875159,Svetla Tsotsorkova,Thirst,2016.0,Drama,14768
+tt2321405,2016,Audience Award,Feature Film,True,True,My Life as a Zucchini,nm1957706,Claude Barras,My Life as a Zucchini,2017.0,Others,6486204
+tt4621872,2016,Audience Award,Feature Film,False,False,Like Crazy,nm0899501,Paolo Virzì,Like Crazy,2016.0,Comedy,9658821
+tt2948166,2016,Audience Award,Feature Film,False,False,Train Driver's Diary,nm0705832,Milos Radovic,Train Driver's Diary,2017.0,Comedy,7905
+tt4613254,2016,Special Mention,International Competition,True,True,Heartstone,nm7912947,Baldur Einarsson,Heartstone,2016.0,Drama,382565
+tt5451054,2016,FIPRESCI Prize,,True,True,Godless,nm2432218,Ralitza Petrova,Godless,2016.0,Drama,7160
+tt5050876,2017,Audience Award,Feature Film,True,True,Måste gitt,,[],Måste gitt,2017.0,Comedy,15185
+tt5504810,2017,Grand Prix,International Competition,False,False,If You Saw His Heart,nm2880164,Joan Chemla,If You Saw His Heart,2018.0,Others,3814
+tt7523046,2017,Grand Prix,International Competition,False,False,Sella Turcica,nm0713689,Yusup Razykov,Sella Turcica,2017.0,Drama,4944
+tt7466370,2017,Grand Prix,International Competition,False,False,Sideway,nm0685333,Tayfun Pirselimoglu,Sideway,2018.0,Drama,6973
+tt4828492,2017,Grand Prix,International Competition,False,False,The Anniversary,nm0158305,Dan Chisu,The Anniversary,2017.0,Drama,3746
+tt6213994,2017,Grand Prix,International Competition,False,False,The Miner,nm0805238,Hanna Antonina Wojcik Slak,The Miner,2018.0,Others,10456
+tt6275296,2017,Free Spirit Award,Free Spirit Award,True,True,The Rules for Everything,nm0386117,Kim Hiorthøy,The Rules for Everything,2017.0,Comedy,69788
+tt4432006,2017,Free Spirit Award,Free Spirit Award,False,False,Hannah,nm1761524,Andrea Pallaoro,Hannah,2018.0,Drama,161820
+tt7532202,2017,Free Spirit Award,Free Spirit Award,False,False,Highway 318,nm9356617,Yunxing Nie,Highway 318,2017.0,Drama,96700
+tt3859310,2017,Free Spirit Award,Free Spirit Award,False,False,How to Talk to Girls at Parties,nm0593463,John Cameron Mitchell,How to Talk to Girls at Parties,2018.0,Comedy,477948
+tt5827212,2017,Free Spirit Award,Free Spirit Award,False,False,Let the Corpses Tan,nm1729104,Bruno Forzani,Let the Corpses Tan,2018.0,Others,189131
+tt4079554,2017,Free Spirit Award,Free Spirit Award,False,False,Ojalá vivas tiempos interesantes,nm1875853,Santiago Van Dam,Ojalá vivas tiempos interesantes,2017.0,Drama,3359
+tt6760956,2017,Free Spirit Award,Free Spirit Award,False,False,Pecking Order,nm5409199,Slavko Martinov,Pecking Order,2017.0,Others,411987
+tt7495440,2017,Best Documentary,,True,True,Wonderful Losers: A Different World,nm1644484,Arunas Matelis,Wonderful Losers: A Different World,2018.0,Others,125636
+tt5668850,2017,Competition 1-2 Award,Best Film,True,True,The Charmer,nm3613729,Milad Alami,The Charmer,2018.0,Drama,134822
+tt6286796,2017,Competition 1-2 Award,Best Film,False,False,A Horrible Woman,nm0846369,Christian Tafdrup,A Horrible Woman,2017.0,Drama,1044
+tt7060750,2017,Competition 1-2 Award,Best Film,False,False,Daybreak,nm5254577,Gentian Koçi,Daybreak,2017.0,Drama,447
+tt6597612,2017,Competition 1-2 Award,Best Film,False,False,Júlia ist,nm4805115,Elena Martín,Júlia ist,2017.0,Drama,45936
+tt4659914,2017,Competition 1-2 Award,Best Film,False,False,Keyla,nm4900752,Viviana Gómez Echeverry,Keyla,2017.0,Others,17287
+tt7272242,2017,Competition 1-2 Award,Best Film,False,False,Killing Jesus,nm2005384,Laura Mora Ortega,Killing Jesus,2017.0,Drama,100402
+tt6653174,2017,Competition 1-2 Award,Best Film,False,False,Little White Lie,nm5640848,Tomas Alzamora,Little White Lie,2017.0,Comedy,77
+tt8137722,2018,Audience Award,Feature Film,False,True,Her Job,nm2614658,Nikos Labôt,Her Job,2019.0,Drama,16875
+tt6785134,2018,Grand Prix,International Competition,False,False,Moon Hotel Kabul,nm0198746,Anca Damian,Moon Hotel Kabul,2018.0,Drama,2612
+tt7220754,2018,Free Spirit Award,Free Spirit Award,True,True,Heavy Trip,nm4788566,Juuso Laatio,Heavy Trip,2018.0,Comedy,33396
+tt6522668,2018,Free Spirit Award,Free Spirit Award,False,False,Diamantino,nm4085019,Gabriel Abrantes,Diamantino,2019.0,Comedy,288621
+tt9272138,2018,Free Spirit Award,Free Spirit Award,False,False,Out of Crimes,nm10255953,Peter Zuo,Out of Crimes,2019.0,Others,22337
+tt9135772,2018,Competition 1-2 Award,Best Film,False,False,Thou Shalt Not Kill,,[],Thou Shalt Not Kill,2019.0,Drama,18013
+tt6190456,2018,Competition 1-2 Award,Best Film,False,False,X.,nm1902132,Károly Ujj Mészáros,X - The eXploited,2018.0,Others,185405
+tt8327492,2018,Out of Competition,Family,False,False,Tito and the Birds,nm0825756,Gustavo Steinberg,Tito and the Birds,2018.0,Others,8755

@@ -1,0 +1,73 @@
+tconst,Year,awardName,categoryName,isWinner,otherAwards,primaryNominees,nconst,secondaryNominees,Name,releaseYear,Genre1,AdjustedTotalGross
+tt0343422,1980,Golden Montgolfiere,,False,True,On Fertile Lands,nm0456080,Erden Kiral,On Fertile Lands,2008.0,Drama,18329
+tt0087763,1983,Golden Montgolfiere,,False,False,My Brother's Wedding,nm0122344,Charles Burnett,My Brother's Wedding,1985.0,Drama,82606
+tt0092558,1987,Golden Montgolfiere,,True,True,Motherland Hotel,nm0442693,Ömer Kavur,Motherland Hotel,1987.0,Others,27394
+tt0101258,1991,Golden Montgolfiere,,False,True,Days of Being Wild,nm0939182,Kar-Wai Wong,Days of Being Wild,1991.0,Others,6148674
+tt0104774,1992,Golden Montgolfiere,,False,True,A Place in the World,nm0034899,Adolfo Aristarain,A Place in the World,1994.0,Drama,348562
+tt0103935,1993,Golden Montgolfiere,,False,True,Rebels of the Neon God,nm0158857,Ming-liang Tsai,Rebels of the Neon God,1993.0,Others,100994
+tt0115486,1996,Golden Montgolfiere,,False,False,Ah-chung,nm0151844,Tso-chi Chang,Zhong zi,1997.0,Drama,86
+tt0109688,1996,Golden Montgolfiere,,False,False,Ashes of Time,nm0939182,Kar-Wai Wong,Ashes of Time,1995.0,Others,3496840
+tt0165078,1998,Golden Montgolfiere,,True,False,After Life,nm0466153,Hirokazu Koreeda,After Life,1999.0,Drama,2466253
+tt0162050,1998,Golden Montgolfiere,,False,True,Yom Yom,nm0321159,Amos Gitai,Yom Yom,2001.0,Comedy,3549
+tt0179137,2000,Golden Montgolfiere,,False,False,Coronation,nm0129028,Silvio Caiozzi,Coronation,2000.0,Drama,19256
+tt0266705,2000,Golden Montgolfiere,,False,True,The Child and the Soldier,nm0591925,Reza Mirkarimi,The Child and the Soldier,2000.0,Drama,5761
+tt0260332,2000,Golden Montgolfiere,,False,True,The Day I Became a Woman,nm0581863,Marzieh Makhmalbaf,The Day I Became a Woman,2000.0,Comedy,440514
+tt0293082,2001,Golden Montgolfiere,,True,False,Delbaran,nm0416119,Abolfazl Jalili,Delbaran,2002.0,Drama,37197
+tt0291507,2001,Golden Montgolfiere,,False,False,A Cab for Three,nm0530668,Orlando Lübbert,A Cab for Three,2001.0,Others,45185
+tt0313211,2001,Golden Montgolfiere,,False,True,The Wind Horse,nm0031866,Daoud Aoulad-Syad,The Wind Horse,2002.0,Drama,11721
+tt0321177,2002,Golden Montgolfiere,,True,False,Altyn Kyrghol,nm0765700,Marat Sarulu,Altyn Kyrghol,2003.0,Others,22643
+tt0349204,2002,Golden Montgolfiere,,False,True,Brave 20,nm0910992,Ming-Tai Wang,Brave 20,2002.0,Drama,9536
+tt0291988,2002,Golden Montgolfiere,,False,True,Intimate Stories,nm0815044,Carlos Sorin,Intimate Stories,2003.0,Comedy,600121
+tt0314871,2002,Golden Montgolfiere,,False,False,Washington Heights,nm0212137,Alfredo Rodriguez de Villa,Washington Heights,2002.0,Drama,455640
+tt0324158,2002,ARTE Award,,True,True,Suddenly,nm1195308,Diego Lerman,Suddenly,2003.0,Comedy,276842
+tt0402087,2003,Golden Montgolfiere,Best Documentary,False,False,Pulque Song,nm1385225,Everardo González,Pulque Song,2003.0,Others,2832
+tt0318988,2003,Golden Montgolfiere,Best Film,False,False,Ana and the Others,nm0613851,Celina Murga,Ana and the Others,2004.0,Drama,23391
+tt0377556,2003,Golden Montgolfiere,Best Film,False,True,"Goodbye, Dragon Inn",nm0158857,Ming-liang Tsai,"Goodbye, Dragon Inn",2003.0,Comedy,1470800
+tt0357283,2003,Golden Montgolfiere,Best Film,False,True,Silent Waters,nm0838526,Sabiha Sumar,Silent Waters,2004.0,Drama,19769
+tt0347131,2003,Golden Montgolfiere,Best Film,False,False,The Magic Gloves,nm0718736,Martín Rejtman,The Magic Gloves,2003.0,Comedy,46593
+tt0420548,2004,Golden Montgolfiere,Best Film,False,True,Bombón: El Perro,nm0815044,Carlos Sorin,Bombón: El Perro,2005.0,Drama,1882178
+tt0469692,2005,Golden Montgolfiere,Best Film,False,True,A Perfect Day,nm0352858,Joana Hadjithomas,A Perfect Day,2006.0,Drama,6929
+tt0395461,2005,Golden Montgolfiere,Best Film,False,True,Bab'Aziz: The Prince That Contemplated His Soul,nm0451592,Nacer Khemir,Bab'Aziz - The Prince That Contemplated His Soul,2008.0,Drama,534521
+tt0410316,2005,Golden Montgolfiere,Best Film,False,False,Mi Mejor Enemigo,nm1048516,Alex Bowen,Mi Mejor Enemigo,2005.0,Comedy,8008
+tt0457436,2005,Golden Montgolfiere,Best Film,False,True,Play,nm1022157,Alicia Scherson,Play,2005.0,Drama,155122
+tt0490784,2005,Golden Montgolfiere,Best Film,False,True,Reflections,nm2118374,Hung-i Yao,Reflections,2007.0,Others,28299
+tt0445760,2005,Golden Montgolfiere,Best Film,False,True,The Wayward Cloud,nm0158857,Ming-liang Tsai,The Wayward Cloud,2005.0,Comedy,465625
+tt0922605,2006,Golden Montgolfiere,Best Documentary,False,False,Serras da desordem,nm0867104,Andrea Tonacci,Serras da desordem,2006.0,Others,20002
+tt0468816,2006,Golden Montgolfiere,Best Film,False,False,Born and Bred,nm0871086,Pablo Trapero,Born and Bred,2007.0,Drama,94544
+tt0922424,2006,Golden Montgolfiere,Best Film,False,False,Falafel,nm1159380,Michel Kammoun,Falafel,2007.0,Drama,48980
+tt0845439,2006,Golden Montgolfiere,Best Film,False,True,Fireworks Wednesday,nm1410815,Asghar Farhadi,Fireworks Wednesday,2016.0,Drama,225787
+tt0921811,2006,Golden Montgolfiere,Best Film,False,False,Gae oi neckdae sa yiyi chigan,nm0421817,Soo-il Jeon,Gae oi neckdae sa yiyi chigan,2011.0,Drama,4214
+tt0484039,2006,Golden Montgolfiere,Best Film,False,True,Glue,nm2063526,Alexis Dos Santos,Glue,2007.0,Drama,4279
+tt0797025,2006,Golden Montgolfiere,Best Film,False,True,Mientras tanto,nm1195308,Diego Lerman,Mientras tanto,2007.0,Drama,17396
+tt0844742,2006,Golden Montgolfiere,Best Film,False,True,Requiem from Java,nm0637838,Garin Nugroho,Requiem from Java,2008.0,Others,34415
+tt1018101,2007,Golden Montgolfiere,,False,True,Beyond the Years,nm0407990,Kwon-taek Im,Beyond the Years,2007.0,Drama,1189514
+tt0837786,2007,Golden Montgolfiere,,False,True,Bunny Chow: Know Thyself,nm2343919,John Barker,Bunny Chow: Know Thyself,2008.0,Comedy,4080
+tt1076251,2007,Golden Montgolfiere,,False,False,"Help Me, Eros",nm0497642,Kang-sheng Lee,"Help Me, Eros",2008.0,Drama,95966
+tt0474988,2007,Golden Montgolfiere,,False,False,Possible Lives,nm0346598,Sandra Gugliotta,Possible Lives,2008.0,Others,23983
+tt0990443,2007,Golden Montgolfiere,,False,False,Used Parts,nm1848095,Aarón Fernández Lesur,Used Parts,2008.0,Drama,145613
+tt1183942,2008,Golden Montgolfiere,,True,True,Parque vía,nm2737486,Enrique Rivero,Parque vía,2009.0,Drama,37729
+tt0978833,2008,Golden Montgolfiere,,False,False,A Week Alone,nm0613851,Celina Murga,A Week Alone,2009.0,Comedy,21192
+tt1135965,2008,Golden Montgolfiere,,False,False,"El cielo, la tierra, y la lluvia",nm1965378,José Luis Torres Leiva,"El cielo, la tierra, y la lluvia",2008.0,Drama,7816
+tt1284591,2008,Golden Montgolfiere,,False,False,Milk,nm0969427,Semih Kaplanoglu,Milk,2009.0,Drama,70759
+tt1087578,2008,Golden Montgolfiere,,False,True,Still Walking,nm0466153,Hirokazu Koreeda,Still Walking,2009.0,Drama,4266931
+tt1270631,2008,Golden Montgolfiere,,False,False,The Herb of the Rat,nm0107788,Júlio Bressane,The Herb of the Rat,2009.0,Drama,2460
+tt1570551,2009,Golden Montgolfiere,,True,False,Bandhobi,nm1014706,Dong-il Shin,Bandhobi,2009.0,Drama,46584
+tt1202514,2009,Golden Montgolfiere,,False,False,Accident,nm1110912,Soi Cheang,Accident,2010.0,Others,1433182
+tt1129405,2009,Golden Montgolfiere,,False,True,Blind Pig Who Wants to Fly,nm1637767,Edwin,Blind Pig Who Wants to Fly,2009.0,Drama,407
+tt0945550,2009,Golden Montgolfiere,,False,False,Don't Laugh at My Romance,nm1054907,Nami Iguchi,Don't Laugh at My Romance,2008.0,Comedy,10339
+tt1473149,2009,Golden Montgolfiere,,False,True,"Scheherazade, Tell Me a Story",nm0621915,Yusri Nasrullah,"Scheherazade, Tell Me a Story",2011.0,Drama,363250
+tt1143155,2009,Golden Montgolfiere,,False,False,Treeless Mountain,nm0811611,So Yong Kim,Treeless Mountain,2009.0,Drama,223131
+tt1714886,2010,Golden Montgolfiere,,False,False,Post Mortem,nm1883257,Pablo Larraín,Post Mortem,2012.0,Drama,293104
+tt1703914,2010,Golden Montgolfiere,,False,True,The Fourth Portrait,nm3010935,Mong-Hong Chung,The Fourth Portrait,2011.0,Drama,10418
+tt1978447,2011,Golden Montgolfiere,,False,True,Policeman,nm2028715,Nadav Lapid,Policeman,2011.0,Drama,55897
+tt2044009,2011,Golden Montgolfiere,,False,True,Swirl,nm2320629,Helvécio Marins Jr.,Swirl,2012.0,Drama,16005
+tt2190367,2012,Golden Montgolfiere,,False,False,Neighboring Sounds,nm2207625,Kleber Mendonça Filho,Neighboring Sounds,2012.0,Drama,585237
+tt2185431,2012,Golden Montgolfiere,,False,True,Nosilatiaj. La Belleza,nm2252464,Daniela Seggiaro,Nosilatiaj. La Belleza,2012.0,Drama,890
+tt2942512,2013,Golden Montgolfiere,,False,False,Our Sunhi,nm0393254,Sang-soo Hong,Our Sunhi,2013.0,Comedy,305399
+tt3675906,2014,Golden Montgolfiere,,False,False,Gyeongju,nm2209378,Lu Zhang,Gyeongju,2014.0,Drama,308938
+tt3982854,2014,Golden Montgolfiere,,False,True,Song of My Mother,nm3646119,Erol Mintas,Song of My Mother,2015.0,Drama,11075
+tt4613272,2015,Golden Montgolfiere,,True,False,Kaili Blues,nm7267981,Gan Bi,Kaili Blues,2016.0,Drama,1038151
+tt4780662,2015,Golden Montgolfiere,,False,True,Happy Hour,nm3152327,Ryûsuke Hamaguchi,Happy Hour,2015.0,Drama,497042
+tt4899406,2015,Golden Montgolfiere,,False,True,Neon Bull,nm3486709,Gabriel Mascaro,Neon Bull,2015.0,Drama,214841
+tt4471428,2015,Golden Montgolfiere,,False,False,"Thanatos, Drunk",nm0151844,Tso-chi Chang,"Thanatos, Drunk",2015.0,Drama,18407
+tt7205208,2017,Golden Montgolfiere,Best Film,False,True,Angels Wear White,nm2735954,Vivian Qu,Angels Wear White,2018.0,Drama,3428371

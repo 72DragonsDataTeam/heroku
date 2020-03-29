@@ -1,0 +1,61 @@
+tconst,Year,awardName,categoryName,isWinner,otherAwards,primaryNominees,nconst,secondaryNominees,Name,releaseYear,Genre1,AdjustedTotalGross
+tt0077869,1980,Golden Gryphon,,True,False,The Lord of the Rings,nm0000835,Ralph Bakshi,The Lord of the Rings,1978.0,Others,231065591
+tt0092655,1988,Golden Gryphon,,True,False,Big Shots,nm0541677,Robert Mandel,Big Shots,1987.0,Others,15027210
+tt0119670,1998,Silver Gryphon,,True,True,The Mighty,nm0155093,Peter Chelsom,The Mighty,1998.0,Comedy,8265562
+tt0125454,1998,Bronze Gryphon,Early Screens,True,True,Paulie,nm0731253,John Roberts,Paulie,1998.0,Others,84528258
+tt0148103,1999,Golden Gryphon,Rear Window Section,True,False,Set Me Free,nm0690794,Léa Pool,Set Me Free,1999.0,Drama,225015
+tt0156812,2000,Silver Gryphon,Free to Fly Section,True,True,My Dog Skip,nm0751221,Jay Russell,My Dog Skip,2000.0,Comedy,104014009
+tt0214959,2000,Special Mention,Free to Fly Section,True,True,Le monde de Marty,nm0054266,Denis Bardiau,Le monde de Marty,2000.0,Drama,91202
+tt0246875,2000,Special Mention,Free to Fly Section,True,True,Purely Belter,nm0379179,Mark Herman,Purely Belter,2000.0,Comedy,155200
+tt0173910,2000,Special Mention,Free to Fly Section,True,True,Running Free,nm0091076,Sergei Bodrov,Running Free,2000.0,Others,348659
+tt0191043,2000,Special Mention,Free to Fly Section,True,True,The Color of Paradise,nm0006498,Majid Majidi,The Color of Paradise,1999.0,Drama,6993351
+tt0260688,2001,Bronze Gryphon,Free to Fly Section,True,True,Ali Zaoua: Prince of the Streets,nm0043953,Nabil Ayouch,Ali Zaoua: Prince of the Streets,2001.0,Others,9515
+tt0266078,2001,Bronze Gryphon,Free to Fly Section,True,True,Yolngu Boy,nm0426263,Stephen Johnson,Yolngu Boy,2001.0,Others,93282
+tt0248628,2001,Award of the President of the Italian Republic,,True,True,Alaska.de,nm0343094,Esther Gronenborn,Alaska.de,2001.0,Drama,41496
+tt0286516,2002,CONAI Award,,True,True,Respiro,nm0187740,Emanuele Crialese,Respiro,2002.0,Drama,11854880
+tt0281358,2002,Artistic Director's Award,,True,True,A Walk to Remember,nm0788202,Adam Shankman,A Walk to Remember,2002.0,Drama,128100120
+tt0334725,2003,Golden Gryphon,Free to Fly Section,True,False,Wondrous Oblivion,nm0607422,Paul Morrison,Wondrous Oblivion,2004.0,Comedy,1973766
+tt0319917,2004,Golden Gryphon,Free to Fly Section,True,False,Planta 4ª,nm0580318,Antonio Mercero,Planta 4ª,2004.0,Comedy,8205301
+tt0376990,2004,Golden Gryphon,Kidz Section,True,False,"Die Wilden Kerle: Alles ist gut, solange du wild bist!",nm0556076,Joachim Masannek,"Die Wilden Kerle: Alles ist gut, solange du wild bist!",2003.0,Others,6974576
+tt0380485,2004,Golden Gryphon,Y Generation Section,True,False,Bonjour Monsieur Shlomi,nm0953468,Shemi Zarhin,Bonjour Monsieur Shlomi,2004.0,Comedy,289859
+tt4392438,2004,Young People's Jury Award,Best Film - Free to Fly Section,False,False,La passion d'Augustine,nm0690794,Léa Pool,La passion d'Augustine,2015.0,Drama,143921
+tt0382095,2005,Award of the President of the Italian Republic,,False,False,In Orange,nm0003400,Joram Lürsen,In Orange,2004.0,Drama,1784615
+tt0367960,2006,Young People's Jury Award,Dare to Dream Category,True,True,The Legend of Johnny Lingo,nm0708385,Steven Ramirez,The Legend of Johnny Lingo,2003.0,Others,4681171
+tt0882771,2007,Golden Gryphon,Best Feature Film (Miglior Lungometraggio),True,False,Kidz in da Hood,nm2424784,Ylva Gustavsson,Kidz in da Hood,2006.0,Comedy,1141176
+tt0871864,2007,Young People's Jury Award,Best Film - Free to Fly Section,False,True,Leaps and Bounds,nm0639033,Petter Næss,Leaps and Bounds,2007.0,Drama,35115
+tt0858486,2008,Silver Gryphon,First Feature Competition,True,True,Battle for Terra,nm0875056,Aristomenis Tsirbas,Battle for Terra,2009.0,Others,9371453
+tt1043749,2008,ARCA Enel Award,,True,True,Everything Is Fine,nm1141369,Yves Christian Fournier,Everything Is Fine,2009.0,Drama,859232
+tt0465436,2008,CGS Award,Best Film,True,True,December Boys,nm0362738,Rod Hardy,December Boys,2007.0,Drama,1503079
+tt0492896,2009,Golden Gryphon,Best Film,True,True,Archie's Final Project,nm0588206,David Lee Miller,Archie's Final Project,2011.0,Comedy,38929
+tt1135964,2009,Golden Gryphon,Best Film,True,True,Carlitos and the Chance of a Lifetime,nm1028575,Jesús del Cerro,Carlitos and the Chance of a Lifetime,2010.0,Comedy,2434220
+tt1119123,2009,Golden Gryphon,GENERATOR +13 Section,True,False,Accidents Happen,nm0484108,Andrew Lancaster,Accidents Happen,2009.0,Comedy,44169
+tt0964586,2009,Aluminium Gryphon CIAL Award,Generator +16,True,True,Skin,nm0003745,Anthony Fabian,Skin,2008.0,Others,422594
+tt1533013,2011,Golden Gryphon,Best Film,True,False,Beautiful Boy,nm0473329,Shawn Ku,Beautiful Boy,2011.0,Drama,246985
+tt1440292,2011,Golden Gryphon,Best Film,True,False,Submarine,nm1547964,Richard Ayoade,Submarine,2011.0,Comedy,1545963
+tt1808454,2011,Golden Gryphon,Generator +16,True,True,Suicide Room,nm1717924,Jan Komasa,Suicide Room,2012.0,Others,2616457
+tt1710625,2011,CGS Award,Best Film,True,True,Wunderkinder,nm0742659,Marcus O. Rosenmüller,Wunderkinder,2011.0,Drama,177605
+tt1931421,2012,Golden Gryphon,Kidz Section,False,False,Dolfje Weerwolfje,nm0003400,Joram Lürsen,Dolfje Weerwolfje,2012.0,Drama,2535083
+tt2403851,2013,Golden Gryphon,ELEMENTS +10 Section,True,True,Mike Says Goodbye!,nm0676577,Maria Peters,Mike Says Goodbye!,2013.0,Others,2243337
+tt2472432,2013,Golden Gryphon,GENERATOR +13 Section,True,False,Regret!,nm0775090,Dave Schram,Regret!,2013.0,Drama,4368666
+tt2042583,2013,Golden Gryphon,Generator +16,True,True,The Golden Dream,nm0004033,Diego Quemada-Díez,The Golden Dream,2013.0,Drama,1117430
+tt2323264,2013,Golden Gryphon,Generator +16,False,False,The Deflowering of Eva van End,nm2146887,Michiel ten Horn,The Deflowering of Eva van End,2013.0,Drama,7947
+tt1951099,2013,ANEC Gold Medal,10+,True,True,Clara and the Secret of the Bears,nm0408583,Tobias Ineichen,Clara and the Secret of the Bears,2013.0,Others,17738
+tt3243554,2014,Golden Gryphon,Generator +18,False,False,Four Corners,nm1461381,Ian Gabriel,Four Corners,2014.0,Others,39072
+tt2825854,2015,Golden Gryphon,ELEMENTS +10 Section,True,False,Labyrinthus,nm0098336,Douglas Boswell,Labyrinthus,2014.0,Others,320238
+tt3678656,2015,Golden Gryphon,GENERATOR +13 Section,False,False,You're Ugly Too,nm3254164,Mark Noonan,You're Ugly Too,2015.0,Comedy,94953
+tt3711622,2015,Golden Gryphon,Kidz Section,False,False,Ghosthunters: On Icy Trails,nm1095164,Tobi Baumann,Ghosthunters: On Icy Trails,2015.0,Others,2265776
+tt2184335,2016,Golden Gryphon,Generator +18,True,False,Urban Hymn,nm0001994,Michael Caton-Jones,Urban Hymn,2017.0,Others,1164
+tt4909982,2016,Golden Gryphon,Generator +18,False,False,Losers,nm0160666,Ivaylo Hristov,Losers,2016.0,Drama,107771
+tt2420876,2016,Silver Gryphon,Best Film - Generation 18+,True,True,Chicken,nm3087240,Joe Stephenson,Chicken,2015.0,Drama,11187
+tt4250566,2016,CGS Award,Best Film,True,True,Fog in August,nm0921810,Kai Wessel,Fog in August,2016.0,Drama,77158
+tt5341008,2016,Giffoni Award,Best Film,False,False,Blue Bicycle,nm7850791,Ümit Köreken,Blue Bicycle,2016.0,Drama,11693
+tt3319018,2016,Gryphon Award for Generator +16,Best Film,False,False,My Name Is Emily,nm1729102,Simon Fitzmaurice,My Name Is Emily,2017.0,Drama,14872
+tt5528996,2017,Golden Gryphon,Best Film International 6+,True,False,MeesterSpion,nm0903409,Paul Voorthuysen,MeesterSpion,2016.0,Others,775761
+tt5335682,2017,Golden Gryphon,ELEMENTS +10 Section,True,False,Rum 213,nm2551392,Emelie Lindblom,Rum 213,2018.0,Others,29036
+tt5420886,2017,CGS Award,Generator +13,True,True,Walking Out,nm0807243,Alex Smith,Walking Out,2017.0,Others,273915
+tt6642926,2018,Giffoni Award,Best Film,True,True,Otzi and the Mystery of Time,,[],Otzi and the Mystery of Time,2018.0,Others,54564
+tt6175820,2018,Giffoni Award,Best Film,True,True,This Crazy Heart,nm0745131,Marc Rothemund,This Crazy Heart,2019.0,Comedy,20118769
+tt6696124,2018,Special Award,COMIX AWARD,True,True,Los Bando,,[],Los Bando,2019.0,Others,291495
+tt3688342,2018,Gryphon Award,Best Film  Elements +10 section,True,True,Zoo,nm0570865,Colin McIvor,Zoo,2018.0,Others,234991
+tt6977442,2018,Gryphon Award,Best Film - GEX DOC,True,True,Liyana,nm5010338,Amanda Kopp,Liyana,2018.0,Others,89017
+tt6922040,2018,Gryphon Award,Generator +13,False,False,Meerkat Maantuig,nm3491007,Hanneke Schutte,Meerkat Maantuig,2017.0,Drama,62401

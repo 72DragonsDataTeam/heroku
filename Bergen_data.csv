@@ -1,0 +1,53 @@
+tconst,Year,awardName,categoryName,isWinner,otherAwards,primaryNominees,nconst,secondaryNominees,Name,releaseYear,Genre1,AdjustedTotalGross
+tt0190332,2000,Audience Award,,True,True,"Crouching Tiger, Hidden Dragon",nm0000487,Ang Lee,"Crouching Tiger, Hidden Dragon",2001.0,Others,498551538
+tt0169102,2001,Jury Award,,True,True,Lagaan: Once Upon a Time in India,nm0332950,Ashutosh Gowariker,Lagaan: Once Upon a Time in India,2001.0,Others,3781319
+tt0250258,2001,Audience Award,,True,True,The Experiment,nm0386570,Oliver Hirschbiegel,The Experiment,2002.0,Drama,19795063
+tt0290661,2002,Jury Award,,True,True,Dog Days,nm0782430,Ulrich Seidl,Dog Days,2002.0,Drama,805384
+tt0332605,2002,Jury Award - Honorable Mention,,True,True,House of Fools,nm0464846,Andrey Konchalovskiy,House of Fools,2003.0,Drama,303050
+tt0320193,2002,Jury Award - Honorable Mention,,True,True,Oasis,nm0496969,Chang-dong Lee,Oasis,2004.0,Drama,9064124
+tt0310793,2002,Audience Award,,True,True,Bowling for Columbine,nm0601619,Michael Moore,Bowling for Columbine,2002.0,Others,112181756
+tt0370986,2004,Jury Award,,True,True,Mysterious Skin,nm0000777,Gregg Araki,Mysterious Skin,2005.0,Drama,2951181
+tt0364569,2004,Audience Award,,True,True,Oldboy,nm0661791,Chan-wook Park,Oldboy,2005.0,Others,21033440
+tt0388318,2005,Jury Award,,True,True,Frozen Land,nm0521803,Aku Louhimies,Frozen Land,2006.0,Drama,2176355
+tt0841925,2007,Jury Award,Best Film,True,True,Silent Light,nm1196161,Carlos Reygadas,Silent Light,2007.0,Drama,1146987
+tt0856008,2007,Best Youth Documentary,,True,True,Sharkwater,nm2380267,Rob Stewart,Sharkwater,2007.0,Documentary,3050999
+tt1178197,2008,Jury Award,,True,True,The World is Big and Salvation Lurks Around the Corner,nm0464526,Stephan Komandarev,The World is Big and Salvation Lurks Around the Corner,2010.0,Drama,236935
+tt1220873,2009,Jury Award,Best Film,False,False,The Be All and End All,nm0916039,Bruce Webb,The Be All and End All,2009.0,Others,80027
+tt1542411,2010,Best Documentary,Best Documentary Award,True,True,Budrus,nm1646089,Julia Bacha,Budrus,2010.0,Others,159731
+tt1646958,2010,Best Documentary,Best International Documentary Award,True,True,The Autobiography of Nicolae Ceausescu,nm0880297,Andrei Ujica,The Autobiography of Nicolae Ceausescu,2011.0,Others,113888
+tt1754078,2011,Jury Award,Best Film,True,True,Las acacias,nm0313652,Pablo Giorgelli,Las Acacias,2012.0,Drama,403252
+tt1588398,2011,Jury Award,Best Film,False,False,Sleeping Beauty,nm3772967,Julia Leigh,Sleeping Beauty,2011.0,Drama,504204
+tt1682181,2011,Audience Award,,True,True,Bully,nm1097276,Lee Hirsch,Bully,2011.0,Documentary,9719765
+tt2390962,2013,Best Documentary,Best International Documentary Award,True,True,The Unknown Known,nm0001554,Errol Morris,The Unknown Known,2013.0,Others,631667
+tt4935954,2015,Best Documentary,Best International Documentary Award - Honorable Mention,True,True,A Flickering Truth,nm2027586,Pietra Brettkelly,A Flickering Truth,2017.0,Documentary,6290
+tt4185572,2015,Check Points,Human Rights Award,True,True,The Hunting Ground,nm0225269,Kirby Dick,The Hunting Ground,2015.0,Documentary,893387
+tt4377864,2015,Check Points,Human Rights Award - Honorable Mention,True,True,The Pearl Button,nm0350099,Patricio Guzmán,The Pearl Button,2015.0,Documentary,173975
+tt4466550,2015,University of Bergen's Gulluglen Award,,True,True,Antarctica: Ice and Sky,nm0415207,Luc Jacquet,Antarctica: Ice & Sky,2016.0,Others,195663
+tt5146068,2016,Documentaire Extraordinaire,,False,False,All These Sleepless Nights,nm2777808,Michal Marczak,All These Sleepless Nights,2017.0,Documentary,43396
+tt2638900,2016,Documentaire Extraordinaire,,False,False,LoveTrue,nm2776774,Alma Har'el,LoveTrue,2016.0,Documentary,9942
+tt3412684,2016,Documentaire Extraordinaire,,False,False,Mr. Gaga: A True Story of Love and Dance,nm1334259,Tomer Heymann,Mr. Gaga,2017.0,Others,880781
+tt5133392,2016,Cinema Extraordinaire,,False,False,Zoology,nm6592335,Ivan I. Tverdovskiy,Zoology,2016.0,Others,20716
+tt5239558,2017,Grand Prix,,False,False,Men Don't Cry,,[],Men Don't Cry,2017.0,Drama,11162
+tt6805366,2017,Documentaire Extraordinaire,,True,True,Makala,nm1463658,Emmanuel Gras,Makala,2018.0,Documentary,128988
+tt6864496,2017,Documentaire Extraordinaire,,False,False,Becoming Who I Was,nm8976735,Moon Chang-Yong,Becoming Who I Was,2017.0,Documentary,285340
+tt5943708,2017,Documentaire Extraordinaire,,False,False,The Challenge,nm4150219,Yuri Ancarani,The Challenge,2017.0,Documentary,23150
+tt6802896,2017,Cinema Extraordinaire,,True,True,A Ciambra,nm3476432,Jonas Carpignano,A Ciambra,2018.0,Others,151289
+tt6397762,2017,Cinema Extraordinaire,,False,False,April's Daughter,nm1633015,Michel Franco,April's Daughter,2017.0,Drama,802774
+tt6194530,2017,Cinema Extraordinaire,,False,False,Ava,nm5674565,Léa Mysius,Ava,2017.0,Drama,515893
+tt5687814,2017,Cinema Extraordinaire,,False,False,Golden Exits,nm3504405,Alex Ross Perry,Golden Exits,2018.0,Drama,85982
+tt4432006,2017,Cinema Extraordinaire,,False,False,Hannah,nm1761524,Andrea Pallaoro,Hannah,2018.0,Drama,161820
+tt5791536,2017,Cinema Extraordinaire,,False,False,My Happy Family,nm2206574,Nana Ekvtimishvili,My Happy Family,2017.0,Drama,444152
+tt6134000,2017,Cinema Extraordinaire,,False,False,The Line,nm1298152,Peter Bebjak,The Line,2017.0,Others,2219231
+tt7476236,2018,Documentaire Extraordinaire,,True,True,Minding the Gap,nm3294913,Bing Liu,Minding the Gap,2018.0,Documentary,103706
+tt8184202,2018,Documentaire Extraordinaire,,False,False,Over the Limit,nm5083134,Marta Prus,Over the Limit,2018.0,Documentary,6554
+tt7478112,2018,Documentaire Extraordinaire,,False,False,People's Republic of Desire,nm2222612,Hao Wu,People's Republic of Desire,2018.0,Documentary,30906
+tt7664504,2018,Documentaire Extraordinaire,,False,False,Three Identical Strangers,nm2268736,Tim Wardle,Three Identical Strangers,2018.0,Others,26551698
+tt4949112,2018,Documentaire Extraordinaire,,False,False,Touch Me Not,nm2924350,Adina Pintilie,Touch Me Not,2019.0,Drama,88031
+tt8305116,2018,Cinema Extraordinaire,,True,True,Ayka,nm0245361,Sergei Dvortsevoy,Ayka,2019.0,Drama,43523
+tt6212478,2018,Cinema Extraordinaire,,False,False,American Animals,nm1717925,Bart Layton,American Animals,2018.0,Others,7023374
+tt6835498,2018,Cinema Extraordinaire,,False,False,Crystal Swan,nm2660273,Darya Zhuk,Crystal Swan,2019.0,Drama,63603
+tt8506840,2018,Cinema Extraordinaire,,False,False,I Do Not Care If We Go Down in History as Barbarians,nm1257492,Radu Jude,I Do Not Care If We Go Down in History as Barbarians,2019.0,Others,38829
+tt6040806,2018,Cinema Extraordinaire,,False,False,Petra,nm0740963,Jaime Rosales,Petra,2018.0,Drama,161834
+tt8296592,2018,Cinema Extraordinaire,,False,False,Sofia,nm6703326,Meryem Benm'Barek-Aloïsi,Sofia,2018.0,Drama,419809
+tt8707516,2018,Best Norwegian Documentary,,True,True,The Men's Room,nm3041747,Petter Sommer,The Men's Room,2018.0,Documentary,173632
+tt8520614,2018,Checkpoints Award,,False,False,Under the Wire,nm1313338,Chris Martin,Under the Wire,2018.0,Documentary,27706

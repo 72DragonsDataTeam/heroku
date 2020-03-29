@@ -1,0 +1,52 @@
+tconst,Year,awardName,categoryName,isWinner,otherAwards,primaryNominees,nconst,secondaryNominees,Name,releaseYear,Genre1,AdjustedTotalGross
+tt0164756,1999,Audience Award,,True,False,Mifune,nm0469273,Søren Kragh-Jacobsen,Mifune,1999.0,Comedy,1559874
+tt0163185,1999,Norwegian Film Critics Award,,True,True,Rosie,nm0870299,Patrice Toye,Rosie,1999.0,Drama,14684
+tt0186730,1999,Ecumenical Film Award,,True,True,It All Starts Today,nm0851724,Bertrand Tavernier,It All Starts Today,1999.0,Drama,18760
+tt0154420,1999,Silver Clod,Best Foreign Film of the Year (Beste Utenlandske Spillefilm),True,True,The Celebration,nm0899121,Thomas Vinterberg,The Celebration,1998.0,Drama,5161517
+tt0195234,2000,Audience Award,,True,False,Saving Grace,nm0170719,Nigel Cole,Saving Grace,2000.0,Comedy,60201535
+tt0120263,2000,Norwegian Film Critics Award,,True,True,Songs from the Second Floor,nm0027815,Roy Andersson,Songs from the Second Floor,2001.0,Comedy,231314
+tt0249462,2000,Most Enjoyable Film (Theatre Owners),,True,True,Billy Elliot,nm0197636,Stephen Daldry,Billy Elliot,2000.0,Drama,192689248
+tt0157122,2000,Ecumenical Film Award,,True,True,Faithless,nm0880521,Liv Ullmann,Faithless,2000.0,Drama,2433709
+tt0186508,2000,Silver Clod,Best Foreign Film of the Year (Beste Utenlandske Spillefilm),True,True,Buena Vista Social Club,nm0000694,Wim Wenders,Buena Vista Social Club,1999.0,Others,46348259
+tt0276189,2001,Silver Clod,Best Norwegian Film of the Year (Beste Norske Kinofilm),True,True,Cool and Crazy,nm0421567,Knut Erik Jensen,Cool and Crazy,2001.0,Others,4501
+tt0286499,2002,Most Enjoyable Film (Theatre Owners),,True,True,Bend It Like Beckham,nm0149446,Gurinder Chadha,Bend It Like Beckham,2003.0,Comedy,151067881
+tt0296712,2002,Nordish Children and Youth Award,,True,True,Catch That Girl,nm0943308,Fabian Wullenweber,Catch That Girl,2002.0,Others,611935
+tt0357284,2002,Ecumenical Film Award,,True,True,Vektløs,nm0256896,Sigve Endresen,Vektløs,2002.0,Others,146014
+tt0211915,2002,Silver Clod,Best Foreign Film of the Year (Beste Utenlandske Spillefilm),True,True,Amélie,nm0000466,Jean-Pierre Jeunet,Amélie,2002.0,Comedy,297732450
+tt0310261,2002,Silver Clod,Best Norwegian Film of the Year (Beste Norske Kinofilm),True,True,Hold My Heart,nm0226148,Trygve Allister Diesen,Hold My Heart,2002.0,Drama,7639
+tt0371589,2003,Audience Award,,True,True,Buddy,nm0878763,Morten Tyldum,Buddy,2004.0,Comedy,3534103
+tt0328844,2003,Norwegian Film Critics Award,,True,True,The Inheritance,nm0283377,Per Fly,The Inheritance,2004.0,Drama,1965199
+tt0253474,2003,Ecumenical Film Award,,True,True,The Pianist,nm0000591,Roman Polanski,The Pianist,2003.0,Others,211770704
+tt0318462,2004,Audience Award,,True,False,The Motorcycle Diaries,nm0758574,Walter Salles,The Motorcycle Diaries,2004.0,Others,99655167
+tt0475965,2005,Audience Award,,True,True,The Giant,nm0117556,Hallvard Bræin,The Giant,2005.0,Others,412093
+tt0456149,2005,Norwegian Film Critics Award,,True,True,The Death of Mr. Lazarescu,nm1090998,Cristi Puiu,The Death of Mr. Lazarescu,2005.0,Drama,382066
+tt0427944,2006,Audience Award,,True,False,Thank You for Smoking,nm0718646,Jason Reitman,Thank You for Smoking,2006.0,Comedy,81314404
+tt0494271,2007,Audience Award,,True,False,The Unknown Woman,nm0868153,Giuseppe Tornatore,The Unknown Woman,2007.0,Drama,8530239
+tt0899215,2007,Audience Award,,False,False,Mars & Venus,nm0197232,Eva Dahr,Mars & Venus,2007.0,Comedy,2030429
+tt0951288,2008,Audience Award,,True,False,When a Man Comes Home,nm0899121,Thomas Vinterberg,When a Man Comes Home,2007.0,Comedy,1058844
+tt1045670,2008,Most Enjoyable Film (Theatre Owners),,True,True,Happy-Go-Lucky,nm0005139,Mike Leigh,Happy-Go-Lucky,2008.0,Comedy,26717043
+tt1232776,2009,Norwegian Film Critics Award,,True,True,Fish Tank,nm0036349,Andrea Arnold,Fish Tank,2009.0,Drama,3233296
+tt1613750,2012,Audience Award,,True,False,Kon-Tiki,,[],Kon-Tiki,2013.0,Others,26771592
+tt2024519,2013,Audience Award,,True,False,The Broken Circle Breakdown,nm0886976,Felix van Groeningen,The Broken Circle Breakdown,2013.0,Drama,6209390
+tt2980648,2014,Audience Award,,True,False,The Hundred-Foot Journey,nm0002120,Lasse Hallström,The Hundred-Foot Journey,2014.0,Comedy,153769778
+tt1065073,2014,Norwegian Film Critics Award,,True,True,Boyhood,nm0000500,Richard Linklater,Boyhood,2014.0,Drama,75044165
+tt3465916,2014,Ecumenical Film Award,,True,True,Stations of the Cross,nm0117698,Dietrich Brüggemann,Stations of the Cross,2015.0,Drama,81394
+tt2965842,2014,The Nordic Film Award Haugesund,,True,True,Raspberry Boat Refugee,nm0511460,Leif Lindblom,Raspberry Boat Refugee,2014.0,Comedy,1382599
+tt3792960,2015,Audience Award,.,True,True,The Brand New Testament,nm0233757,Jaco Van Dormael,The Brand New Testament,2016.0,Comedy,16819560
+tt4226388,2015,Norwegian Film Critics Award,,True,True,Victoria,nm0771923,Sebastian Schipper,Victoria,2015.0,Others,3447613
+tt2217859,2015,Norwegian Film Critics Award - Honorable Mention,,True,True,Louder Than Bombs,nm1258686,Joachim Trier,Louder Than Bombs,2015.0,Drama,1423158
+tt2936180,2015,Ecumenical Film Award,,True,True,Far from Men,nm1190532,David Oelhoffen,Far from Men,2015.0,Drama,1097177
+tt4901306,2016,Audience Award,Best Film,True,False,Perfect Strangers,nm0002645,Paolo Genovese,Perfect Strangers,2016.0,Comedy,33558195
+tt4048272,2016,Norwegian Film Critics Award,,True,True,Toni Erdmann,nm0011752,Maren Ade,Toni Erdmann,2016.0,Comedy,14039087
+tt5471480,2016,Ray of Sunshine,Best film,True,True,Magnus,nm5558989,Benjamin Ree,Magnus,2016.0,Others,117192
+tt4370784,2016,Andreas Award,,True,True,The Innocents,nm0284774,Anne Fontaine,The Innocents,2016.0,Drama,9131787
+tt4659056,2016,FIPRESCI Prize,,True,True,The Day Will Come,nm0630861,Jesper W. Nielsen,The Day Will Come,2017.0,Drama,59127
+tt5609734,2017,Audience Award,Best Film,True,False,Bye Bye Germany,nm0304921,Sam Garbarski,Bye Bye Germany,2018.0,Comedy,255667
+tt6304046,2017,Norwegian Film Critics Award,,True,True,Thelma,nm1258686,Joachim Trier,Thelma,2017.0,Drama,1668096
+tt5842890,2017,Andreas Award,,True,True,Jupiter's Moon,nm0610960,Kornél Mundruczó,Jupiter's Moon,2018.0,Drama,90258
+tt5462602,2017,Ray of Sunshine Award,,True,True,The Big Sick,nm0795290,Michael Showalter,The Big Sick,2017.0,Comedy,103649757
+tt8267604,2018,Audience Award,Best Film,True,False,Capernaum,nm1701024,Nadine Labaki,Capernaum,2018.0,Drama,66726600
+tt5501104,2018,Norwegian Film Critics Award,,True,True,Border,nm4389150,Ali Abbasi,Border,2018.0,Drama,2846779
+tt6040662,2018,Andreas Award,,True,True,The Children Act,nm0264236,Richard Eyre,The Children Act,2018.0,Drama,18460348
+tt6505968,2018,FIPRESCI Prize,,True,True,Euthanizer,nm1630429,Teemu Nikki,Euthanizer,2019.0,Drama,12057
+tt5371168,2018,Ray of Sunshine Award,,True,True,The Extraordinary Journey of the Fakir,nm0779433,Ken Scott,The Extraordinary Journey of the Fakir,2019.0,Comedy,2800640

@@ -1,0 +1,262 @@
+tconst,Year,awardName,categoryName,isWinner,otherAwards,primaryNominees,nconst,secondaryNominees,Name,releaseYear,Genre1,AdjustedTotalGross
+tt0061852,1968,"Young Audience Award (""Enfants Terribles"")",Best Feature Film for Children,True,True,The Jungle Book,,[],The Jungle Book,1967.0,Others,2670390881
+tt0113280,1995,Grand Prix Asturias,Best Feature,True,True,Heavy,nm0003506,James Mangold,Heavy,1996.0,Drama,3070535
+tt0112454,1996,Special Jury Award,,True,True,Bandwagon,nm0180984,Kevin Corrigan,Bandwagon,1997.0,Comedy,141229
+tt0116594,1996,Best Art Direction,,True,True,I Shot Andy Warhol,nm0220149,Thérèse DePrez,I Shot Andy Warhol,1996.0,Others,6121164
+tt0118698,1997,Grand Prix Asturias,Best Feature,False,True,Bent,nm0558773,Sean Mathias,Bent,1997.0,Drama,1569868
+tt0119237,1997,Grand Prix Asturias,Best Feature,False,True,Gummo,nm0005101,Harmony Korine,Gummo,1997.0,Comedy,371240
+tt0117365,1997,Grand Prix Asturias,Best Feature,False,False,Portraits chinois,nm0240987,Martine Dugowson,Portraits chinois,1999.0,Comedy,24851
+tt0124185,1997,Grand Prix Asturias,Best Feature,False,True,Under the Skin,nm0012119,Carine Adler,Under the Skin,1998.0,Drama,440314
+tt0120522,1997,Grand Prix Asturias,Best Feature,False,True,Winter Sleepers,nm0878756,Tom Tykwer,Winter Sleepers,2000.0,Drama,964398
+tt0119842,1998,Grand Prix Asturias,Best Feature,True,True,Orphans,nm0611932,Peter Mullan,Orphans,2000.0,Comedy,163461
+tt0118789,1998,Grand Prix Asturias,Best Feature,False,True,Buffalo '66,nm0001252,Vincent Gallo,Buffalo '66,1998.0,Comedy,7447255
+tt0138487,1998,Grand Prix Asturias,Best Feature,False,False,Head On,nm0463727,Ana Kokkinos,Head On,1999.0,Drama,1667451
+tt0126604,1998,Grand Prix Asturias,Best Feature,False,False,Pecker,nm0000691,John Waters,Pecker,1998.0,Comedy,7128355
+tt0138704,1998,Grand Prix Asturias,Best Feature,False,False,Pi,nm0004716,Darren Aronofsky,Pi,1998.0,Drama,10087732
+tt0154420,1998,Grand Prix Asturias,Best Feature,False,True,The Celebration,nm0899121,Thomas Vinterberg,The Celebration,1998.0,Drama,5161517
+tt0166396,1998,Grand Prix Asturias,Best Feature,False,False,Waking Ned Devine,nm0428600,Kirk Jones,Waking Ned Devine,1999.0,Comedy,124507248
+tt0159272,1999,Grand Prix Asturias,Best Feature,False,False,Beautiful People,nm0229026,Jasmin Dizdar,Beautiful People,2000.0,Comedy,795515
+tt0171804,1999,Grand Prix Asturias,Best Feature,False,True,Boys Don't Cry,nm0005303,Kimberly Peirce,Boys Don't Cry,2000.0,Others,34453026
+tt0126261,1999,Grand Prix Asturias,Best Feature,False,False,Desert Blue,nm0293533,Morgan J. Freeman,Desert Blue,1999.0,Drama,311582
+tt0188674,1999,Grand Prix Asturias,Best Feature,False,False,Human Traffic,nm0449863,Justin Kerrigan,Human Traffic,2000.0,Comedy,310701
+tt0192194,1999,Grand Prix Asturias,Best Feature,False,True,Julien Donkey-Boy,nm0005101,Harmony Korine,Julien Donkey-Boy,1999.0,Comedy,270197
+tt0147192,1999,Grand Prix Asturias,Best Feature,False,True,Praise,nm0192845,John Curran,Praise,2000.0,Drama,88564
+tt0126651,1999,Grand Prix Asturias,Best Feature,False,False,Santitos,nm0819702,Alejandro Springall,Santitos,1999.0,Comedy,755911
+tt0191043,1999,Grand Prix Asturias,Best Feature,False,True,The Color of Paradise,nm0006498,Majid Majidi,The Color of Paradise,1999.0,Drama,6993351
+tt0258761,2000,Grand Prix Asturias,Best Feature,True,True,Last Resort,nm0667734,Pawel Pawlikowski,Last Resort,2001.0,Drama,169378
+tt0259072,2000,Grand Prix Asturias,Best Feature,False,True,A Time for Drunken Horses,nm0315842,Bahman Ghobadi,A Time for Drunken Horses,2000.0,Drama,1791720
+tt0249380,2000,Grand Prix Asturias,Best Feature,False,False,Baise-moi,nm0221591,Virginie Despentes,Rape Me,2001.0,Others,1966329
+tt0200530,2000,Grand Prix Asturias,Best Feature,False,False,Chuck & Buck,nm0037708,Miguel Arteta,Chuck & Buck,2000.0,Comedy,3309311
+tt0234116,2000,Grand Prix Asturias,Best Feature,False,True,Little Cheung,nm0150897,Fruit Chan,Little Cheung,1999.0,Drama,44294
+tt0247613,2000,Grand Prix Asturias,Best Feature,False,False,Peppermint Candy,nm0496969,Chang-dong Lee,Peppermint Candy,2000.0,Drama,130981
+tt0234837,2000,Grand Prix Asturias,Best Feature,False,False,Suzhou River,nm0521601,Ye Lou,Suzhou River,2000.0,Drama,142789
+tt0203632,2000,Grand Prix Asturias,Best Feature,False,False,The Princess and the Warrior,nm0878756,Tom Tykwer,The Princess and the Warrior,2001.0,Drama,2729925
+tt0203166,2000,Grand Prix Asturias,Best Feature,False,True,Together,nm0600546,Lukas Moodysson,Together,2001.0,Comedy,22403056
+tt0290661,2001,Grand Prix Asturias,Best Feature,True,True,Dog Days,nm0782430,Ulrich Seidl,Dog Days,2002.0,Drama,805384
+tt0233841,2001,Grand Prix Asturias,Best Feature,False,True,Baran,nm0006498,Majid Majidi,Baran,2001.0,Drama,421198
+tt0248845,2001,Grand Prix Asturias,Best Feature,False,True,Hedwig and the Angry Inch,nm0593463,John Cameron Mitchell,Hedwig and the Angry Inch,2001.0,Comedy,9662611
+tt0269389,2001,Grand Prix Asturias,Best Feature,False,False,Jalla! Jalla!,nm0267244,Josef Fares,Jalla! Jalla!,2002.0,Comedy,1245369
+tt0250491,2001,Grand Prix Asturias,Best Feature,False,True,Late Night Shopping,nm0582792,Saul Metzstein,Late Night Shopping,2002.0,Comedy,2477
+tt0251031,2001,Grand Prix Asturias,Best Feature,False,False,Series 7: The Contenders,nm0590889,Daniel Minahan,Series 7: The Contenders,2001.0,Comedy,722643
+tt0269217,2001,Grand Prix Asturias,Best Feature,False,True,Tears of the Black Tiger,nm0765685,Wisit Sasanatieng,Tears of the Black Tiger,2001.0,Others,306379
+tt0300140,2002,Grand Prix Asturias,Best Feature,True,True,Lilya 4-Ever,nm0600546,Lukas Moodysson,Lilya 4-Ever,2003.0,Others,1676138
+tt0283900,2002,Grand Prix Asturias,Best Feature,False,False,L'auberge espagnole,nm0458251,Cédric Klapisch,L'auberge espagnole,2003.0,Comedy,51708661
+tt0317226,2002,Grand Prix Asturias,Best Feature,False,False,Marooned in Iraq,nm0315842,Bahman Ghobadi,Marooned in Iraq,2002.0,Drama,444848
+tt0301684,2002,Grand Prix Asturias,Best Feature,False,False,Once Upon a Time in the Midlands,nm0276349,Shane Meadows,Once Upon a Time in the Midlands,2003.0,Comedy,992672
+tt0272338,2002,Grand Prix Asturias,Best Feature,False,True,Punch-Drunk Love,nm0000759,Paul Thomas Anderson,Punch-Drunk Love,2002.0,Comedy,59918979
+tt0279113,2002,Grand Prix Asturias,Best Feature,False,True,The Good Girl,nm0037708,Miguel Arteta,The Good Girl,2002.0,Drama,43669801
+tt0300565,2002,Grand Prix Asturias,Best Feature,False,False,Toy Love,nm0801625,Harry Sinclair,Toy Love,2003.0,Comedy,15263
+tt0308363,2002,Grand Prix Asturias,Best Feature,False,True,Waiting for Happiness,nm0803066,Abderrahmane Sissako,Waiting for Happiness,2003.0,Drama,85024
+tt0308506,2002,"Young Audience Award (""Enfants Terribles"")",,True,True,Like Mike,nm0776271,John Schultz,Like Mike,2002.0,Comedy,161342223
+tt0388395,2003,Grand Prix Asturias,Best Feature,True,True,Schultze Gets the Blues,nm1491557,Michael Schorr,Schultze Gets the Blues,2004.0,Comedy,6197009
+tt0305206,2003,Grand Prix Asturias,Best Feature,False,False,American Splendor,nm0075849,Shari Springer Berman,American Splendor,2003.0,Others,19313845
+tt0351238,2003,Grand Prix Asturias,Best Feature,False,False,Distant Lights,nm0772691,Hans-Christian Schmid,Distant Lights,2003.0,Drama,1110672
+tt0298408,2003,Grand Prix Asturias,Best Feature,False,True,Laurel Canyon,nm0158966,Lisa Cholodenko,Laurel Canyon,2003.0,Drama,11203544
+tt0364517,2003,Grand Prix Asturias,Best Feature,False,False,Love Me If You Dare,nm1367933,Yann Samuell,Love Me If You Dare,2004.0,Comedy,12375638
+tt0351461,2003,Grand Prix Asturias,Best Feature,False,False,Noi the Albino,nm0477597,Dagur Kári,Noi the Albino,2003.0,Drama,1941617
+tt0320244,2003,Grand Prix Asturias,Best Feature,False,False,Party Monster,nm0047259,Fenton Bailey,Party Monster,2003.0,Others,2145511
+tt0337250,2003,Grand Prix Asturias,Best Feature,False,False,Struggle,nm0534813,Ruth Mader,Struggle,2003.0,Drama,4969
+tt0368805,2003,Grand Prix Asturias,Best Feature,False,False,The Island,nm0702997,Costanza Quatriglio,The Island,2003.0,Drama,35601
+tt0376968,2003,Grand Prix Asturias,Best Feature,False,True,The Return,nm1168657,Andrey Zvyagintsev,The Return,2004.0,Drama,12418693
+tt0328538,2003,Grand Prix Asturias,Best Feature,False,False,Thirteen,nm0362566,Catherine Hardwicke,Thirteen,2003.0,Drama,20325177
+tt0322177,2003,Young Jury Prize,Best Feature,True,True,The Boy Who Wanted to Be a Bear,nm0368645,Jannik Hastrup,The Boy Who Wanted to Be a Bear,2003.0,Others,1114361
+tt0424536,2004,Grand Prix Asturias,Best Feature,True,False,Vento di terra,nm0550059,Vincenzo Marra,Vento di terra,2005.0,Drama,61814
+tt0445161,2004,Grand Prix Asturias,Best Feature,False,False,4,nm0451969,Ilya Khrzhanovskiy,4,2005.0,Drama,53901
+tt0367790,2004,Grand Prix Asturias,Best Feature,False,False,Baadasssss!,nm0005522,Mario Van Peebles,Baadasssss!,2004.0,Others,1009295
+tt0424237,2004,Grand Prix Asturias,Best Feature,False,True,Lila Says,nm0234780,Ziad Doueiri,Lila Says,2005.0,Others,883410
+tt0381392,2004,Grand Prix Asturias,Best Feature,False,False,Ma mère,nm0393394,Christophe Honoré,Ma Mère,2004.0,Drama,2111469
+tt0370986,2004,Grand Prix Asturias,Best Feature,False,False,Mysterious Skin,nm0000777,Gregg Araki,Mysterious Skin,2005.0,Drama,2951181
+tt0359254,2004,Grand Prix Asturias,Best Feature,False,True,Rolling Family,nm0871086,Pablo Trapero,Rolling Family,2004.0,Comedy,168405
+tt0390538,2004,Grand Prix Asturias,Best Feature,False,False,Tarnation,nm1503401,Jonathan Caouette,Tarnation,2003.0,Others,1699787
+tt0373861,2004,Grand Prix Asturias,Best Feature,False,False,The Story of the Weeping Camel,nm1389025,Byambasuren Davaa,The Story of the Weeping Camel,2004.0,Drama,14965484
+tt0361127,2004,Grand Prix Asturias,Best Feature,False,False,The Woodsman,nm0975026,Nicole Kassell,The Woodsman,2004.0,Drama,8630452
+tt0364120,2004,Grand Prix Asturias,Best Feature,False,True,Wild Side,nm0509852,Sébastien Lifshitz,Wild Side,2004.0,Drama,41501
+tt0407342,2004,Grand Prix Asturias,Best Feature,False,True,À tout de suite,nm0415245,Benoît Jacquot,À Tout de Suite,2004.0,Others,994073
+tt0469692,2005,Grand Prix Asturias,Best Film,False,False,A Perfect Day,nm0352858,Joana Hadjithomas,A Perfect Day,2006.0,Drama,6929
+tt0419420,2005,Grand Prix Asturias,Best Film,False,True,Adam & Paul,nm1049433,Lenny Abrahamson,Adam & Paul,2004.0,Comedy,422512
+tt0463903,2005,Grand Prix Asturias,Best Film,False,False,Be with Me,nm0451799,Eric Khoo,Be with Me,2005.0,Drama,119112
+tt0401085,2005,Grand Prix Asturias,Best Film,False,True,C.R.A.Z.Y.,nm0885249,Jean-Marc Vallée,C.R.A.Z.Y.,2006.0,Comedy,4705341
+tt0408318,2005,Grand Prix Asturias,Best Film,False,False,Dark Horse,nm0477597,Dagur Kári,Dark Horse,2005.0,Comedy,13742
+tt0404030,2005,Grand Prix Asturias,Best Film,False,False,Everything Is Illuminated,nm0000630,Liev Schreiber,Everything Is Illuminated,2005.0,Comedy,6817578
+tt0472113,2005,Grand Prix Asturias,Best Film,False,True,Iron Island,nm1488024,Mohammad Rasoulof,Iron Island,2005.0,Drama,69869
+tt0421998,2005,Grand Prix Asturias,Best Film,False,False,Like a Crashed Plane,nm1108266,Ezequiel Acuña,Like a Crashed Plane,2005.0,Comedy,6614
+tt0318761,2005,Grand Prix Asturias,Best Film,False,True,Thumbsucker,nm0590122,Mike Mills,Thumbsucker,2005.0,Comedy,4166607
+tt0358273,2005,Grand Prix Asturias,Best Film,False,False,Walk the Line,nm0003506,James Mangold,Walk the Line,2005.0,Others,395683339
+tt0478331,2005,Grand Prix Asturias,Best Film,False,True,Workingman's Death,nm0322198,Michael Glawogger,Workingman's Death,2006.0,Others,5694
+tt0473488,2006,Grand Prix Asturias,Best Film,False,True,A Guide to Recognizing Your Saints,nm1996918,Dito Montiel,A Guide to Recognizing Your Saints,2006.0,Others,3233324
+tt0498103,2006,Grand Prix Asturias,Best Film,False,False,Demented,nm0009765,Laurent Achard,Demented,2007.0,Drama,607
+tt0825241,2006,Grand Prix Asturias,Best Film,False,False,Dry Season,nm0757958,Mahamat-Saleh Haroun,Dry Season,2007.0,Drama,63741
+tt0855824,2006,Grand Prix Asturias,Best Film,False,False,I Don't Want to Sleep Alone,nm0158857,Ming-liang Tsai,I Don't Want to Sleep Alone,2007.0,Drama,301470
+tt0417225,2006,Grand Prix Asturias,Best Film,False,False,Idlewild,nm1309359,Bryan Barber,Idlewild,2006.0,Others,31600987
+tt0492464,2006,Grand Prix Asturias,Best Film,False,False,In the Pit,nm0750032,Juan Carlos Rulfo,In the Pit,2006.0,Others,261803
+tt0765102,2006,Grand Prix Asturias,Best Film,False,False,La línea recta,nm0649401,José María de Orbe,La línea recta,2007.0,Drama,19977
+tt0452345,2006,Grand Prix Asturias,Best Film,False,False,Naming Number Two,nm1089736,Toa Fraser,Naming Number Two,2006.0,Comedy,559169
+tt0499537,2006,Grand Prix Asturias,Best Film,False,True,Offside,nm0070159,Jafar Panahi,Offside,2006.0,Comedy,926581
+tt0451176,2006,Grand Prix Asturias,Best Film,False,False,Quinceañera,nm0922903,Wash Westmoreland,Quinceañera,2006.0,Drama,5432463
+tt0367027,2006,Grand Prix Asturias,Best Film,False,True,Shortbus,nm0593463,John Cameron Mitchell,Shortbus,2006.0,Drama,9499451
+tt0499157,2006,Grand Prix Asturias,Best Film,False,False,Slumming,nm0322198,Michael Glawogger,Slumming,2006.0,Comedy,109180
+tt0464049,2006,Grand Prix Asturias,Best Film,False,False,The History Boys,nm0405336,Nicholas Hytner,The History Boys,2006.0,Comedy,20399025
+tt0491253,2006,Grand Prix Asturias,Best Film,False,False,Ça brûle,nm0800098,Claire Simon,Ça brûle,2008.0,Drama,1595
+tt0480082,2006,"Young Audience Award (""Enfants Terribles"")",Feature Film,True,True,Impy's Island,nm0459996,Reinhard Klooss,Impy's Island,2006.0,Others,14577808
+tt1076251,2007,Grand Prix Asturias,Best Feature,True,False,"Help Me, Eros",nm0497642,Kang-sheng Lee,"Help Me, Eros",2008.0,Drama,95966
+tt0935086,2007,Grand Prix Asturias,Best Feature,False,True,All Is Forgiven,nm0361135,Mia Hansen-Løve,All Is Forgiven,2007.0,Drama,1658
+tt0953318,2007,Grand Prix Asturias,Best Feature,False,False,Ben X,nm0051206,Nic Balthazar,Ben X,2008.0,Drama,3324515
+tt0847880,2007,Grand Prix Asturias,Best Feature,False,True,Cargo 200,nm0049326,Aleksey Balabanov,Cargo 200,2008.0,Drama,709304
+tt0812243,2007,Grand Prix Asturias,Best Feature,False,False,Ex Drummer,nm0607831,Koen Mortier,Ex Drummer,2008.0,Comedy,270000
+tt0479046,2007,Grand Prix Asturias,Best Feature,False,False,Ghosts of Cité Soleil,nm1300606,Asger Leth,Ghosts of Cité Soleil,2006.0,Others,336527
+tt0772168,2007,Grand Prix Asturias,Best Feature,False,False,Grace Is Gone,nm1475479,Jim Strouse,Grace Is Gone,2007.0,Drama,1410250
+tt0466816,2007,Grand Prix Asturias,Best Feature,False,False,Hallam Foe,nm0533284,David Mackenzie,Hallam Foe,2007.0,Drama,2703572
+tt0765141,2007,Grand Prix Asturias,Best Feature,False,True,Heartbeat Detector,nm0460120,Nicolas Klotz,Heartbeat Detector,2007.0,Drama,853576
+tt0459102,2007,Grand Prix Asturias,Best Feature,False,False,Import Export,nm0782430,Ulrich Seidl,Import Export,2008.0,Drama,680252
+tt0480269,2007,Grand Prix Asturias,Best Feature,False,False,Interview,nm0000114,Steve Buscemi,Interview,2007.0,Drama,2381805
+tt0800099,2007,Grand Prix Asturias,Best Feature,False,False,Joe Strummer: The Future Is Unwritten,nm0854697,Julien Temple,Joe Strummer: The Future Is Unwritten,2007.0,Others,1713326
+tt0467406,2007,Grand Prix Asturias,Best Feature,False,True,Juno,nm0718646,Jason Reitman,Juno,2007.0,Comedy,456144163
+tt0877621,2007,Grand Prix Asturias,Best Feature,False,False,La France,nm0102516,Serge Bozon,La France,2008.0,Drama,138469
+tt0499540,2007,Grand Prix Asturias,Best Feature,False,True,The Other,nm0745438,Ariel Rotter,The Other,2007.0,Drama,369071
+tt1079450,2007,Grand Prix Asturias,Best Feature,False,True,The Silence Before Bach,nm0691908,Pere Portabella,The Silence Before Bach,2008.0,Others,516297
+tt0882771,2007,"Young Audience Award (""Enfants Terribles"")",Best Feature Film for Audiences Under 13 Years Old,True,True,Kidz in da Hood,nm2424784,Ylva Gustavsson,Kidz in da Hood,2006.0,Comedy,1141176
+tt0480025,2007,"Young Audience Award (""Enfants Terribles"")",,True,True,This Is England,nm0276349,Shane Meadows,This Is England,2007.0,Others,10827364
+tt1002539,2008,Grand Prix Asturias,Best Film,True,False,Liverpool,nm1027762,Lisandro Alonso,Liverpool,2008.0,Drama,28414
+tt1100048,2008,Grand Prix Asturias,Best Film,False,True,35 Shots of Rum,nm0219136,Claire Denis,35 Shots of Rum,2009.0,Drama,1379424
+tt1037033,2008,Grand Prix Asturias,Best Film,False,False,A Complete History of My Sexual Failures,nm1632389,Chris Waitt,A Complete History of My Sexual Failures,2008.0,Comedy,481788
+tt0978833,2008,Grand Prix Asturias,Best Film,False,False,A Week Alone,nm0613851,Celina Murga,A Week Alone,2009.0,Comedy,21192
+tt1224366,2008,Grand Prix Asturias,Best Film,False,False,Afterschool,nm1290515,Antonio Campos,Afterschool,2008.0,Drama,63578
+tt1153690,2008,Grand Prix Asturias,Best Film,False,True,Ballast,nm0358475,Lance Hammer,Ballast,2008.0,Drama,193004
+tt1135965,2008,Grand Prix Asturias,Best Film,False,False,"El cielo, la tierra, y la lluvia",nm1965378,José Luis Torres Leiva,"El cielo, la tierra, y la lluvia",2008.0,Drama,7816
+tt1176954,2008,Grand Prix Asturias,Best Film,False,False,Eldorado,nm0099521,Bouli Lanners,Eldorado,2009.0,Comedy,2213625
+tt1010412,2008,Grand Prix Asturias,Best Film,False,False,Nowhere Man,nm0870299,Patrice Toye,Nowhere Man,2008.0,Drama,31534
+tt1174047,2008,Grand Prix Asturias,Best Film,False,True,Stella,nm0894173,Sylvie Verheyde,Stella,2009.0,Drama,1614031
+tt1233381,2008,Grand Prix Asturias,Best Film,False,False,Three Monkeys,nm0149196,Nuri Bilge Ceylan,Three Monkeys,2009.0,Drama,2419643
+tt0436854,2008,Grand Prix Asturias,Best Film,False,False,Tulpan,nm0245361,Sergei Dvortsevoy,Tulpan,2008.0,Comedy,1563550
+tt1185616,2008,Grand Prix Asturias,Best Film,False,True,Waltz with Bashir,nm0284369,Ari Folman,Waltz with Bashir,2008.0,Others,15641444
+tt1152850,2008,Grand Prix Asturias,Best Film,False,False,Wendy and Lucy,nm0716980,Kelly Reichardt,Wendy and Lucy,2008.0,Drama,2404638
+tt1068652,2008,Non-Fiction/Documentary Award,,True,True,I Want to See,nm0352858,Joana Hadjithomas,I Want to See,2008.0,Drama,106655
+tt1270707,2008,Non-Fiction/Documentary Award,,True,True,Z32,nm0595783,Avi Mograbi,Z32,2009.0,Others,66652
+tt1426371,2009,Grand Prix Asturias,Best Film,True,True,Little Girl,nm2021063,Tizza Covi,Little Girl,2011.0,Drama,269355
+tt1388402,2009,Grand Prix Asturias,Best Film,False,True,Bad Day to Go Fishing,nm1304308,Álvaro Brechner,Bad Day to Go Fishing,2010.0,Comedy,286620
+tt1426362,2009,Grand Prix Asturias,Best Film,False,False,Daddy Longlegs,nm1509478,Benny Safdie,Daddy Longlegs,2010.0,Comedy,64843
+tt1353168,2009,Grand Prix Asturias,Best Film,False,True,Francesca,nm2097361,Bobby Paunescu,Francesca,2009.0,Drama,545146
+tt1334537,2009,Grand Prix Asturias,Best Film,False,True,Humpday,nm1119645,Lynn Shelton,Humpday,2009.0,Comedy,1066713
+tt1354564,2009,Grand Prix Asturias,Best Film,False,True,King of Escape,nm0347492,Alain Guiraudie,The King of Escape,2014.0,Others,171011
+tt1314237,2009,Grand Prix Asturias,Best Film,False,False,The French Kissers,nm3176551,Riad Sattouf,The French Kissers,2010.0,Comedy,9316544
+tt0808285,2009,Grand Prix Asturias,Best Film,False,False,The Good Heart,nm0477597,Dagur Kári,The Good Heart,2010.0,Comedy,430055
+tt1239446,2009,Grand Prix Asturias,Best Film,False,False,The Last Days of Emma Blank,nm0912334,Alex van Warmerdam,The Last Days of Emma Blank,2009.0,Comedy,420072
+tt1424361,2009,Grand Prix Asturias,Best Film,False,False,To Die Like a Man,nm0735134,João Pedro Rodrigues,To Die Like a Man,2011.0,Drama,10208
+tt1314280,2009,Grand Prix Asturias,Best Film,False,True,Welcome,nm0513371,Philippe Lioret,Welcome,2009.0,Drama,16225090
+tt1470024,2010,Grand Prix Asturias,Best Film,True,True,"Tuesday, After Christmas",nm1364086,Radu Muntean,"Tuesday, After Christmas",2011.0,Drama,63812
+tt1502396,2010,Grand Prix Asturias,Best Film,False,False,Alamar,nm1938088,Pedro González-Rubio,Alamar,2010.0,Others,241206
+tt1313092,2010,Grand Prix Asturias,Best Film,False,False,Animal Kingdom,nm2391575,David Michôd,Animal Kingdom,2010.0,Others,9245686
+tt1403047,2010,Grand Prix Asturias,Best Film,False,True,Aurora,nm1090998,Cristi Puiu,Aurora,2011.0,Drama,18625
+tt1120985,2010,Grand Prix Asturias,Best Film,False,False,Blue Valentine,nm0161834,Derek Cianfrance,Blue Valentine,2011.0,Drama,26236743
+tt1600417,2010,Grand Prix Asturias,Best Film,False,False,Half of Oscar,nm0554532,Manuel Martín Cuenca,Half of Oscar,2011.0,Drama,18500
+tt1588875,2010,Grand Prix Asturias,Best Film,False,False,How I Ended This Summer,nm1403225,Aleksey Popogrebskiy,How I Ended This Summer,2011.0,Drama,732653
+tt1356864,2010,Grand Prix Asturias,Best Film,False,False,I'm Still Here,nm0000729,Casey Affleck,I'm Still Here,2010.0,Comedy,1144082
+tt1537401,2010,Grand Prix Asturias,Best Film,False,False,Leap Year,nm3669732,Michael Rowe,Leap Year,2011.0,Drama,227809
+tt1473074,2010,Grand Prix Asturias,Best Film,False,False,Mammuth,nm0218022,Benoît Delépine,Mammuth,2011.0,Comedy,7689822
+tt1518812,2010,Grand Prix Asturias,Best Film,False,True,Meek's Cutoff,nm0716980,Kelly Reichardt,Meek's Cutoff,2010.0,Drama,2550711
+tt1339161,2010,Grand Prix Asturias,Best Film,False,True,The Robber,nm0374663,Benjamin Heisenberg,The Robber,2011.0,Others,331699
+tt1516593,2010,Grand Prix Asturias,Best Film,False,False,Tilva Rosh,nm3116547,Nikola Lezaic,Tilva Rosh,2011.0,Drama,22183
+tt1179927,2010,Grand Prix Asturias,Best Film,False,False,Todas las canciones hablan de mí,nm0343903,Jonás Trueba,Todas las canciones hablan de mí,2010.0,Comedy,338286
+tt1646984,2010,Grand Prix Asturias,Best Film,False,False,You All Are Captains,nm3890574,Oliver Laxe,You All Are Captains,2011.0,Drama,7947
+tt1605765,2010,"""Rellumes"" Prize",,True,True,The Happy Poet,nm1969831,Paul Gordon,The Happy Poet,2010.0,Comedy,7955
+tt1931470,2011,Grand Prix Asturias,Best Film,True,True,Declaration of War,nm0233123,Valérie Donzelli,Declaration of War,2012.0,Drama,6719675
+tt1690455,2011,Grand Prix Asturias,Best Film,False,False,Dark Horse,nm0001754,Todd Solondz,Dark Horse,2012.0,Comedy,560564
+tt1437357,2011,Grand Prix Asturias,Best Film,False,True,Faust,nm0812546,Aleksandr Sokurov,Faust,2013.0,Drama,127477
+tt1618447,2011,Grand Prix Asturias,Best Film,False,False,Goodbye First Love,nm0361135,Mia Hansen-Løve,Goodbye First Love,2011.0,Drama,686952
+tt1906426,2011,Grand Prix Asturias,Best Film,False,False,Michael,nm0772207,Markus Schleinzer,Michael,2012.0,Drama,153498
+tt1666168,2011,Grand Prix Asturias,Best Film,False,False,Outside Satan,nm0241622,Bruno Dumont,Outside Satan,2013.0,Drama,8018
+tt1376717,2011,Grand Prix Asturias,Best Film,False,True,Play,nm1128037,Ruben Östlund,Play,2011.0,Drama,117367
+tt1675192,2011,Grand Prix Asturias,Best Film,False,True,Take Shelter,nm2158772,Jeff Nichols,Take Shelter,2011.0,Drama,5604306
+tt1687281,2011,Grand Prix Asturias,Best Film,False,False,Terri,nm0414337,Azazel Jacobs,Terri,2011.0,Comedy,1521992
+tt1787127,2011,Grand Prix Asturias,Best Film,False,False,The Forgiveness of Blood,nm0551358,Joshua Marston,The Forgiveness of Blood,2011.0,Drama,317713
+tt1235170,2011,Grand Prix Asturias,Best Film,False,False,The Future,nm0432380,Miranda July,The Future,2011.0,Drama,1689357
+tt1756595,2011,Grand Prix Asturias,Best Film,False,False,The Giants,nm0099521,Bouli Lanners,The Giants,2012.0,Others,387072
+tt1890472,2012,Grand Prix Asturias,Best Film,True,False,About the Pink Sky,nm2796318,Keiichi Kobayashi,About the Pink Sky,2012.0,Drama,21413
+tt1729226,2012,Grand Prix Asturias,Best Film,False,False,10 timer til Paradis,nm1323584,Mads Matthiesen,10 timer til Paradis,2012.0,Drama,41664
+tt1621766,2012,Grand Prix Asturias,Best Film,False,False,Approved for Adoption,nm3847394,Laurent Boileau,Approved for Adoption,2013.0,Others,102632
+tt2258281,2012,Grand Prix Asturias,Best Film,False,False,Beyond the Hills,nm0612816,Cristian Mungiu,Beyond the Hills,2012.0,Drama,882047
+tt1918727,2012,Grand Prix Asturias,Best Film,False,False,California Solo,nm1218697,Marshall Lewy,California Solo,2012.0,Drama,34799
+tt2123230,2012,Grand Prix Asturias,Best Film,False,True,Children of Sarajevo,nm1548101,Aida Begic,Children of Sarajevo,2013.0,Drama,42696
+tt2139919,2012,Grand Prix Asturias,Best Film,False,False,Gimme the Loot,nm1383301,Adam Leon,Gimme the Loot,2012.0,Comedy,246449
+tt2063666,2012,Grand Prix Asturias,Best Film,False,False,Hello I Must Be Going,nm0521974,Todd Louiso,Hello I Must Be Going,2012.0,Comedy,520473
+tt1770734,2012,Grand Prix Asturias,Best Film,False,False,Shadow Dancer,nm1016428,James Marsh,Shadow Dancer,2012.0,Drama,588562
+tt1638353,2012,Grand Prix Asturias,Best Film,False,True,The Patience Stone,nm1680298,Atiq Rahimi,The Patience Stone,2013.0,Drama,882768
+tt2327371,2012,Grand Prix Asturias,Best Film,False,False,The Sale of Paradise,nm1893182,Emilio Ruiz Barrachina,The Sale of Paradise,2013.0,Comedy,4824
+tt1981713,2012,Grand Prix Asturias,Best Film,False,False,Viaje a Surtsey,nm1298014,Javier Asenjo,Viaje a Surtsey,2013.0,Comedy,75830
+tt1798188,2012,"Young Audience Award (""Enfants Terribles"")",Best Feature Film for Children,False,False,From Up on Poppy Hill,,[],From Up on Poppy Hill,2012.0,Others,68865945
+tt2402705,2012,"""Rellumes"" Prize",,False,False,El efecto K. El montador de Stalin,nm2164028,Valentí Figueres,El efecto K. El montador de Stalin,2013.0,Others,372
+tt2718492,2013,Grand Prix Asturias,Best Film,True,True,Ida,nm0667734,Pawel Pawlikowski,Ida,2013.0,Drama,16372301
+tt2191082,2013,Grand Prix Asturias,Best Film,False,False,A Promise,nm0496312,Patrice Leconte,A Promise,2014.0,Drama,529485
+tt2359024,2013,Grand Prix Asturias,Best Film,False,True,Blue Ruin,nm1099918,Jeremy Saulnier,Blue Ruin,2013.0,Others,1366090
+tt2390361,2013,Grand Prix Asturias,Best Film,False,False,Enough Said,nm0392237,Nicole Holofcener,Enough Said,2013.0,Comedy,46875608
+tt2776106,2013,Grand Prix Asturias,Best Film,False,False,Floating Skyscrapers,nm3814074,Tomasz Wasilewski,Floating Skyscrapers,2013.0,Drama,151475
+tt3106846,2013,Grand Prix Asturias,Best Film,False,True,Gabrielle,nm0033596,Louise Archambault,Gabrielle,2013.0,Drama,255546
+tt2865688,2013,Grand Prix Asturias,Best Film,False,True,Henri,nm0603446,Yolande Moreau,Henri,2013.0,Drama,491947
+tt2901736,2013,Grand Prix Asturias,Best Film,False,False,Ilo Ilo,nm2021547,Anthony Chen,Ilo Ilo,2013.0,Drama,1347479
+tt2199439,2013,Grand Prix Asturias,Best Film,False,False,La distancia más larga,nm2323201,Claudia Pinto,La distancia más larga,2014.0,Drama,1472346
+tt2431308,2013,Grand Prix Asturias,Best Film,False,False,Little One,nm0740213,Darrell Roodt,Little One,2013.0,Drama,29119
+tt2315200,2013,Grand Prix Asturias,Best Film,False,False,"Me, Myself and Mum",nm0302916,Guillaume Gallienne,"Me, Myself and Mum",2014.0,Comedy,17450109
+tt2414046,2013,Grand Prix Asturias,Best Film,False,True,The Amazing Catfish,nm2404755,Claudia Sainte-Luce,The Amazing Catfish,2014.0,Comedy,345741
+tt2404461,2013,Grand Prix Asturias,Best Film,False,False,The Past,nm1410815,Asghar Farhadi,The Past,2013.0,Drama,13056843
+tt2679680,2013,Non-Fiction/Documentary Award,,False,False,Plot for Peace,nm1259337,Carlos Agulló,Plot for Peace,2014.0,Others,50437
+tt2186566,2013,"Young Audience Award (""Enfants Terribles"")",Best Feature Film for Children,True,True,The Little Ghost,nm1312629,Alain Gsponer,The Little Ghost,2013.0,Others,9418370
+tt2165236,2013,Audience Award,,True,True,Turning Tide,nm0644393,Christophe Offenstein,Turning Tide,2014.0,Others,7577723
+tt2234003,2014,Grand Prix Asturias,Best Film,False,False,Calvary,nm0567620,John Michael McDonagh,Calvary,2014.0,Drama,22382405
+tt2986768,2014,Grand Prix Asturias,Best Film,False,False,El Cinco,nm2254150,Adrián Biniez,El Cinco,2015.0,Comedy,81079
+tt2891070,2014,Grand Prix Asturias,Best Film,False,False,Hippocrates: Diary of a French Doctor,nm1662707,Thomas Lilti,Hippocrates: Diary of a French Doctor,2015.0,Drama,8115667
+tt3092552,2014,Grand Prix Asturias,Best Film,False,False,Life Feels Good,nm1450964,Maciej Pieprzyca,Life Feels Good,2013.0,Drama,1574052
+tt3204144,2014,Grand Prix Asturias,Best Film,False,False,Love at First Fight,nm3619993,Thomas Cailley,Love at First Fight,2014.0,Comedy,2660161
+tt3660370,2014,Grand Prix Asturias,Best Film,False,True,Party Girl,nm2276757,Marie Amachoukeli-Barsacq,Party Girl,2015.0,Drama,1451809
+tt2245171,2014,Grand Prix Asturias,Best Film,False,False,The Cut,nm0015359,Fatih Akin,The Cut,2015.0,Others,1361134
+tt3019620,2014,Grand Prix Asturias,Best Film,False,True,Titli,nm2885983,Kanu Behl,Titli,2015.0,Others,246794
+tt2238050,2014,Grand Prix Asturias,Best Film,False,False,White Bird in a Blizzard,nm0000777,Gregg Araki,White Bird in a Blizzard,2014.0,Drama,540576
+tt3186946,2014,Grand Prix Asturias,Best Film,False,True,Xenia,nm3267450,Panos H. Koutras,Xenia,2014.0,Drama,178381
+tt3334794,2014,"Young Audience Award (""Enfants Terribles"")",Best Feature Film for Audiences Over 13 Years Old,True,True,About a Girl,nm1103518,Mark Monheim,About a Girl,2015.0,Comedy,110404
+tt4045488,2014,"Young Audience Award (""Enfants Terribles"")",Best Feature Film for Audiences Under 13 Years Old,True,True,Fiddlesticks,nm0375691,Veit Helmer,Fiddlesticks,2015.0,Others,251621
+tt4768776,2015,Grand Prix Asturias,Best Film,True,True,"Right Now, Wrong Then",nm0393254,Sang-soo Hong,"Right Now, Wrong Then",2015.0,Drama,757708
+tt4935084,2015,Grand Prix Asturias,Best Film,False,True,Bleak Street,nm0728149,Arturo Ripstein,Bleak Street,2016.0,Others,8508
+tt3841424,2015,Grand Prix Asturias,Best Film,False,True,Land of Mine,nm1324710,Martin Zandvliet,Land of Mine,2016.0,Drama,3888316
+tt4685750,2015,Grand Prix Asturias,Best Film,False,True,Much Loved,nm0043953,Nabil Ayouch,Much Loved,2016.0,Drama,1371708
+tt3172532,2015,Grand Prix Asturias,Best Film,False,True,The Diary of a Teenage Girl,nm1716636,Marielle Heller,The Diary of a Teenage Girl,2015.0,Comedy,3487288
+tt4688658,2015,ANIMAFICX Award,,True,True,The Magic Mountain,nm0198746,Anca Damian,The Magic Mountain,2015.0,Others,1277
+tt5937296,2016,Grand Prix Asturias,Best Film,True,True,Glory,nm1571492,Kristina Grozeva,Glory,2016.0,Drama,112210
+tt5121548,2016,Grand Prix Asturias,Best Film,False,False,Breadcrumbs,nm0735979,Manane Rodríguez,Breadcrumbs,2016.0,Drama,62486
+tt4466648,2016,Grand Prix Asturias,Best Film,False,False,Death in Sarajevo,nm0849786,Danis Tanovic,Death in Sarajevo,2016.0,Drama,49131
+tt5766118,2016,Grand Prix Asturias,Best Film,False,False,Heaven Will Wait,nm1310723,Marie-Castille Mention-Schaar,Heaven Will Wait,2016.0,Drama,2094732
+tt5695764,2016,Grand Prix Asturias,Best Film,False,False,Inversion,nm0994258,Behnam Behzadi,Inversion,2017.0,Drama,63715
+tt5712152,2016,Grand Prix Asturias,Best Film,False,False,Layla M.,nm0209010,Mijke de Jong,Layla M.,2016.0,Drama,281217
+tt5638094,2016,Grand Prix Asturias,Best Film,False,True,Ma' Rosa,nm1137289,Brillante Mendoza,Ma' Rosa,2017.0,Drama,93015
+tt4034228,2016,Grand Prix Asturias,Best Film,False,True,Manchester by the Sea,nm0518836,Kenneth Lonergan,Manchester by the Sea,2016.0,Drama,134090426
+tt4530968,2016,Grand Prix Asturias,Best Film,False,False,Mercenary,nm2022637,Sacha Wolff,Mercenary,2016.0,Drama,87781
+tt4551318,2016,Grand Prix Asturias,Best Film,False,True,Paradise,nm0464846,Andrey Konchalovskiy,Paradise,2016.0,Drama,1041957
+tt5822414,2016,Grand Prix Asturias,Best Film,False,False,Sicixia,nm1281606,Ignacio Vilar,Sicixia,2016.0,Drama,63986
+tt4746506,2016,Grand Prix Asturias,Best Film,False,False,Sweet Dreams,nm0069166,Marco Bellocchio,Sweet Dreams,2016.0,Drama,2006937
+tt4196450,2016,Grand Prix Asturias,Best Film,False,False,The Birth of a Nation,nm1676649,Nate Parker,The Birth of a Nation,2016.0,Others,34506763
+tt5061162,2016,Grand Prix Asturias,Best Film,False,True,The Teacher,nm0398575,Jan Hrebejk,The Teacher,2016.0,Comedy,1495746
+tt4447076,2016,Audience Award,Rellumes,True,True,Rosalie Blum,nm1272853,Julien Rappeneau,Rosalie Blum,2016.0,Comedy,4506665
+tt6370614,2017,Grand Prix Asturias,Best Film,False,False,Did You Wonder Who Fired the Gun?,nm1288933,Travis Wilkerson,Did You Wonder Who Fired the Gun?,2017.0,Others,43703
+tt6467968,2017,Grand Prix Asturias,Best Film,False,True,Directions,nm0464526,Stephan Komandarev,Directions,2017.0,Drama,203785
+tt5687040,2017,Grand Prix Asturias,Best Film,False,False,Ismael's Ghosts,nm0221611,Arnaud Desplechin,Ismael's Ghosts,2018.0,Drama,3254405
+tt6340264,2017,Grand Prix Asturias,Best Film,False,False,Jeannette: The Childhood of Joan of Arc,nm0241622,Bruno Dumont,Jeannette: The Childhood of Joan of Arc,2018.0,Others,3686
+tt5859238,2017,Grand Prix Asturias,Best Film,False,True,Lucky,nm0002253,John Carroll Lynch,Lucky,2017.0,Comedy,2917340
+tt3810810,2017,Grand Prix Asturias,Best Film,False,False,Nobody's Watching,nm0813439,Julia Solomonoff,Nobody's Watching,2017.0,Drama,38610
+tt6412864,2017,Grand Prix Asturias,Best Film,False,False,On the Beach at Night Alone,nm0393254,Sang-soo Hong,On the Beach at Night Alone,2017.0,Drama,486828
+tt6288250,2017,Grand Prix Asturias,Best Film,False,False,Patti Cake$,nm3017455,Geremy Jasper,Patti Cake$,2017.0,Drama,2375740
+tt5818818,2017,Grand Prix Asturias,Best Film,False,False,The Divine Order,nm1273344,Petra Biondina Volpe,The Divine Order,2017.0,Comedy,281132
+tt6598514,2017,Grand Prix Asturias,Best Film,False,False,The Future Ahead,nm0637105,Constanza Novick,El futuro que viene,2018.0,Drama,39587
+tt6226610,2017,Grand Prix Asturias,Best Film,False,True,Until the Birds Return,nm3123196,Karim Moussaoui,Until the Birds Return,2017.0,Drama,252850
+tt8725958,2018,Grand Prix Asturias,Best Film,True,True,Hotel by the River,nm0393254,Sang-soo Hong,Hotel by the River,2019.0,Drama,94316
+tt8726008,2018,Grand Prix Asturias,Best Film,False,False,Alice T.,nm1364086,Radu Muntean,Alice T.,2018.0,Drama,4357
+tt8506840,2018,Grand Prix Asturias,Best Film,False,True,I Do Not Care If We Go Down in History as Barbarians,nm1257492,Radu Jude,I Do Not Care If We Go Down in History as Barbarians,2019.0,Comedy,38829
+tt6101602,2018,Grand Prix Asturias,Best Film,False,False,Madeline's Madeline,nm2528451,Josephine Decker,Madeline's Madeline,2018.0,Drama,388050
+tt6415416,2018,Grand Prix Asturias,Best Film,False,False,Mug,nm0844333,Malgorzata Szumowska,Mug,2018.0,Comedy,1067890
+tt8274146,2018,Grand Prix Asturias,Best Film,False,False,One Day,nm2931674,Zsófia Szilágyi,One Day,2018.0,Drama,87986
+tt6859352,2018,Grand Prix Asturias,Best Film,False,False,Support the Girls,nm1216004,Andrew Bujalski,Support the Girls,2018.0,Comedy,269114
+tt5083738,2018,Grand Prix Asturias,Best Film,False,True,The Favourite,nm0487166,Yorgos Lanthimos,The Favourite,2018.0,Others,132523180
+tt6952960,2018,Grand Prix Asturias,Best Film,False,False,The Kindergarten Teacher,nm2528690,Sara Colangelo,The Kindergarten Teacher,2018.0,Drama,688944
+tt7839456,2018,Grand Prix Asturias,Best Film,False,False,The Prayer,nm0434806,Cédric Kahn,The Prayer,2018.0,Drama,1756603
+tt6704974,2018,Grand Prix Asturias,Best Film,False,False,To the Ends of the World,nm0630112,Guillaume Nicloux,To the Ends of the World,2018.0,Drama,249242
+tt8726098,2018,Grand Prix Asturias,Best Film,False,True,Too Late to Die Young,nm3049622,Dominga Sotomayor Castillo,Too Late to Die Young,2019.0,Drama,41078
+tt5929754,2018,Grand Prix Asturias,Best Film,False,False,Wildlife,nm0200452,Paul Dano,Wildlife,2019.0,Drama,4249755
+tt5490896,2018,Dia D'Asturias Award,Best Film,True,True,They Buried,nm4727407,Luis Trapiello,They Buried,2019.0,Drama,180
+tt6175820,2018,Enfant Terribles Award,Best Film,True,True,This Crazy Heart,nm0745131,Marc Rothemund,This Crazy Heart,2019.0,Comedy,20118769

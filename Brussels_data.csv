@@ -1,0 +1,16 @@
+tconst,Year,awardName,categoryName,isWinner,otherAwards,primaryNominees,nconst,secondaryNominees,Name,releaseYear,Genre1,AdjustedTotalGross
+tt0323551,2003,Best Direction,International Competition,True,True,Bad Boys,nm0617407,Aleksi Mäkelä,Bad Boys,2003.0,Others,6720369
+tt1135961,2007,Grand Prize,International Competition,True,False,Bangkok Love Story,nm1547925,Poj Arnon,Bangkok Love Story,2008.0,Others,435660
+tt0827503,2007,Best Actor,International Competition,True,True,The Magician,nm0948000,Cem Yilmaz,The Magician,2006.0,Comedy,11582939
+tt0834170,2008,Grand Prize,,True,False,Autumn Ball,nm1803711,Veiko Õunpuu,Autumn Ball,2007.0,Drama,20758
+tt0844742,2008,Best Actress,,True,True,Requiem from Java,nm1971808,Artika Sari Devi,Requiem from Java,2008.0,Others,34415
+tt1364478,2009,Best Direction,,True,True,Casanegra,nm0482236,Nour Eddine Lakhmari,Casanegra,2010.0,Drama,106060
+tt1331320,2010,Best Direction,International Competition,True,True,Northless,nm1574929,Rigoberto Pérezcano,Northless,2009.0,Drama,49949
+tt2091312,2010,Best Actor,International Competition,True,True,Here Comes the Rain,nm4734814,Hassan Mrad,Here Comes the Rain,2010.0,Drama,34701
+tt1337140,2010,Special Jury Award,International Competition,True,True,Buried Secrets,nm1075853,Raja Amari,Anonymes,2010.0,Drama,26939489
+tt1473149,2010,Best Screenplay,International Competition,True,True,"Scheherazade, Tell Me a Story",nm1431644,Wahid Hamid,"Scheherazade, Tell Me a Story",2011.0,Drama,363250
+tt2121768,2011,Grand Prize,International Competition,False,False,Hayde bre,nm0644861,Orhan Oguz,Hayde bre,2010.0,Drama,49990
+tt1447504,2011,Grand Prize,International Competition,False,True,Matariki,nm0071935,Michael Bennett,Matariki,2010.0,Drama,15819
+tt1574639,2011,Grand Prize,International Competition,False,False,Predicament,nm1320215,Jason Stutter,Predicament,2010.0,Comedy,129936
+tt1918638,2012,Best Actor,International Competition,True,True,Blind Intersections,,[],Blind Intersections,2013.0,Drama,104479
+tt1906470,2012,Best First Film,Closing Film,False,False,Tannoura Maxi,nm4488446,Joe Bou Eid,Tannoura Maxi,2012.0,Drama,130987

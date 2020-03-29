@@ -1,0 +1,23 @@
+tconst,Year,awardName,categoryName,isWinner,otherAwards,primaryNominees,nconst,secondaryNominees,Name,releaseYear,Genre1,AdjustedTotalGross
+tt0169102,2001,Audience Award,,True,True,Lagaan: Once Upon a Time in India,nm0332950,Ashutosh Gowariker,Lagaan: Once Upon a Time in India,2001.0,Others,3781319
+tt0252444,2002,Audience Award,,True,True,Rabbit-Proof Fence,nm0637518,Phillip Noyce,Rabbit-Proof Fence,2003.0,Others,31527915
+tt0363510,2003,Audience Award,,True,True,The Revolution Will Not Be Televised,nm1378741,Kim Bartley,The Revolution Will Not Be Televised,2003.0,Documentary,426909
+tt0388318,2005,Golden Owl Award,,True,False,Frozen Land,nm0521803,Aku Louhimies,Frozen Land,2006.0,Drama,2176355
+tt0455949,2005,Audience Award,Best Documentary,True,True,Favela Rising,nm1310771,Matt Mochary,Favela Rising,2005.0,Documentary,51952
+tt0424205,2005,Audience Award,Best Feature,True,True,Joyeux Noel,nm0137228,Christian Carion,Joyeux Noel,2005.0,Drama,24266087
+tt0415855,2005,Grand Prize of European Fantasy Film in Silver,,True,True,Hotel,nm0369618,Jessica Hausner,Hotel,2004.0,Drama,7248
+tt0854114,2006,Golden Owl Award,,True,False,Dreams,nm1865534,Mohamed Al Daradji,Dreams,2007.0,Drama,39859
+tt0449642,2006,Golden Owl Award,,False,False,Ryna,nm1552776,Ruxandra Zenide,Ryna,2006.0,Drama,6280
+tt0446719,2006,Grand Prize of European Fantasy Film in Silver,,True,True,Isolation,nm0639376,Billy O'Brien,Isolation,2006.0,Others,355638
+tt0809931,2007,Special Mention,,True,True,Noise,nm1234242,Matthew Saville,Noise,2007.0,Others,990059
+tt1220214,2009,Grand Prize of European Fantasy Film in Silver,,True,True,Heartless,nm0726000,Philip Ridley,Heartless,2010.0,Drama,28184
+tt1655442,2011,Audience Award,Best Feature,True,True,The Artist,nm0486627,Thomas Langmann,The Artist,2012.0,Others,200799675
+tt2184331,2012,Golden Owl Award,,False,False,Una noche,nm2280980,Lucy Mulloy,Una noche,2012.0,Drama,236339
+tt1480658,2012,Grand Prize of European Fantasy Film in Silver,,True,True,Eddie: The Sleepwalking Cannibal,nm0735257,Boris Rodriguez,Eddie: The Sleepwalking Cannibal,2013.0,Others,52102
+tt2178256,2013,Audience Award,Best Feature,True,True,The Rocket,nm1203596,Kim Mordaunt,The Rocket,2013.0,Drama,555962
+tt3175438,2014,Audience Award,Best Feature,False,False,Asmodexia,nm4787750,Marc Carreté,Asmodexia,2014.0,Others,448
+tt3304524,2015,Audience Award,New Feature Documentary,True,True,Landfill Harmonic,nm3441494,Brad Allgood,Landfill Harmonic,2015.0,Others,37241
+tt5433330,2017,Audience Award,Best Documentary,False,False,It's Not Yet Dark,nm5942839,Frankie Fenton,It's Not Yet Dark,2017.0,Documentary,6761
+tt7207238,2017,Audience Award,Cinema Versa,True,True,Jane,nm4970533,Brett Morgan,Jane,2017.0,Others,3775881
+tt3901826,2017,Audience Award,Fanomenon,True,True,The Breadwinner,nm1316072,Nora Twomey,The Breadwinner,2017.0,Others,3212193
+tt5027774,2017,Audience Award,Overall Winner,True,True,"Three Billboards Outside Ebbing, Missouri",nm1732981,Martin McDonagh,"Three Billboards Outside Ebbing, Missouri",2017.0,Others,221547257

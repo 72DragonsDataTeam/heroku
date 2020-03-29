@@ -1,0 +1,349 @@
+tconst,Year,awardName,categoryName,isWinner,otherAwards,primaryNominees,nconst,secondaryNominees,Name,releaseYear,Genre1,AdjustedTotalGross
+tt0250478,2000,Golden Tesafilm Roll,,True,True,Nico and Dani,nm0310747,Cesc Gay,Nico and Dani,2001.0,Comedy,1080645
+tt0249643,2001,Digi@ward,,True,True,Kat,nm0200546,Henrik Danstrup,Kat,2002.0,Others,94487
+tt0246692,2002,Digi@ward,,True,True,Old Men in New Cars: In China They Eat Dogs II,nm1183761,Michel Schønnemann,Old Men in New Cars: In China They Eat Dogs II,2003.0,Others,200478
+tt0339230,2003,Audience Award,,True,True,Kopps,nm0267244,Josef Fares,Kopps,2003.0,Others,5429957
+tt0349691,2004,Audience Award,,True,True,Dog Nail Clipper,nm0702522,Markku Pölönen,Dog Nail Clipper,2004.0,Drama,2354387
+tt0382095,2004,Children's Filmfest Audience Award,,True,True,In Orange,nm0003400,Joram Lürsen,In Orange,2004.0,Drama,1784615
+tt0386342,2004,Critics Award,,True,True,Brothers,nm0081540,Susanne Bier,Brothers,2005.0,Drama,1177806
+tt0319917,2004,Michel Award,,True,True,Planta 4ª,nm0580318,Antonio Mercero,Planta 4ª,2004.0,Comedy,8205301
+tt0418455,2005,Audience Award,,True,True,Adam's Apples,nm0421314,Anders Thomas Jensen,Adam's Apples,2006.0,Comedy,3098912
+tt0424273,2005,Otto-Sprenger New Talent Award,,True,True,Electric Shadows,nm1718052,Jiang Xiao,Electric Shadows,2005.0,Drama,83024
+tt0472113,2005,Critics Award,,True,True,Iron Island,nm1488024,Mohammad Rasoulof,Iron Island,2005.0,Drama,69869
+tt0431380,2005,Michel Award,,True,True,The Treasure of the White Falcons,nm0959255,Christian Zübert,The Treasure of the White Falcons,2005.0,Others,198092
+tt0785002,2006,Audience Award,,True,True,Heartbreak Hotel,nm0638324,Colin Nutley,Heartbreak Hotel,2006.0,Comedy,9928724
+tt0479230,2006,Audience Award,,False,False,Crossing Borders,nm0407069,Carlos Iglesias,Crossing Borders,2006.0,Comedy,2095463
+tt0390245,2006,Audience Award,,False,False,Matti: Hell Is for Heroes,nm0617407,Aleksi Mäkelä,Matti: Hell Is for Heroes,2007.0,Others,5503315
+tt0470079,2006,Audience Award,,False,False,Rafters,nm0417306,Karel Janák,Rafters,2006.0,Comedy,3769370
+tt0480051,2006,Otto-Sprenger New Talent Award,,True,True,Vineta,nm0836106,Franziska Stünkel,Vineta,2007.0,Drama,27851
+tt0476298,2006,Critics Award,,True,True,Madeinusa,nm2013191,Claudia Llosa,Madeinusa,2006.0,Drama,313286
+tt0872094,2006,Critics Award,,False,False,Children,nm0103880,Ragnar Bragason,Children,2007.0,Drama,14868
+tt0499455,2006,Critics Award,,False,False,Day Night Day Night,nm0518123,Julia Loktev,Day Night Day Night,2006.0,Others,90513
+tt0845439,2006,Critics Award,,False,False,Fireworks Wednesday,nm1410815,Asghar Farhadi,Fireworks Wednesday,2016.0,Drama,225787
+tt0353667,2006,Critics Award,,False,False,Impossibly Yours,nm0279146,Torsten C. Fischer,Impossibly Yours,2007.0,Drama,82553
+tt0466562,2006,Critics Award,,False,False,Nafaka,nm1568080,Jasmin Durakovic,Nafaka,2006.0,Others,11394
+tt0491253,2006,Critics Award,,False,False,Ça brûle,nm0800098,Claire Simon,Ça brûle,2008.0,Drama,1595
+tt0488059,2006,Michel Award - Special Mention,,True,True,The Lost Treasure of the Knights Templar,nm0054504,Kasper Barfoed,The Lost Treasure of the Knights Templar,2006.0,Others,12840
+tt1130898,2007,Screenplay Award,,True,True,Underdogs,nm1992304,Jan-Hinrik Drevs,Underdogs,2008.0,Drama,246811
+tt0809951,2007,Audience Award,,True,True,Empties,nm0841232,Jan Sverák,Empties,2008.0,Comedy,1180
+tt0421082,2007,Critics Award,,True,True,Control,nm0179221,Anton Corbijn,Control,2007.0,Others,11046675
+tt0450121,2007,Michel Award,,True,True,Red Like the Sky,nm0097580,Cristiano Bortone,Red Like the Sky,2008.0,Drama,875408
+tt0448150,2007,Jetix Movie Award,,True,True,Trick or Treaters,nm0293901,Hayo Freitag,Die drei Räuber,2007.0,Others,7404877
+tt0910955,2008,Screenplay Award,,True,True,It's Hard to Be Nice,nm0904406,Srdjan Vuletic,It's Hard to Be Nice,2008.0,Comedy,23353
+tt1100048,2008,Screenplay Award,,False,True,35 Shots of Rum,nm0219136,Claire Denis,35 Shots of Rum,2009.0,Drama,1379424
+tt0961066,2008,Screenplay Award,,False,False,Everlasting Moments,nm0753637,Niklas Rådström,Everlasting Moments,2008.0,Others,4712690
+tt1043869,2008,Screenplay Award,,False,False,For My Father,nm2670473,Ido Dror,For My Father,2010.0,Drama,220404
+tt1064932,2008,Audience Award,,True,True,Welcome to the Sticks,nm0200702,Dany Boon,Welcome to the Sticks,2008.0,Comedy,291617589
+tt1105753,2008,Audience Award,,False,False,Grapes,nm0054685,Tomás Barina,Grapes,2009.0,Comedy,2846395
+tt1133617,2008,Audience Award,,False,False,Missing Persons Unit,nm0894178,Jan Verheyen,Missing Persons Unit,2007.0,Others,2424121
+tt0892332,2008,Audience Award,,False,False,Noodle,nm0578690,Ayelet Menahemi,Noodle,2008.0,Comedy,416073
+tt0940770,2008,Audience Award,,False,False,Playing Solo,nm0638189,Lauri Nurkse,Playing Solo,2007.0,Comedy,2786134
+tt1205918,2008,Audience Award,,False,False,Seamstresses,nm0865378,Lyudmil Todorov,Seamstresses,2007.0,Drama,52048
+tt0937378,2008,Audience Award,,False,False,Wolf,nm0019242,Daniel Alfredson,Wolf,2008.0,Others,1707404
+tt1042424,2008,Young Talent Award,,True,True,Johnny Mad Dog,nm0767160,Jean-Stéphane Sauvaire,Johnny Mad Dog,2011.0,Drama,247327
+tt0815490,2008,Young Talent Award,,False,False,Acné,nm0992159,Federico Veiroj,Acné,2008.0,Comedy,97510
+tt1204366,2008,Young Talent Award,,False,False,Desierto adentro,nm0687751,Rodrigo Plá,Desierto adentro,2009.0,Drama,58512
+tt1176954,2008,Young Talent Award,,False,False,Eldorado,nm0099521,Bouli Lanners,Eldorado,2009.0,Comedy,2213625
+tt0844457,2008,Young Talent Award,,False,False,North Face,nm0836715,Philipp Stölzl,North Face,2009.0,Others,1941996
+tt0978759,2008,Critics Award,,True,True,Frozen River,nm2581581,Courtney Hunt,Frozen River,2008.0,Others,9257629
+tt1226297,2008,Critics Award,,False,False,Dernier maquis,nm1140699,Rabah Ameur-Zaïmeche,Adhen,2009.0,Drama,252717
+tt1225290,2008,Critics Award,,False,False,Four Nights with Anna,nm0804592,Jerzy Skolimowski,Four Nights with Anna,2008.0,Others,181246
+tt1002539,2008,Critics Award,,False,False,Liverpool,nm1027762,Lisandro Alonso,Liverpool,2008.0,Drama,28414
+tt1201637,2008,Critics Award,,False,False,Lost Indulgence,nm1403892,Yibai Zhang,Lost Indulgence,2008.0,Drama,362129
+tt1010412,2008,Critics Award,,False,False,Nowhere Man,nm0870299,Patrice Toye,Nowhere Man,2008.0,Drama,31534
+tt1232790,2008,Critics Award,,False,False,Of Time and the City,nm0203993,Terence Davies,Of Time and the City,2008.0,Others,656170
+tt1286165,2008,Critics Award,,False,False,The Market: A Tale of Trade,nm0394114,Ben Hopkins,The Market: A Tale of Trade,2009.0,Drama,118536
+tt1223975,2008,Critics Award,,False,False,Tony Manero,nm1883257,Pablo Larraín,Tony Manero,2008.0,Drama,827071
+tt1132607,2008,Critics Award,,False,False,Versailles,nm0778144,Pierre Schoeller,Versailles,2009.0,Drama,1066878
+tt1074929,2008,Art Cinema Award,,False,True,Adoration,nm0000382,Atom Egoyan,Adoration,2009.0,Drama,813601
+tt1182972,2008,Art Cinema Award,,False,False,Bachna Ae Haseeno,nm1893457,Siddharth Anand,Bachna Ae Haseeno,2008.0,Comedy,14100474
+tt0211946,2008,Art Cinema Award,,False,False,Berlin Calling,nm0836708,Hannes Stöhr,Berlin Calling,2009.0,Comedy,719509
+tt0861689,2008,Art Cinema Award,,False,False,Blindness,nm0576987,Fernando Meirelles,Blindness,2008.0,Drama,27371269
+tt0787500,2008,Art Cinema Award,,False,False,Love Comes Lately,nm0778338,Jan Schütte,Love Comes Lately,2008.0,Comedy,357110
+tt1172522,2008,Art Cinema Award,,False,False,Machan,nm0664667,Uberto Pasolini,Machan,2009.0,Others,335044
+tt1052353,2008,Art Cinema Award,,False,False,Sagan,nm0476123,Diane Kurys,Sagan,2010.0,Others,6294375
+tt0862846,2008,Art Cinema Award,,False,False,Sunshine Cleaning,nm0420422,Christine Jeffs,Sunshine Cleaning,2009.0,Comedy,34325700
+tt1233381,2008,Art Cinema Award,,False,False,Three Monkeys,nm0149196,Nuri Bilge Ceylan,Three Monkeys,2009.0,Drama,2419643
+tt0469099,2008,Michel Award,,True,True,Hey Hey It's Esther Blueburger,nm1830797,Cathy Randall,Hey Hey It's Esther Blueburger,2008.0,Comedy,949036
+tt0932547,2008,Michel Award,,False,True,Butterflies,nm0027733,Kjell-Åke Andersson,Butterflies,2007.0,Drama,94921
+tt1092029,2008,Michel Award,,False,False,First Time Godfather,nm0539287,Olga Malea,First Time Godfather,2007.0,Comedy,2599448
+tt1110630,2008,Michel Award,,False,False,Jasper: Penguin Explorer,nm0277728,Eckart Fingberg,Jasper: Journey to the End of the World,2009.0,Others,869582
+tt0848596,2008,Michel Award,,False,False,Mutum,nm0463156,Sandra Kogut,Mutum,2009.0,Drama,175621
+tt1215513,2008,Michel Award,,False,False,Paper Prince,nm1293153,Marko Kostic,Paper Prince,2007.0,Others,23929
+tt1186025,2008,Michel Award,,False,False,SOS: Summer of Suspense,nm0639021,Arne Lindtner Næss,SOS: Summer of Suspense,2008.0,Others,2220988
+tt0892429,2008,Michel Award,,False,False,The Seven of Daran: Battle of Pareo Rock,nm2361914,Lourens Blok,The Seven of Daran: Battle of Pareo Rock,2009.0,Others,369321
+tt1389374,2009,Screenplay Award,,True,True,"She, a Chinese",nm1802151,Xiaolu Guo,"She, a Chinese",2010.0,Drama,81577
+tt1350940,2009,Audience Award,,True,True,La première étoile,nm0419894,Lucien Jean-Baptiste,La première étoile,2009.0,Comedy,16986248
+tt1410272,2009,Young Talent Award,,True,True,Before Your Eyes,nm3109814,Miraz Bezar,Before Your Eyes,2010.0,Drama,118682
+tt1127877,2009,Critics Award,,True,True,Cold Souls,nm1754436,Sophie Barthes,Cold Souls,2009.0,Comedy,2467409
+tt1337051,2009,Foreign Press Award,,True,True,"Police, Adjective",nm1717949,Corneliu Porumboiu,"Police, Adjective",2009.0,Others,207287
+tt1244668,2009,Art Cinema Award,,True,True,Soul Kitchen,nm0015359,Fatih Akin,Soul Kitchen,2010.0,Comedy,22541155
+tt1286151,2009,Michel Award,,True,True,I taket lyser stjärnorna,nm0803439,Lisa Siwe,I taket lyser stjärnorna,2009.0,Drama,1733736
+tt1366409,2010,Douglas Sirk Award,,True,False,Miral,nm0773603,Julian Schnabel,Miral,2010.0,Drama,1488655
+tt1703919,2010,Critics Award,,True,True,Pulsar,nm0830879,Alex Stockman,Pulsar,2011.0,Drama,34609
+tt1437366,2010,Critics Award,,False,True,Beyond,nm0000278,Pernilla August,Beyond,2011.0,Drama,6150527
+tt1266029,2010,Art Cinema Award,,True,True,Nowhere Boy,nm0853374,Sam Taylor-Johnson,Nowhere Boy,2010.0,Others,9388348
+tt1375669,2011,Screenplay Award,,True,True,Simon & the Oaks,nm0088858,Marnie Blok,Simon & the Oaks,2012.0,Drama,3052016
+tt1753670,2011,Audience Award,Best Film,False,False,Clubbing,nm4138471,Rosendo Ruíz,Clubbing,2011.0,Others,114701
+tt1833647,2011,Young Talent Award,,True,True,Avé,nm1965972,Konstantin Bojanov,Avé,2011.0,Drama,34317
+tt1675192,2011,Critics Award,,True,True,Take Shelter,nm2158772,Jeff Nichols,Take Shelter,2011.0,Drama,5604306
+tt1588398,2011,Critics Award,,False,False,Sleeping Beauty,nm3772967,Julia Leigh,Sleeping Beauty,2011.0,Drama,504204
+tt1700467,2011,Foreign Press Award,,True,True,The Art of Love,nm0609981,Emmanuel Mouret,The Art of Love,2012.0,Comedy,1272550
+tt1332134,2011,Art Cinema Award,,True,True,King of Devil's Island,nm0392319,Marius Holst,King of Devil's Island,2011.0,Others,4725867
+tt2011971,2011,Art Cinema Award,,True,True,Monsieur Lazhar,nm0265852,Philippe Falardeau,Monsieur Lazhar,2011.0,Comedy,9696641
+tt1446208,2011,Michel Award,,True,True,Ways to Live Forever,nm1423555,Gustavo Ron,Ways to Live Forever,2013.0,Drama,180199
+tt2179055,2012,Screenplay Award,,True,True,Gnade,nm0007344,Kim Fupz Aakeson,Gnade,2012.0,Drama,544452
+tt1766190,2012,Audience Award,,True,True,This Life,nm0726870,Anne-Grethe Bjarup Riis,This Life,2013.0,Drama,9481723
+tt2298465,2012,Young Talent Award,,False,False,Present Tense,nm3537413,Belmin Söylemez,Present Tense,2013.0,Drama,5114
+tt1996310,2012,Critics Award,,True,True,Lore,nm0795153,Cate Shortland,Lore,2012.0,Drama,3681414
+tt1650048,2012,Art Cinema Award,,True,True,Laurence Anyways,nm0230859,Xavier Dolan,Laurence Anyways,2013.0,Drama,437525
+tt2258281,2012,Art Cinema Award,,False,False,Beyond the Hills,nm0612816,Cristian Mungiu,Beyond the Hills,2012.0,Drama,882047
+tt2278988,2012,Art Cinema Award,,False,False,Forgotten,nm2120311,Alex Schmidt,Forgotten,2012.0,Drama,11991
+tt1205487,2012,Art Cinema Award,,False,False,Garbage in the Garden of Eden,nm0015359,Fatih Akin,Garbage in the Garden of Eden,2013.0,Others,6960
+tt2076176,2012,Art Cinema Award,,False,False,My Way,nm0802807,Florent-Emilio Siri,My Way,2012.0,Others,18496539
+tt2059255,2012,Art Cinema Award,,False,False,No,nm1883257,Pablo Larraín,No,2012.0,Drama,11094761
+tt2318625,2012,Art Cinema Award,,False,False,Out in the Dark,nm3199492,Michael Mayer,Out in the Dark,2013.0,Drama,101480
+tt1839492,2012,Art Cinema Award,,False,False,Ruby Sparks,nm0206760,Jonathan Dayton,Ruby Sparks,2012.0,Comedy,13283477
+tt2125608,2012,Art Cinema Award,,False,False,Searching for Sugar Man,nm0070594,Malik Bendjelloul,Searching for Sugar Man,2012.0,Others,14464641
+tt1592281,2012,Art Cinema Award,,False,False,Take This Waltz,nm0001631,Sarah Polley,Take This Waltz,2012.0,Comedy,6892406
+tt1673697,2012,Art Cinema Award,,False,False,The Sapphires,nm0992370,Wayne Blair,The Sapphires,2012.0,Others,25260823
+tt2014392,2012,Art Cinema Award,,False,False,Violeta Went to Heaven,nm0939540,Andrés Wood,Violeta Went to Heaven,2012.0,Others,1390193
+tt2822400,2013,Screenplay Award,,True,True,Nothing Bad Can Happen,nm3299248,Katrin Gebbe,Nothing Bad Can Happen,2013.0,Others,10630
+tt1798108,2013,Screenplay Award,,False,False,Banklady,nm1557910,Chris Silber,Banklady,2013.0,Others,79618
+tt2582008,2013,Screenplay Award,,False,False,Meine Schwestern,nm0470081,Lars Kraume,Meine Schwestern,2015.0,Drama,332373
+tt2354181,2013,Audience Award,,True,True,Les gamins,nm4996483,Anthony Marciano,Les gamins,2013.0,Comedy,13294119
+tt2281065,2013,Audience Award,,False,False,21 Ways to Ruin a Marriage,nm0904439,Johanna Vuoksenmaa,21 Ways to Ruin a Marriage,2013.0,Comedy,5517645
+tt2172061,2013,Audience Award,,False,False,Små citroner gula,nm0264624,Teresa Fabik,Små citroner gula,2014.0,Comedy,1919070
+tt2311822,2013,Audience Award,,False,False,The Color of the Chameleon,nm0398619,Emil Christov,The Color of the Chameleon,2013.0,Comedy,53412
+tt2577150,2013,Audience Award,,False,False,Traffic Department,nm1500530,Wojciech Smarzowski,Traffic Department,2013.0,Others,6958983
+tt2370248,2013,Young Talent Award,,True,True,Short Term 12,nm2308774,Destin Daniel Cretton,Short Term 12,2013.0,Drama,2904578
+tt1845838,2013,Critics Award,,True,True,Metro Manila,nm1193346,Sean Ellis,Metro Manila,2013.0,Others,222593
+tt2388819,2013,Art Cinema Award,Best Feature,False,False,Yozgat Blues,nm5035688,Halil Kardas,Yozgat Blues,2013.0,Comedy,53584
+tt2406252,2013,Art Cinema Award,,True,True,Venus in Fur,nm0000591,Roman Polanski,Venus in Fur,2014.0,Drama,9601137
+tt1954315,2013,Art Cinema Award,,False,False,Borgman,nm0912334,Alex van Warmerdam,Borgman,2013.0,Drama,1164456
+tt2042568,2013,Art Cinema Award,,False,False,Inside Llewyn Davis,nm0001053,Ethan Coen,Inside Llewyn Davis,2014.0,Comedy,50467625
+tt1821549,2013,Art Cinema Award,,False,False,Nebraska,nm0668247,Alexander Payne,Nebraska,2014.0,Others,49530515
+tt1727388,2013,Art Cinema Award,,False,False,The Way Way Back,nm0269542,Nat Faxon,The Way Way Back,2013.0,Comedy,48906333
+tt2480874,2013,Michel Award,,True,True,Felix,nm0244344,Roberta Durrant,Felix,2014.0,Comedy,34563
+tt2403851,2013,Michel Award,,False,False,Mike Says Goodbye!,nm0676577,Maria Peters,Mike Says Goodbye!,2013.0,Others,2243337
+tt2234275,2013,Michel Award,,False,False,Mister Twister: Class of Fun,nm0106620,Barbara Bredero,Mister Twister: Class of Fun,2012.0,Comedy,4181453
+tt2768474,2013,Michel Award,,False,False,My Mummy is in America and She Met Buffalo Bill,nm2521923,Marc Boréal,"Ma maman est en Amérique, elle a rencontré Buffalo Bill",2013.0,Others,2103
+tt2270802,2013,Michel Award,,False,False,Sputnik,nm1651732,Markus Dietrich,Mission: Sputnik,2015.0,Others,165697
+tt2912144,2013,Political Film Award,,True,True,Dast-neveshtehaa nemisoosand,nm1488024,Mohammad Rasoulof,Manuscripts Don't Burn,2013.0,Drama,13804
+tt1787067,2013,Political Film Award,,True,True,Fire in the Blood,nm4204662,Dylan Mohan Gray,Fire in the Blood,2013.0,Others,64350
+tt2180405,2013,Political Film Award,,False,False,Imbabazi,nm4851216,Joël Karekezi,Imbabazi,2013.0,Drama,9815
+tt2414454,2013,Political Film Award,,False,False,The Human Scale,nm2041022,Andreas Dalsgaard,The Human Scale,2013.0,Others,15048
+tt3462892,2014,Audience Award,,True,True,Hallåhallå,nm1093669,Maria Blom,Hallåhallå,2014.0,Comedy,1199110
+tt2994904,2014,Audience Award,,False,False,Cowboys,nm2283941,Tomislav Mrsic,Cowboys,2014.0,Comedy,177890
+tt3098306,2014,Audience Award,,False,False,French Women,nm0199047,Audrey Dana,French Women,2014.0,Comedy,2623517
+tt2172554,2014,Audience Award,,False,False,Life in a Fishbowl,nm3742120,Baldvin Zophoníasson,Life in a Fishbowl,2015.0,Drama,666884
+tt2521188,2014,Audience Award,,False,False,The Mighty Angel,nm1500530,Wojciech Smarzowski,The Mighty Angel,2014.0,Drama,5719554
+tt2557266,2014,Audience Award,,False,False,Vejska,nm0903438,Tomás Vorel,Vejska,2014.0,Comedy,1309278
+tt3288166,2014,Young Talent Award,,False,False,Atlit,nm0025016,Shirel Amitay,Atlit,2014.0,Comedy,132745
+tt3078242,2014,Young Talent Award,,False,False,Miss Violence,nm3189793,Alexandros Avranas,Miss Violence,2014.0,Drama,157429
+tt3569978,2014,Young Talent Award,,False,False,Next to Her,nm2135674,Asaf Korman,Next to Her,2014.0,Drama,1695
+tt3660370,2014,Young Talent Award,,False,False,Party Girl,nm2276757,Marie Amachoukeli-Barsacq,Party Girl,2015.0,Drama,1451809
+tt1921129,2014,Young Talent Award,,False,False,The Militant,nm0631315,Manolo Nieto,The Militant,2014.0,Drama,5445
+tt1745787,2014,Young Talent Award,,False,False,The Tribe,nm2990632,Myroslav Slaboshpytskyi,The Tribe,2014.0,Others,392502
+tt3019620,2014,Young Talent Award,,False,False,Titli,nm2885983,Kanu Behl,Titli,2015.0,Others,246794
+tt3837950,2014,Young Talent Award,,False,False,Villa Touma,nm1699780,Suha Arraf,Villa Touma,2014.0,Drama,7717
+tt3218580,2014,Critics Award,,False,False,Alléluia,nm0239001,Fabrice du Welz,Alléluia,2014.0,Others,58789
+tt2414040,2014,Critics Award,,False,False,An Eye for Beauty,nm0000780,Denys Arcand,An Eye for Beauty,2014.0,Drama,59097
+tt3118696,2014,Critics Award,,False,False,Club Sandwich,nm0251774,Fernando Eimbcke,Club Sandwich,2014.0,Comedy,3494
+tt3655522,2014,Critics Award,,False,False,Girlhood,nm1780037,Céline Sciamma,Girlhood,2014.0,Drama,2070528
+tt3204144,2014,Critics Award,,False,False,Love at First Fight,nm3619993,Thomas Cailley,Love at First Fight,2014.0,Comedy,2660161
+tt1825157,2014,Critics Award,,False,False,The Double,nm1547964,Richard Ayoade,The Double,2014.0,Comedy,2014726
+tt3483194,2014,Critics Award,,False,False,Tu dors Nicole,nm0480894,Stéphane Lafleur,Tu Dors Nicole,2014.0,Comedy,13030
+tt3062880,2014,Art Cinema Award,,True,True,Gett: The Trial of Viviane Amsalem,nm0253813,Ronit Elkabetz,Gett: The Trial of Viviane Amsalem,2014.0,Drama,2418768
+tt3813916,2014,Art Cinema Award,,False,False,A Blast,nm1253546,Syllas Tzoumerkas,A Blast,2015.0,Drama,289
+tt3140100,2014,Art Cinema Award,,False,False,Department Q: The Absent One,nm1031708,Mikkel Nørgaard,Department Q: The Absent One,2016.0,Others,12231584
+tt2121382,2014,Art Cinema Award,,False,False,Force Majeure,nm1128037,Ruben Östlund,Force Majeure,2014.0,Comedy,5935458
+tt3510452,2014,Art Cinema Award,,False,False,Misunderstood,nm0000782,Asia Argento,Misunderstood,2014.0,Drama,112226
+tt3612616,2014,Art Cinema Award,,False,False,Mommy,nm0230859,Xavier Dolan,Mommy,2014.0,Drama,17889741
+tt3169706,2014,Art Cinema Award,,False,False,Pride,nm0911334,Matthew Warchus,Pride,2014.0,Others,9712638
+tt2245171,2014,Art Cinema Award,,False,False,The Cut,nm0015359,Fatih Akin,The Cut,2015.0,Others,1361134
+tt3409392,2014,Art Cinema Award,,False,False,Timbuktu,nm0803066,Abderrahmane Sissako,Timbuktu,2014.0,Drama,8885318
+tt3273636,2014,Art Cinema Award,,False,False,Tour de Force,nm0959255,Christian Zübert,Tour de Force,2015.0,Comedy,2483294
+tt2844798,2014,Art Cinema Award,,False,False,White God,nm0610960,Kornél Mundruczó,White God,2015.0,Drama,945031
+tt3011894,2014,Art Cinema Award,,False,False,Wild Tales,nm1167933,Damián Szifron,Wild Tales,2014.0,Comedy,32353447
+tt2658768,2014,Michel Award,,True,True,The Contest: To the Stars and Back,nm0585701,Martin Miehe-Renard,The Contest: To the Stars and Back,2013.0,Others,1311958
+tt3480110,2014,Michel Award,,False,False,Beyond Beyond,nm2593468,Esben Toft Jacobsen,Beyond Beyond,2016.0,Others,243167
+tt3037342,2014,Michel Award,,False,False,Mister Twister Goes Camping,nm0106620,Barbara Bredero,Mister Twister Goes Camping,2013.0,Comedy,6197383
+tt2941330,2014,Political Film Award,,False,False,Klumpfisken,nm1490101,Søren Balle,Klumpfisken,2014.0,Comedy,332552
+tt3686270,2014,Political Film Award,,False,False,The Way Out,nm0904605,Petr Václav,The Way Out,2016.0,Drama,9990
+tt3186946,2014,Political Film Award,,False,False,Xenia,nm3267450,Panos H. Koutras,Xenia,2014.0,Drama,178381
+tt2316627,2014,Hamburg Producers Award,German-European Cinematic Productions,True,True,Lost in Karastan,nm0958848,Daniel Zuta,Lost in Karastan,2015.0,Comedy,1763
+tt3004746,2014,Hamburg Producers Award,German-European Cinematic Productions,False,False,The 11th Hour,nm0477949,Maria Köpf,The 11th Hour,2015.0,Drama,546
+tt2544766,2015,Audience Award,,False,False,Admiral,nm0004152,Roel Reiné,Admiral,2016.0,Others,6895759
+tt3685818,2015,Audience Award,,False,False,Adult Camp,nm0904439,Johanna Vuoksenmaa,Adult Camp,2015.0,Comedy,1246637
+tt4466362,2015,Audience Award,,False,False,"Connasse, princesse des coeurs",nm5959317,Eloïse Lang,"Connasse, princesse des coeurs",2015.0,Comedy,9224271
+tt4684710,2015,Audience Award,,False,False,Le mirage,nm1168135,Ricardo Trogi,Le mirage,2015.0,Comedy,44241
+tt3500544,2015,Audience Award,,False,False,Off Course,nm1818121,Nacho G. Velilla,Off Course,2015.0,Comedy,12379397
+tt4920352,2015,Young Talent Award,Best Feature Film,False,False,Parasol,nm2198327,Valéry Rosier,Parasol,2016.0,Comedy,26050
+tt4042814,2015,Young Talent Award,,True,True,Keeper,nm1879267,Guillaume Senez,Keeper,2016.0,Drama,33367
+tt4288636,2015,Young Talent Award,,False,False,James White,nm1317614,Josh Mond,James White,2015.0,Drama,218292
+tt4574440,2015,Young Talent Award,,False,False,La mujer de los perros,nm1296673,Laura Citarella,La mujer de los perros,2015.0,Drama,5223
+tt4247492,2015,Young Talent Award,,False,False,The Demons,nm3679540,Philippe Lesage,The Demons,2016.0,Drama,1874
+tt4949088,2015,Young Talent Award,,False,False,Thirst,nm0875159,Svetla Tsotsorkova,Thirst,2016.0,Drama,14768
+tt4899406,2015,Critics Award,,True,True,Neon Bull,nm3486709,Gabriel Mascaro,Neon Bull,2015.0,Drama,214841
+tt3667610,2015,Critics Award,,False,False,A Grain of Truth,nm1346665,Borys Lankosz,A Grain of Truth,2016.0,Others,1461516
+tt3478962,2015,Critics Award,,False,False,My King,nm0494069,Maïwenn,My King,2016.0,Drama,10629423
+tt4636046,2015,Critics Award,,False,False,Nahid,nm5304764,Ida Panahandeh,Nahid,2015.0,Drama,155477
+tt4768776,2015,Critics Award,,False,False,"Right Now, Wrong Then",nm0393254,Sang-soo Hong,"Right Now, Wrong Then",2015.0,Drama,757708
+tt4160122,2015,Critics Award,,False,False,Rosita,nm1135184,Frederikke Aspöck,Rosita,2016.0,Drama,106370
+tt3430416,2015,Critics Award,,False,False,Schneider vs. Bax,nm0912334,Alex van Warmerdam,Schneider vs. Bax,2015.0,Comedy,299409
+tt3808342,2015,Critics Award,,False,False,Son of Saul,nm1841577,László Nemes,Son of Saul,2015.0,Drama,9060265
+tt4515684,2015,Critics Award,,False,False,The Treasure,nm1717949,Corneliu Porumboiu,The Treasure,2016.0,Comedy,143022
+tt3966404,2015,Art Cinema Award,,True,True,Mustang,nm2197025,Deniz Gamze Ergüven,Mustang,2015.0,Drama,6575847
+tt3577624,2015,Art Cinema Award,,False,False,A Perfect Day,nm0508208,Fernando León de Aranoa,A Perfect Day,2016.0,Comedy,1926209
+tt2624412,2015,Art Cinema Award,,False,False,Boulevard,nm1996918,Dito Montiel,Boulevard,2015.0,Drama,392551
+tt3526706,2015,Art Cinema Award,,False,False,Chevalier,nm0718125,Athina Rachel Tsangari,Chevalier,2015.0,Comedy,110976
+tt4844752,2015,Art Cinema Award,,False,False,Hasret: Sehnsucht,nm0394114,Ben Hopkins,Hasret: Sehnsucht,2015.0,Others,9329
+tt3841424,2015,Art Cinema Award,,False,False,Land of Mine,nm1324710,Martin Zandvliet,Land of Mine,2016.0,Drama,3888316
+tt4116116,2015,Art Cinema Award,,False,False,My Internship in Canada,nm0265852,Philippe Falardeau,My Internship in Canada,2016.0,Comedy,176373
+tt3704050,2015,Art Cinema Award,,False,False,Remember,nm0000382,Atom Egoyan,Remember,2015.0,Drama,5856479
+tt4966278,2015,Art Cinema Award,,False,False,"Stroppy Cow, Stubborn Ram",nm0264738,Johannes Fabrick,"Stroppy Cow, Stubborn Ram",2015.0,Others,72889
+tt3508840,2015,Art Cinema Award,,False,False,The Assassin,nm0396284,Hsiao-Hsien Hou,The Assassin,2015.0,Others,13564240
+tt3792960,2015,Art Cinema Award,,False,False,The Brand New Testament,nm0233757,Jaco Van Dormael,The Brand New Testament,2016.0,Comedy,16819560
+tt4411504,2015,Art Cinema Award,,False,False,The Clan,nm0871086,Pablo Trapero,The Clan,2015.0,Others,22115899
+tt1726252,2015,Art Cinema Award,,False,False,The Dark Side of the Moon,nm1357855,Stephan Rick,The Dark Side of the Moon,2016.0,Others,512276
+tt2570858,2015,Art Cinema Award,,False,False,The Duke of Burgundy,nm3270827,Peter Strickland,The Duke of Burgundy,2015.0,Drama,273000
+tt3845822,2015,Michel Award,,True,True,The Little Gangster,nm1234631,Arne Toonen,The Little Gangster,2016.0,Comedy,1392104
+tt3474720,2015,Michel Award,,False,False,Mees Kees op de planken,nm0106620,Barbara Bredero,Mees Kees op de planken,2014.0,Comedy,4892546
+tt1865505,2015,Michel Award,,False,False,Song of the Sea,nm1119079,Tomm Moore,Song of the Sea,2015.0,Others,5435565
+tt4466550,2015,Political Film Award,,False,False,Antarctica: Ice and Sky,nm0415207,Luc Jacquet,Antarctica: Ice & Sky,2016.0,Others,195663
+tt4126304,2015,Political Film Award,,False,False,Cartel Land,nm1292648,Matthew Heineman,Cartel Land,2015.0,Others,1959998
+tt3065132,2015,Political Film Award,,False,False,He Named Me Malala,nm0346550,Davis Guggenheim,He Named Me Malala,2015.0,Others,5837012
+tt3146294,2015,Political Film Award,,False,False,May Allah Bless France!,nm1601029,Abd Al Malik,May Allah Bless France!,2014.0,Drama,928389
+tt4668808,2015,Political Film Award,,False,False,What Our Fathers Did: A Nazi Legacy,nm0262678,David Evans,What Our Fathers Did: A Nazi Legacy,2015.0,Others,102308
+tt4620316,2015,Hamburg Producers Award,German-European Cinematic Productions,True,True,One Floor Below,nm1545712,Dragos Vilcu,One Floor Below,2015.0,Drama,50216
+tt4600312,2015,Hamburg Producers Award,German-European Cinematic Productions,False,False,Iona,nm0558563,Margaret Matheson,Iona,2016.0,Drama,77524
+tt3817188,2015,Hamburg Producers Award,German-European Cinematic Productions,False,False,My Good Hans,nm3100084,Liza Antonova,My Good Hans,2016.0,Drama,16703
+tt4676372,2015,Hamburg Producers Award,German-European Cinematic Productions,False,False,The Petrov File,nm1189479,Dimitar Gochev,The Petrov File,2015.0,Drama,23574
+tt4659056,2016,Audience Award,,True,True,The Day Will Come,nm0630861,Jesper W. Nielsen,The Day Will Come,2017.0,Drama,59127
+tt4518234,2016,Young Talent Award,Best Feature Film,True,True,Cold of Kalandar,nm2583919,Mustafa Kara,Cold of Kalandar,2016.0,Drama,61915
+tt5986738,2016,Young Talent Award,Best Feature Film,False,False,Dark Skull,nm4576903,Kiro Russo,Dark Skull,2017.0,Others,9371
+tt5451054,2016,Young Talent Award,Best Feature Film,False,False,Godless,nm2432218,Ralitza Petrova,Godless,2016.0,Drama,7160
+tt5287168,2016,Young Talent Award,Best Feature Film,False,False,Sami Blood,nm1840544,Amanda Kernell,Sami Blood,2017.0,Drama,461548
+tt4936122,2016,Young Talent Award,Best Feature Film,False,False,Wùlu,nm4132885,Daouda Coulibaly,Wùlu,2016.0,Others,39923
+tt4936450,2016,Critics Award,,True,True,Graduation,nm0612816,Cristian Mungiu,Graduation,2016.0,Others,2334667
+tt3759370,2016,Critics Award,,False,False,Dark Inclusion,nm1932959,Arthur Harari,Dark Inclusion,2016.0,Others,376698
+tt5281134,2016,Critics Award,,False,False,Dark Night,nm4991744,Tim Sutton,Dark Night,2016.0,Drama,391
+tt4955012,2016,Critics Award,,False,False,Incident Light,nm0745438,Ariel Rotter,Incident Light,2016.0,Drama,65610
+tt4641248,2016,Critics Award,,False,False,Journey to Greenland,nm1715466,Sébastien Betbeder,Journey to Greenland,2016.0,Comedy,248879
+tt4818804,2016,Critics Award,,False,False,King of the Belgians,nm0112456,Peter Brosens,King of the Belgians,2017.0,Comedy,216554
+tt4161564,2016,Critics Award,,False,False,The Aquatic Effect,nm0030681,Sólveig Anspach,The Aquatic Effect,2016.0,Comedy,1987433
+tt4929038,2016,Critics Award,,False,False,The Ornithologist,nm0735134,João Pedro Rodrigues,The Ornithologist,2016.0,Others,132383
+tt5907916,2016,Critics Award,,False,False,Yourself and Yours,nm0393254,Sang-soo Hong,Yourself and Yours,2016.0,Comedy,158817
+tt4645368,2016,Art Cinema Award,Best Feature,True,True,It's Only the End of the World,nm0230859,Xavier Dolan,It's Only the End of the World,2017.0,Drama,9631050
+tt4158624,2016,Art Cinema Award,Best Feature,False,False,3 Generations,nm0217433,Gaby Dellal,3 Generations,2017.0,Drama,717340
+tt3721936,2016,Art Cinema Award,Best Feature,False,False,American Honey,nm0036349,Andrea Arnold,American Honey,2016.0,Others,2626441
+tt0376479,2016,Art Cinema Award,Best Feature,False,False,American Pastoral,nm0000191,Ewan McGregor,American Pastoral,2016.0,Others,2756599
+tt4468634,2016,Art Cinema Award,Best Feature,False,False,Certain Women,nm0716980,Kelly Reichardt,Certain Women,2016.0,Drama,2819880
+tt1714917,2016,Art Cinema Award,Best Feature,False,False,Gimme Danger,nm0000464,Jim Jarmusch,Gimme Danger,2016.0,Others,1470167
+tt5705058,2016,Art Cinema Award,Best Feature,False,False,Marie Curie: The Courage of Knowledge,nm0633925,Marie Noëlle,Marie Curie: The Courage of Knowledge,2017.0,Others,2082026
+tt3666024,2016,Art Cinema Award,Best Feature,False,False,The Red Turtle,nm0240196,Michael Dudok de Wit,The Red Turtle,2017.0,Others,7906996
+tt5189440,2016,Art Cinema Award,Best Feature,False,False,Tour de France,nm0229073,Rachid Djaidani,Tour de France,2016.0,Drama,450148
+tt5038372,2016,Michel Award,,True,True,Fanny's Journey,nm0230696,Lola Doillon,Fanny's Journey,2016.0,Drama,1145731
+tt1856057,2016,Michel Award,,False,False,Phantom Boy,nm0271246,Jean-Loup Felicioli,Phantom Boy,2016.0,Others,271212
+tt5280652,2016,Michel Award,,False,False,Rauf,nm4446337,Soner Caner,Rauf,2016.0,Drama,3142
+tt4861720,2016,Michel Award,,False,False,Siv sover vilse,nm0249188,Catti Edfeldt,Siv sover vilse,2016.0,Others,8084
+tt4008758,2016,Political Film Award,,False,False,Black,nm4816401,Adil El Arbi,Black,2016.0,Others,1816578
+tt5124774,2016,Political Film Award,,False,False,The Confession,nm3500171,Ashish Ghadiali,The Confession,2016.0,Others,1608722
+tt5623224,2016,Political Film Award,,False,False,The Long Night of Francisco Sanctis,nm0617305,Francisco Márquez,The Long Night of Francisco Sanctis,2017.0,Drama,28063
+tt4940780,2016,Political Film Award,,False,False,The Mine,nm1167412,Aleksi Salmenperä,The Mine,2016.0,Drama,432037
+tt5278596,2016,Political Film Award,,False,False,Weiner,nm4361978,Josh Kriegman,Weiner,2016.0,Others,3608369
+tt5204020,2016,Hamburg Producers Award,German-European Cinematic Productions,True,True,Scarred Hearts,nm0011752,Maren Ade,Scarred Hearts,2018.0,Others,14041
+tt5790492,2017,Audience Award,,True,True,It's for Your Own Good,nm1724912,Carlos Therón,It's for Your Own Good,2017.0,Comedy,11397174
+tt4125568,2017,Audience Award,,False,False,A Canção de Lisboa,nm1659256,Pedro Varela,A Canção de Lisboa,2016.0,Comedy,1121273
+tt5926392,2017,Audience Award,,False,False,Cruelty,nm5464408,Anton Sigurdsson,Cruelty,2016.0,Others,162378
+tt5351818,2017,Audience Award,,False,False,Rock'n Roll,nm0133899,Guillaume Canet,Rock'n Roll,2017.0,Comedy,10120685
+tt6359118,2017,Audience Award,,False,False,Solitaire,nm8664249,Sophie Boutros,Solitaire,2017.0,Comedy,147996
+tt5194504,2017,Audience Award,,False,False,You Disappear,nm0283844,Peter Schønau Fog,You Disappear,2018.0,Drama,1324
+tt6303866,2017,Young Talent Award,Best Feature Film,True,True,Beach Rats,nm2151374,Eliza Hittman,Beach Rats,2017.0,Drama,1010656
+tt5791966,2017,Young Talent Award,Best Feature Film,False,False,Balloons,nm2156120,Mariano González,Balloons,2016.0,Drama,1495
+tt5837242,2017,Young Talent Award,Best Feature Film,False,False,How Viktor 'The Garlic' Took Alexey 'The Stud' to the Nursing Home,nm8244607,Aleksandr Khant,How Viktor 'The Garlic' Took Alexey 'The Stud' to the Nursing Home,2018.0,Others,128027
+tt5598160,2017,Young Talent Award,Best Feature Film,False,False,Jeune femme,nm4874872,Léonor Serraille,Montparnasse Bienvenüe,2017.0,Drama,439010
+tt7089738,2017,Young Talent Award,Best Feature Film,False,False,Marita,nm4420624,Cristi Iftime,Marita,2017.0,Drama,9839
+tt6207878,2017,Young Talent Award,Best Feature Film,False,False,"No Date, No Signature",nm7522225,Vahid Jalilvand,"No Date, No Signature",2018.0,Drama,145752
+tt4625324,2017,Young Talent Award,Best Feature Film,False,True,Satan Said Dance,nm3106449,Katarzyna Roslaniec,Satan Said Dance,2017.0,Drama,141929
+tt4830786,2017,Young Talent Award,Best Feature Film,False,False,The Cakemaker,nm3409787,Ofir Raul Graizer,The Cakemaker,2017.0,Drama,2241243
+tt5649144,2017,Critics Award,,True,True,The Florida Project,nm0048918,Sean Baker,The Florida Project,2017.0,Drama,17483539
+tt6776462,2017,Critics Award,,False,False,A Man of Integrity,nm1488024,Mohammad Rasoulof,A Man of Integrity,2017.0,Drama,947435
+tt7205208,2017,Critics Award,,False,False,Angels Wear White,nm2735954,Vivian Qu,Angels Wear White,2018.0,Drama,3428371
+tt6400280,2017,Critics Award,,False,False,Araby,nm7925042,João Dumans,Araby,2017.0,Drama,80498
+tt6411984,2017,Critics Award,,False,False,Barbara,nm0023832,Mathieu Amalric,Barbara,2018.0,Others,3331148
+tt5708028,2017,Critics Award,,False,False,Cocote,nm4981904,Nelson Carlo de Los Santos Arias,Cocote,2018.0,Drama,8250
+tt6288250,2017,Critics Award,,False,False,Patti Cake$,nm3017455,Geremy Jasper,Patti Cake$,2017.0,Drama,2375740
+tt5765144,2017,Critics Award,,False,False,Song of Granite,nm2919747,Pat Collins,Song of Granite,2017.0,Others,38881
+tt4995790,2017,Critics Award,,False,False,The Square,nm1128037,Ruben Östlund,The Square,2017.0,Comedy,11387664
+tt5057904,2017,Critics Award,,False,False,Tomorrow and Thereafter,nm0527852,Noémie Lvovsky,Tomorrow and Thereafter,2017.0,Drama,250754
+tt6217608,2017,Art Cinema Award,Best Feature,True,True,The Rider,nm2125482,Chloé Zhao,The Rider,2018.0,Drama,5898077
+tt6135348,2017,Art Cinema Award,Best Feature,False,False,BPM (Beats Per Minute),nm5187778,Robert Campillo,BPM (Beats Per Minute),2017.0,Drama,8111584
+tt6209282,2017,Art Cinema Award,Best Feature,False,False,Ex Libris: New York Public Library,nm0936464,Frederick Wiseman,Ex Libris: The New York Public Library,2017.0,Others,369036
+tt6573444,2017,Art Cinema Award,Best Feature,False,False,Human Flow,nm2675885,Weiwei Ai,Human Flow,2017.0,Others,2393049
+tt5907748,2017,Art Cinema Award,Best Feature,False,False,Iceman,nm0709726,Felix Randau,Der Mann aus dem Eis,2019.0,Drama,8857
+tt5859238,2017,Art Cinema Award,Best Feature,False,False,Lucky,nm0002253,John Carroll Lynch,Lucky,2017.0,Comedy,2917340
+tt5584756,2017,Art Cinema Award,Best Feature,False,False,Mademoiselle Paradis,nm0016475,Barbara Albert,Mademoiselle Paradis,2018.0,Drama,17895
+tt4419196,2017,Art Cinema Award,Best Feature,False,False,Mathilde,nm0879783,Aleksey Uchitel,Mathilde,2017.0,Others,9708783
+tt5584796,2017,Art Cinema Award,Best Feature,False,False,Tehran Taboo,nm3468275,Ali Soozandeh,Tehran Taboo,2017.0,Others,439940
+tt5586052,2017,Art Cinema Award,Best Feature,False,False,The Invisibles,nm3189680,Claus Räfle,The Invisibles,2017.0,Others,1690237
+tt7213936,2017,Art Cinema Award,Best Feature,False,False,What Will People Say,nm1155348,Iram Haq,What Will People Say,2018.0,Drama,2222459
+tt4636254,2017,Michel Award,,False,False,Little Wing,nm1437990,Selma Vilhunen,Little Wing,2017.0,Drama,384817
+tt5723028,2017,Michel Award,,False,False,Oskars Amerika,nm3081350,Torfinn Iversen,Oskars Amerika,2017.0,Others,60956
+tt5912052,2017,Michel Award,,False,False,Rudolf the Black Cat,nm9174483,Motonori Sakakibara,Rudolf the Black Cat,2016.0,Others,14636986
+tt5957120,2017,Michel Award,,False,False,The Fantastic Family Hotel,nm0396933,Ineke Houtman,The Fantastic Family Hotel,2017.0,Comedy,168181
+tt6541110,2017,Michel Award,,False,False,Tian Lai Meng Xiang,nm8530840,Wei Zhang,Tian Lai Meng Xiang,2019.0,Drama,15069
+tt7106928,2017,Political Film Award,,False,False,Birds Are Singing in Kigali,nm1732806,Joanna Kos-Krauze,Birds Are Singing in Kigali,2017.0,Drama,64927
+tt3699354,2017,Political Film Award,,False,False,Citizen Jane: Battle for the City,nm2961289,Matt Tyrnauer,Citizen Jane: Battle for the City,2017.0,Others,665232
+tt5460548,2017,Political Film Award,,False,False,Corporate,nm2216739,Nicolas Silhol,Corporate,2017.0,Drama,2110300
+tt5239558,2017,Political Film Award,,False,False,Men Don't Cry,nm2283926,Alen Drljevic,Men Don't Cry,2017.0,Drama,11162
+tt6060960,2017,Sichtwechsel Film Award,,True,True,The Future Perfect,nm3396820,Nele Wohlatz,The Future Perfect,2017.0,Drama,119
+tt6805366,2017,Sichtwechsel Film Award,,False,False,Makala,nm1463658,Emmanuel Gras,Makala,2018.0,Others,128988
+tt7262052,2017,Sichtwechsel Film Award,,False,False,Soldiers: Story from Ferentari,nm3875677,Ivana Mladenovic,Soldiers. Story from Ferentari,2018.0,Drama,23664
+tt5636222,2017,Sichtwechsel Film Award,,False,False,Some Like It Veiled,nm0007622,Sou Abadi,Some Like It Veiled,2018.0,Comedy,1772843
+tt5715874,2017,Sichtwechsel Film Award,,False,False,The Killing of a Sacred Deer,nm0487166,Yorgos Lanthimos,The Killing of a Sacred Deer,2017.0,Drama,9654688
+tt5027774,2017,Sichtwechsel Film Award,,False,False,"Three Billboards Outside Ebbing, Missouri",nm1732981,Martin McDonagh,"Three Billboards Outside Ebbing, Missouri",2017.0,Others,221547257
+tt6832936,2017,Sichtwechsel Film Award,,False,False,"Worst Case, We Get Married",nm0690794,Léa Pool,"Worst Case, We Get Married",2017.0,Drama,21567
+tt8269552,2018,Douglas Sirk Award,,True,False,3 Faces,nm0070159,Jafar Panahi,3 Faces,2019.0,Drama,2262523
+tt7279180,2018,Audience Award,,True,True,Sunny Side,nm0379773,Felix Herngren,Sunny Side,2017.0,Comedy,2236664
+tt7541200,2018,Audience Award,,False,False,3 Million Euros,nm4991160,Tadas Vidmantas,Trys Milijonai Euru,2017.0,Comedy,1773082
+tt8398768,2018,Audience Award,,False,False,Dany,nm1460782,François Damiens,Dany,2018.0,Drama,2113428
+tt6982104,2018,Audience Award,,False,False,Metti la nonna in freezer,nm5189098,Giancarlo Fontana,Metti la nonna in freezer,2018.0,Comedy,4084305
+tt5335314,2018,Audience Award,,False,False,One Step Behind the Seraphim,nm3212856,Daniel Sandu,One Step Behind the Seraphim,2017.0,Drama,108895
+tt7502234,2018,Young Talent Award,Best Feature Film,True,True,Little Tickles,nm8202045,Andréa Bescond,Little Tickles,2018.0,Drama,2794896
+tt8473642,2018,Young Talent Award,Best Feature Film,False,False,Domestique,nm8578900,Adam Sedlák,Domestique,2018.0,Drama,5943
+tt8459250,2018,Young Talent Award,Best Feature Film,False,False,Shéhérazade,nm3014863,Jean-Bernard Marlin,Shéhérazade,2019.0,Drama,966225
+tt7795132,2018,Young Talent Award,Best Feature Film,False,False,Silence Is a Falling Body,nm9513174,Agustina Comedi,Silence Is a Falling Body,2019.0,Others,6024
+tt7773210,2018,Critics Award,,True,True,Our Struggles,nm1879267,Guillaume Senez,Our Struggles,2018.0,Drama,1720607
+tt8846072,2018,Critics Award,,False,False,Belmonte,nm0992159,Federico Veiroj,Belmonte,2019.0,Comedy,7184
+tt7318202,2018,Critics Award,,False,False,Butterflies,nm3796645,Tolga Karaçelik,Butterflies,2018.0,Comedy,362992
+tt8287690,2018,Critics Award,,False,False,Genesis,nm3679540,Philippe Lesage,Genesis,2019.0,Drama,7072
+tt7583280,2018,Critics Award,,False,False,Heaven Without People,nm3396318,Lucien Bourjeily,Heaven Without People,2018.0,Drama,5551
+tt8725958,2018,Critics Award,,False,False,Hotel by the River,nm0393254,Sang-soo Hong,Hotel by the River,2019.0,Drama,94316
+tt6509058,2018,Critics Award,,False,False,Nancy,nm1357921,Christina Choe,Nancy,2018.0,Drama,165195
+tt7628080,2018,Critics Award,,False,False,The Pluto Moment,nm0955390,Ming Zhang,The Pluto Moment,2018.0,Drama,84507
+tt8726098,2018,Critics Award,,False,False,Too Late to Die Young,nm3049622,Dominga Sotomayor Castillo,Too Late to Die Young,2019.0,Drama,41078
+tt7279188,2018,Art Cinema Award,Best Feature,True,True,Woman at War,nm0259574,Benedikt Erlingsson,Woman at War,2018.0,Others,5351222
+tt8506840,2018,Art Cinema Award,Best Feature,False,False,I Do Not Care If We Go Down in History as Barbarians,nm1257492,Radu Jude,I Do Not Care If We Go Down in History as Barbarians,2019.0,Comedy,38829
+tt7342838,2018,Art Cinema Award,Best Feature,False,False,Leto,nm1970598,Kirill Serebrennikov,Leto,2019.0,Others,3055458
+tt6999052,2018,Art Cinema Award,Best Feature,False,False,Mario,nm0321112,Marcel Gisler,Mario,2018.0,Drama,3461
+tt6510332,2018,Art Cinema Award,Best Feature,False,False,McQueen,nm0094524,Ian Bonhôte,McQueen,2018.0,Others,4074103
+tt6900448,2018,Art Cinema Award,Best Feature,False,False,Mirai,nm0396074,Mamoru Hosoda,Mirai,2018.0,Others,28638077
+tt6972372,2018,Art Cinema Award,Best Feature,False,False,Place publique,nm0418450,Agnès Jaoui,Place publique,2018.0,Comedy,4385550
+tt8696440,2018,Art Cinema Award,Best Feature,False,True,Sibel,nm1597572,Guillaume Giovanetti,Sibel,2018.0,Drama,419053
+tt8805374,2018,Art Cinema Award,Best Feature,False,False,The Daughters of Fire,nm0140337,Albertina Carri,The Daughters of Fire,2019.0,Drama,2978
+tt4003440,2018,Art Cinema Award,Best Feature,False,False,The House That Jack Built,nm0001885,Lars von Trier,The House That Jack Built,2018.0,Others,4545008
+tt4642192,2018,Art Cinema Award,Best Feature,False,False,The Keeper,nm1455707,Marcus H. Rosenmüller,The Keeper,2019.0,Others,1189335
+tt7158582,2018,Art Cinema Award,Best Feature,False,False,The Reports on Sarah and Saleem,nm3516131,Muayad Alayan,The Reports on Sarah and Saleem,2019.0,Others,684944
+tt4378628,2018,Art Cinema Award,Best Feature,False,False,"Westwood: Punk, Icon, Activist",nm2503036,Lorna Tucker,"Westwood: Punk, Icon, Activist",2018.0,Others,452131
+tt7666250,2018,Art Cinema Award,Best Feature,False,False,Yuli,nm0093081,Icíar Bollaín,Yuli,2019.0,Others,1490545
+tt7328956,2018,Michel Award,,False,False,Gordon & Paddy,nm0357482,Linda Hambäck,Gordon and Paddy,2017.0,Others,99788
+tt6591568,2018,Michel Award,,False,False,"Hayflower, Quiltshoe and the Rubens Brothers",nm3132277,Anna Dahlman,"Hayflower, Quiltshoe and the Rubens Brothers",2017.0,Comedy,1595387
+tt5222768,2018,Michel Award,,False,False,White Fang,nm3115348,Alexandre Espigares,White Fang,2018.0,Others,8040135
+tt5668822,2018,Michel Award,,False,False,Wildwitch,nm1390830,Kaspar Munk,Wildwitch,2018.0,Others,73587
+tt7689484,2018,Political Film Award,,True,True,On Her Shoulders,nm5221728,Alexandria Bombach,On Her Shoulders,2018.0,Others,70553
+tt7434928,2018,Sichtwechsel Film Award,,True,True,Amin,nm0268999,Philippe Faucon,Amin,2018.0,Drama,401328
+tt6106822,2018,Sichtwechsel Film Award,,False,False,Blue Note Records: Beyond the Notes,nm1051286,Sophie Huber,Blue Note Records: Beyond the Notes,2019.0,Others,2624
+tt8159562,2018,Sichtwechsel Film Award,,False,False,"Cassandro, the Exotico!",nm1633031,Marie Losier,"Cassandro, the Exotico!",2019.0,Others,17828
+tt6704974,2018,Sichtwechsel Film Award,,False,False,To the Ends of the World,nm0630112,Guillaume Nicloux,To the Ends of the World,2018.0,Drama,249242

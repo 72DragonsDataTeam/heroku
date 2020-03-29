@@ -1,0 +1,347 @@
+tconst,Year,awardName,categoryName,isWinner,otherAwards,primaryNominees,nconst,secondaryNominees,Name,releaseYear,Genre1,AdjustedTotalGross
+tt0099740,1990,Bronze Horse,,False,False,Hardware,nm0822582,Richard Stanley,Hardware,1990.0,Others,22065146
+tt0100150,1990,Bronze Horse,,False,False,Miller's Crossing,nm0001054,Joel Coen,Miller's Crossing,1990.0,Others,19450012
+tt0100315,1990,Bronze Horse,,False,False,Overseas,nm0747690,Brigitte Roüan,Overseas,1991.0,Drama,453445
+tt0100519,1990,Bronze Horse,,False,False,Rosencrantz & Guildenstern Are Dead,nm0001779,Tom Stoppard,Rosencrantz & Guildenstern Are Dead,1991.0,Comedy,2802322
+tt0100469,1990,Bronze Horse,,False,True,The Reflecting Skin,nm0726000,Philip Ridley,The Reflecting Skin,1991.0,Drama,64044
+tt0100935,1990,Bronze Horse,,False,False,Wild at Heart,nm0000186,David Lynch,Wild at Heart,1990.0,Comedy,56547750
+tt0101829,1991,Bronze Horse,,True,False,Europa,nm0001885,Lars von Trier,Europa,1992.0,Drama,3691138
+tt0101410,1991,Bronze Horse,,False,False,Barton Fink,nm0001054,Joel Coen,Barton Fink,1991.0,Comedy,23025282
+tt0101507,1991,Bronze Horse,,False,False,Boyz n the Hood,nm0005436,John Singleton,Boyz n the Hood,1991.0,Others,215833249
+tt0101597,1991,Bronze Horse,,False,False,Closet Land,nm0080233,Radha Bharadwaj,Closet Land,1991.0,Drama,980592
+tt0101773,1991,Bronze Horse,,False,False,Drive,nm0506461,Jefery Levy,Drive,1992.0,Others,54715
+tt0102566,1991,Bronze Horse,,False,False,Night and Day,nm0001901,Chantal Akerman,Night and Day,1992.0,Drama,23040
+tt0101640,1991,Bronze Horse,,False,False,Raise the Red Lantern,nm0955443,Yimou Zhang,Raise the Red Lantern,1992.0,Drama,9550711
+tt0099634,1991,Bronze Horse,,False,False,The Garden,nm0418746,Derek Jarman,The Garden,1990.0,Drama,20082
+tt0103223,1991,Bronze Horse,,False,False,To Want to Fly,nm0629309,Maurizio Nichetti,To Want to Fly,1993.0,Others,279099
+tt0105236,1992,Bronze Horse,,True,False,Reservoir Dogs,nm0000233,Quentin Tarantino,Reservoir Dogs,1992.0,Others,10532387
+tt0105275,1992,Best Actress,,True,True,Romper Stomper,nm0571537,Jacqueline McKenzie,Romper Stomper,1992.0,Others,631985
+tt0108026,1993,Best Actor,,True,True,The Saint of Fort Washington,nm0000369,Matt Dillon,The Saint of Fort Washington,1993.0,Drama,471323
+tt0110912,1994,Bronze Horse,,True,True,Pulp Fiction,nm0000233,Quentin Tarantino,Pulp Fiction,1994.0,Others,550323725
+tt0110882,1994,Bronze Horse,,False,True,Before the Rain,,[],Before the Rain,1995.0,Drama,2587138
+tt0109424,1994,Bronze Horse,,False,True,Chungking Express,,[],Chungking Express,1996.0,Comedy,2019948
+tt0109445,1994,Bronze Horse,,False,False,Clerks,,[],Clerks,1994.0,Comedy,11015936
+tt0109382,1994,Bronze Horse,,False,False,Dear Diary,,[],Dear Diary,1994.0,Others,808376
+tt0110374,1994,Bronze Horse,,False,False,Loaded,,[],Loaded,1996.0,Drama,144633
+tt0110395,1994,Bronze Horse,,False,False,Love and a .45,,[],Love and a .45,1994.0,Others,120177
+tt0108260,1994,Bronze Horse,,False,False,Suture,,[],Suture,1994.0,Drama,359305
+tt0111048,1994,FIPRESCI Prize,Indie 5,False,False,S.F.W.,nm0506461,Jefery Levy,S.F.W.,1995.0,Comedy,215976
+tt0112541,1995,Bronze Horse,,False,False,Blue in the Face,,[],Blue in the Face,1995.0,Comedy,4218573
+tt0112604,1995,Bronze Horse,,False,False,Butterfly Kiss,,[],Butterfly Kiss,1996.0,Comedy,286534
+tt0112851,1995,Bronze Horse,,False,False,Desperado,,[],Desperado,1995.0,Others,84922310
+tt0113677,1995,Bronze Horse,,False,True,Living in Oblivion,,[],Living in Oblivion,1995.0,Comedy,3726107
+tt0112682,1995,Bronze Horse,,False,False,The City of Lost Children,,[],The City of Lost Children,1995.0,Others,5860250
+tt0116860,1996,Bronze Horse,,True,False,"Pretty Village, Pretty Flame",nm0236729,Srdjan Dragojevic,"Pretty Village, Pretty Flame",1996.0,Comedy,681
+tt0115736,1996,Bronze Horse,,False,True,Bound,,[],Bound,1996.0,Others,12276183
+tt0116594,1996,Bronze Horse,,False,True,I Shot Andy Warhol,,[],I Shot Andy Warhol,1996.0,Others,6121164
+tt0116844,1996,Bronze Horse,,False,False,Lea,,[],Lea,1997.0,Drama,49594
+tt0114906,1996,Bronze Horse,,False,False,Welcome to the Dollhouse,,[],Welcome to the Dollhouse,1996.0,Comedy,14911924
+tt0115751,1996,FIPRESCI Prize,Northern Lights Section,True,True,Breaking the Waves,nm0001885,Lars von Trier,Breaking the Waves,1996.0,Drama,12256307
+tt0119527,1997,Best Screenplay,,True,True,Deceiver,nm0665322,Josh Pate,Deceiver,1998.0,Others,1810446
+tt0118887,1997,Best Actor,,True,True,Cop Land,nm0000230,Sylvester Stallone,Cop Land,1997.0,Others,142592564
+tt0119506,1997,Audience Award,,True,True,Lawn Dogs,nm0241090,John Duigan,Lawn Dogs,1998.0,Drama,334045
+tt0118789,1998,Bronze Horse,,False,False,Buffalo '66,nm0001252,Vincent Gallo,Buffalo '66,1998.0,Comedy,7447255
+tt0150143,1998,Bronze Horse,,False,False,Claire Dolan,nm0449868,Lodge Kerrigan,Claire Dolan,2000.0,Drama,28534
+tt0147612,1998,Bronze Horse,,False,False,Happiness,nm0001754,Todd Solondz,Happiness,1998.0,Comedy,9293255
+tt0139362,1998,Bronze Horse,,False,False,High Art,nm0158966,Lisa Cholodenko,High Art,1998.0,Drama,6146371
+tt0157016,1998,Bronze Horse,,False,False,I Stand Alone,nm0637615,Gaspar Noé,I Stand Alone,1998.0,Others,21727
+tt0139615,1998,Bronze Horse,,False,False,Slam,nm0505660,Marc Levin,Slam,1998.0,Drama,3147039
+tt0122515,1998,Bronze Horse,,False,True,The Acid House,nm0006476,Paul McGuigan,The Acid House,1999.0,Comedy,221138
+tt0118826,1998,Bronze Horse,,False,False,The Castle,nm0803203,Rob Sitch,The Castle,1999.0,Comedy,2698848
+tt0120449,1998,Bronze Horse,,False,False,The Dreamlife of Angels,nm0957794,Erick Zonca,The Dreamlife of Angels,1998.0,Drama,5380740
+tt0201538,1999,Bronze Horse,,True,False,Les convoyeurs attendent,nm0547017,Benoît Mariage,Les convoyeurs attendent,1999.0,Comedy,8383
+tt0171804,1999,Bronze Horse,,False,True,Boys Don't Cry,nm0005303,Kimberly Peirce,Boys Don't Cry,2000.0,Others,34453026
+tt0192194,1999,Bronze Horse,,False,False,Julien Donkey-Boy,nm0005101,Harmony Korine,Julien Donkey-Boy,1999.0,Comedy,270197
+tt0185101,1999,Bronze Horse,,False,False,Pups,nm0038609,Ash Baron-Cohen,Pups,1999.0,Others,4889
+tt0138874,1999,Bronze Horse,,False,False,Three Seasons,nm0004784,Tony Bui,Three Seasons,1999.0,Drama,6217098
+tt0162830,1999,Bronze Horse,,False,False,Twin Falls Idaho,nm0689187,Michael Polish,Twin Falls Idaho,1999.0,Drama,3065148
+tt0260688,2000,Bronze Horse,,True,False,Ali Zaoua: Prince of the Streets,nm0043953,Nabil Ayouch,Ali Zaoua: Prince of the Streets,2001.0,Others,9515
+tt0204137,2000,Bronze Horse,,False,False,Animal Factory,nm0000114,Steve Buscemi,Animal Factory,2000.0,Others,132633
+tt0249380,2000,Bronze Horse,,False,False,Baise-moi,nm0221591,Virginie Despentes,Rape Me,2001.0,Others,1966329
+tt0249462,2000,Bronze Horse,,False,True,Billy Elliot,nm0197636,Stephen Daldry,Billy Elliot,2000.0,Drama,192689248
+tt0221073,2000,Bronze Horse,,False,True,Chopper,nm0231596,Andrew Dominik,Chopper,2001.0,Others,689395
+tt0262432,2000,Bronze Horse,,False,True,George Washington,nm0337773,David Gordon Green,George Washington,2000.0,Drama,792529
+tt0210075,2000,Bronze Horse,,False,False,Girlfight,nm0476201,Karyn Kusama,Girlfight,2000.0,Drama,4746554
+tt0219288,2000,Bronze Horse,,False,False,Loners,nm0648576,David Ondrícek,Loners,2002.0,Comedy,1001419
+tt0250478,2000,Bronze Horse,,False,True,Nico and Dani,nm0310747,Cesc Gay,Nico and Dani,2001.0,Comedy,1080645
+tt0180093,2000,Bronze Horse,,False,True,Requiem for a Dream,nm0004716,Darren Aronofsky,Requiem for a Dream,2000.0,Drama,16192916
+tt0189998,2000,Bronze Horse,,False,False,Shadow of the Vampire,nm0580729,E. Elias Merhige,Shadow of the Vampire,2001.0,Drama,28384651
+tt0251191,2000,Bronze Horse,,False,True,The Low Down,nm0861899,Jamie Thraves,The Low Down,2001.0,Drama,46797
+tt0203230,2000,Bronze Horse,,False,False,You Can Count on Me,nm0518836,Kenneth Lonergan,You Can Count on Me,2000.0,Drama,30341661
+tt0203166,2000,FIPRESCI Prize,Northern Lights Section,True,True,Together,nm0600546,Lukas Moodysson,Together,2001.0,Comedy,22403056
+tt0242193,2001,Bronze Horse,,True,True,Bully,nm0164187,Larry Clark,Bully,2001.0,Others,1702149
+tt0279064,2001,Bronze Horse,,False,True,Elling,nm0639033,Petter Næss,Elling,2002.0,Comedy,3349866
+tt0248845,2001,Bronze Horse,,False,True,Hedwig and the Angry Inch,nm0593463,John Cameron Mitchell,Hedwig and the Angry Inch,2001.0,Comedy,9662611
+tt0242587,2001,Bronze Horse,,False,True,L.I.E.,nm0191147,Michael Cuesta,L.I.E.,2001.0,Others,4356276
+tt0250491,2001,Bronze Horse,,False,False,Late Night Shopping,nm0582792,Saul Metzstein,Late Night Shopping,2002.0,Comedy,2477
+tt0298238,2001,Bronze Horse,,False,True,Quitting,nm0955434,Yang Zhang,Quitting,2002.0,Others,63848
+tt0279765,2001,Bronze Horse,,False,False,Streeters,nm0869007,Gerardo Tort,Streeters,2001.0,Drama,4465937
+tt0247199,2001,Bronze Horse,,False,False,The Believer,nm0063785,Henry Bean,The Believer,2001.0,Drama,2519345
+tt0270259,2001,Bronze Horse,,False,False,The Business of Strangers,nm0828099,Patrick Stettner,The Business of Strangers,2001.0,Drama,3353099
+tt0250323,2001,Bronze Horse,,False,False,The Deep End,nm0569166,Scott McGehee,The Deep End,2001.0,Others,27145155
+tt0245238,2001,Audience Award,,True,True,Lost and Delirious,nm0690794,Léa Pool,Lost and Delirious,2001.0,Drama,1027635
+tt0290673,2002,Bronze Horse,,True,False,Irreversible,nm0637615,Gaspar Noé,Irréversible,2003.0,Others,10226881
+tt0310001,2002,Best Directorial Debut,,True,True,Stones,nm0757749,Ramón Salazar,Stones,2003.0,Drama,1409320
+tt0280523,2002,Best Screenplay,,True,True,Carnage,nm0322479,Delphine Gleize,Carnage,2002.0,Comedy,224407
+tt0280491,2002,Best Actor,,True,True,Bloody Sunday,nm0626362,James Nesbitt,Bloody Sunday,2002.0,Drama,3653451
+tt0300214,2002,Best Cinematography,,True,True,Morvern Callar,nm0473696,Alwin H. Küchler,Morvern Callar,2002.0,Drama,1466254
+tt0322824,2002,Audience Award,,True,True,Japón,nm1196161,Carlos Reygadas,Japón,2003.0,Drama,321627
+tt0300140,2002,Canal+ Award,,True,True,Lilya 4-Ever,nm0968541,Oksana Akinshina,Lilya 4-Ever,2003.0,Others,1676138
+tt0266971,2002,FIPRESCI Prize,Competition,True,True,The Slaughter Rule,nm0807243,Alex Smith,The Slaughter Rule,2002.0,Drama,38703
+tt0388395,2003,Bronze Horse,,True,True,Schultze Gets the Blues,nm1491557,Michael Schorr,Schultze Gets the Blues,2004.0,Comedy,6197009
+tt0372782,2003,Best Actress,,True,True,A Good Lawyer's Wife,nm0600668,So-Ri Moon,A Good Lawyer's Wife,2004.0,Drama,110021
+tt0340377,2003,Audience Award,,True,True,The Station Agent,nm0565336,Tom McCarthy,The Station Agent,2003.0,Comedy,20023306
+tt0370531,2003,FIPRESCI Prize,,True,True,She's One of Us,nm1392986,Siegrid Alnoy,She's One of Us,2004.0,Drama,60230
+tt0377091,2004,Best Directorial Debut,,True,True,Mean Creek,nm1096524,Jacob Estes,Mean Creek,2004.0,Others,1941307
+tt0374583,2004,Best Screenplay,,True,True,Look at Me,nm0045870,Jean-Pierre Bacri,Look at Me,2005.0,Comedy,26904917
+tt0362506,2004,Best Actress,,True,True,Chrystal,nm0089408,Lisa Blount,Chrystal,2004.0,Others,223143
+tt0333766,2004,Best Actor,,True,True,Garden State,nm0765597,Peter Sarsgaard,Garden State,2004.0,Comedy,84428787
+tt0338977,2004,Honorable Mention,,True,True,Games of Love and Chance,nm0444244,Abdellatif Kechiche,Games of Love and Chance,2005.0,Comedy,2307488
+tt0364569,2004,Audience Award,,True,True,Oldboy,nm0661791,Chan-wook Park,Oldboy,2005.0,Others,21033440
+tt0366701,2004,FIPRESCI Prize,,True,True,Producing Adults,nm1167412,Aleksi Salmenperä,Producing Adults,2004.0,Comedy,636444
+tt0398664,2005,Bronze Horse,,True,True,Northeast,nm0812626,Juan Solanas,Northeast,2005.0,Drama,71690
+tt0396630,2005,Bronze Horse,,False,False,Hardcore,nm1531934,Dennis Iliadis,Hardcore,2005.0,Others,237127
+tt0415978,2005,Best Directorial Debut,,True,True,Me and You and Everyone We Know,nm0432380,Miranda July,Me and You and Everyone We Know,2005.0,Comedy,15481175
+tt0468736,2005,Best Screenplay,,True,True,Festival,nm0341112,Annie Griffin,Festival,2005.0,Comedy,219785
+tt0318761,2005,Best Actor,,True,True,Thumbsucker,nm0000352,Vincent D'Onofrio,Thumbsucker,2005.0,Comedy,4166607
+tt0463903,2005,Best Cinematography,,True,True,Be with Me,nm0848816,Adrian Tan,Be with Me,2005.0,Drama,119112
+tt0423169,2006,Bronze Horse,,True,True,Sherrybaby,nm0172877,Laurie Collyer,Sherrybaby,2006.0,Drama,1059283
+tt0452971,2006,Best Directorial Debut,,True,True,Dark Blue Almost Black,nm0998110,Daniel Sánchez Arévalo,Dark Blue Almost Black,2007.0,Drama,4172324
+tt0382765,2006,Best Screenplay,,True,True,Jindabyne,nm1472231,Beatrix Christian,Jindabyne,2006.0,Others,8116766
+tt0468489,2006,Best Actor,,True,True,Half Nelson,nm0331516,Ryan Gosling,Half Nelson,2006.0,Drama,9267763
+tt0455590,2006,Best Cinematography,,True,True,The Last King of Scotland,nm0230045,Anthony Dod Mantle,The Last King of Scotland,2007.0,Others,83286660
+tt0449059,2006,Audience Award,,True,True,Little Miss Sunshine,nm0206760,Jonathan Dayton,Little Miss Sunshine,2006.0,Comedy,201047318
+tt0476496,2007,Bronze Horse,Children's Film,True,False,Trigger,nm0897243,Gunnar Vikene,Trigger,2006.0,Others,1220497
+tt1032846,2007,Bronze Horse,,True,True,"4 Months, 3 Weeks and 2 Days",nm0612816,Cristian Mungiu,"4 Months, 3 Weeks and 2 Days",2007.0,Drama,13530041
+tt1039652,2007,Best Directorial Debut,,True,True,The Zone,nm0687751,Rodrigo Plá,The Zone,2008.0,Drama,3298465
+tt0841925,2007,Best Screenplay,,True,True,Silent Light,nm1196161,Carlos Reygadas,Silent Light,2007.0,Drama,1146987
+tt0488535,2007,Best Actor,,True,True,Expired,nm0000574,Jason Patric,Expired,2007.0,Comedy,119682
+tt0401383,2007,Best Cinematography,,True,True,The Diving Bell and the Butterfly,nm0001405,Janusz Kaminski,The Diving Bell and the Butterfly,2008.0,Others,31124702
+tt0808417,2007,Best Music,,True,True,Persepolis,nm1937991,Olivier Bernet,Persepolis,2008.0,Others,32832215
+tt0421082,2007,Honorable Mention,,True,True,Control,nm0179221,Anton Corbijn,Control,2007.0,Others,11046675
+tt0467406,2007,Audience Award,,True,True,Juno,nm0718646,Jason Reitman,Juno,2007.0,Comedy,456144163
+tt0825236,2007,FIPRESCI Prize,,True,True,Caramel,nm1701024,Nadine Labaki,Caramel,2008.0,Comedy,18474822
+tt0978759,2008,Bronze Horse,,True,False,Frozen River,nm2581581,Courtney Hunt,Frozen River,2008.0,Others,9257629
+tt0790799,2008,Bronze Horse,,False,False,$9.99,nm1038127,Tatia Rosenthal,$9.99,2009.0,Others,901304
+tt1056231,2008,Bronze Horse,,False,False,Angling,nm1138158,Adrian Sitaru,Hooked,2009.0,Drama,271487
+tt0872245,2008,Bronze Horse,,False,True,Better Things,nm1109502,Duane Hopkins,Better Things,2009.0,Drama,48453
+tt1105734,2008,Bronze Horse,,False,False,Cold Lunch,nm1576066,Eva Sørhaug,Cold Lunch,2008.0,Drama,1402068
+tt0411323,2008,Bronze Horse,,False,True,Downloading Nancy,nm0719307,Johan Renck,Downloading Nancy,2008.0,Drama,53952
+tt0986233,2008,Bronze Horse,,False,True,Hunger,nm2588606,Steve McQueen,Hunger,2008.0,Others,3900326
+tt0780536,2008,Bronze Horse,,False,False,In Bruges,nm1732981,Martin McDonagh,In Bruges,2008.0,Comedy,49729406
+tt1232826,2008,Bronze Horse,,False,True,Involuntary,nm1128037,Ruben Östlund,Involuntary,2009.0,Drama,745470
+tt1042424,2008,Bronze Horse,,False,True,Johnny Mad Dog,nm0767160,Jean-Stéphane Sauvaire,Johnny Mad Dog,2011.0,Drama,247327
+tt0903627,2008,Bronze Horse,,False,False,Julia,nm0957794,Erick Zonca,Julia,2008.0,Others,1649999
+tt1087851,2008,Bronze Horse,,False,False,Les grandes personnes,nm1738978,Anna Novion,Les grandes personnes,2008.0,Comedy,1473801
+tt0995747,2008,Bronze Horse,,False,False,Mermaid,nm1346885,Anna Melikyan,Mermaid,2008.0,Comedy,1733657
+tt1310504,2008,Bronze Horse,,False,False,Mr. Governor,nm3168051,Måns Månsson,Mr. Governor,2008.0,Others,26008
+tt0814759,2008,Bronze Horse,,False,False,Parc,nm0220774,Arnaud des Pallières,Parc,2008.0,Others,55256
+tt1054119,2008,Bronze Horse,,False,False,Plastic City,nm0950454,Nelson Lik-wai Yu,Plastic City,2009.0,Others,95541
+tt1160022,2008,Bronze Horse,,False,False,Rumba,nm0008442,Dominique Abel,Rumba,2009.0,Comedy,1643528
+tt1224455,2008,Bronze Horse,,False,False,Soi Cowboy,nm0165583,Thomas Clay,Soi Cowboy,2009.0,Drama,6943
+tt0844286,2008,Bronze Horse,,False,False,The Brothers Bloom,nm0426059,Rian Johnson,The Brothers Bloom,2009.0,Others,10737060
+tt1284526,2008,Bronze Horse,,False,True,The Country Teacher,nm0805246,Bohdan Sláma,The Country Teacher,2009.0,Drama,2029288
+tt1379182,2009,Bronze Horse,,True,False,Dogtooth,nm0487166,Yorgos Lanthimos,Dogtooth,2010.0,Drama,591748
+tt1190858,2009,Bronze Horse,,False,False,Amreeka,nm1435062,Cherien Dabis,Amreeka,2009.0,Drama,3393388
+tt1337140,2009,Bronze Horse,,False,False,Buried Secrets,nm1075853,Raja Amari,Anonymes,2010.0,Drama,26939489
+tt1424327,2009,Bronze Horse,,False,False,Eyes Wide Open,nm3432861,Haim Tabakman,Eyes Wide Open,2009.0,Drama,357987
+tt1166810,2009,Bronze Horse,,False,False,Fat People,nm0998110,Daniel Sánchez Arévalo,Fat People,2010.0,Comedy,3162917
+tt1232776,2009,Bronze Horse,,False,False,Fish Tank,nm0036349,Andrea Arnold,Fish Tank,2009.0,Drama,3233296
+tt0985058,2009,Bronze Horse,,False,True,Metropia,nm0757975,Tarik Saleh,Metropia,2010.0,Others,95231
+tt0485947,2009,Bronze Horse,,False,True,Mr. Nobody,nm0233757,Jaco Van Dormael,Mr. Nobody,2013.0,Drama,3877315
+tt1320352,2009,Bronze Horse,,False,False,Nothing Personal,nm1773563,Urszula Antoniak,Nothing Personal,2010.0,Drama,1136842
+tt1422101,2009,Bronze Horse,,False,False,Ordinary People,nm0673829,Vladimir Perisic,Ordinary People,2010.0,Drama,5753
+tt0929632,2009,Bronze Horse,,False,True,Precious,nm0200005,Lee Daniels,Precious,2009.0,Drama,131376168
+tt1104126,2009,Bronze Horse,,False,True,Shifty,nm2123102,Eran Creevy,Shifty,2009.0,Others,290403
+tt1127715,2009,Bronze Horse,,False,True,Sin nombre,nm1560977,Cary Joji Fukunaga,Sin Nombre,2009.0,Others,9153926
+tt1324056,2009,Bronze Horse,,False,False,Together,nm1572273,Matias Armand Jordal,Together,2009.0,Drama,161808
+tt1193138,2009,Bronze Horse,,False,False,Up in the Air,nm0718646,Jason Reitman,Up in the Air,2009.0,Comedy,296631267
+tt1172233,2009,Bronze Horse,,False,False,Whip It,nm0000106,Drew Barrymore,Whip It,2009.0,Drama,35081179
+tt1313104,2009,Audience Award,,True,True,The Cove,nm2694309,Louie Psihoyos,The Cove,2009.0,Others,2391006
+tt1322346,2009,Telia Film Award,,True,True,Miss Kicki,nm2318723,Håkon Liu,Miss Kicki,2010.0,Drama,97
+tt1230478,2010,Bronze Horse,Children's Film,True,False,Yohan - Barnevandrer,nm2075719,Odd Hynnekleiv,Yohan - Barnevandrer,2010.0,Drama,1635517
+tt1313092,2010,Best Screenplay,,True,True,Animal Kingdom,nm2391575,David Michôd,Animal Kingdom,2010.0,Others,9245686
+tt1399683,2010,Best Actress,,True,True,Winter's Bone,nm2225369,Jennifer Lawrence,Winter's Bone,2010.0,Drama,23828457
+tt1590024,2010,Best Actor,,True,True,"If I Want to Whistle, I Whistle",nm3778618,George Pistereanu,"If I Want to Whistle, I Whistle",2010.0,Drama,285233
+tt1278449,2010,Best Music,,True,True,Sound of Noise,nm2919157,Fred Avril,Sound of Noise,2012.0,Comedy,295925
+tt1268204,2010,Audience Award,,True,True,Waste Land,nm1013671,Lucy Walker,Waste Land,2010.0,Others,547358
+tt1736633,2011,Bronze Horse,Best Cinematography,True,False,"Oslo, August 31st",nm1257420,Jakob Ihre,"Oslo, August 31st",2012.0,Drama,1772487
+tt1821593,2011,Bronze Horse,Best Film,False,False,Bullhead,nm1742427,Michaël R. Roskam,Bullhead,2011.0,Others,4401845
+tt1684628,2011,Bronze Horse,Best Film,False,False,Circumstance,nm1991486,Maryam Keshavarz,Circumstance,2011.0,Drama,1171582
+tt1843880,2011,Bronze Horse,Best Film,False,False,Code Blue,nm1773563,Urszula Antoniak,Code Blue,2011.0,Drama,21652
+tt1372686,2011,Bronze Horse,Best Film,False,False,Coriolanus,nm0000146,Ralph Fiennes,Coriolanus,2011.0,Drama,2065183
+tt1441326,2011,Bronze Horse,Best Film,False,False,Martha Marcy May Marlene,nm1699934,Sean Durkin,Martha Marcy May Marlene,2011.0,Drama,7576370
+tt1663660,2011,Bronze Horse,Best Film,False,False,On the Ice,nm1843186,Andrew Okpeaha MacLean,On the Ice,2011.0,Drama,170561
+tt1376717,2011,Bronze Horse,Best Film,False,False,Play,nm1128037,Ruben Östlund,Play,2011.0,Drama,117367
+tt1978447,2011,Bronze Horse,Best Film,False,False,Policeman,nm2028715,Nadav Lapid,Policeman,2011.0,Drama,55897
+tt1661420,2011,Bronze Horse,Best Film,False,False,Polisse,nm0494069,Maïwenn,Polisse,2012.0,Others,22875329
+tt1723811,2011,Bronze Horse,Best Film,False,False,Shame,nm2588606,Steve McQueen,Shame,2011.0,Drama,24381664
+tt1588398,2011,Bronze Horse,Best Film,False,True,Sleeping Beauty,nm3772967,Julia Leigh,Sleeping Beauty,2011.0,Drama,504204
+tt1922645,2011,Bronze Horse,Best Film,False,False,The Fairy,nm0008442,Dominique Abel,The Fairy,2012.0,Comedy,188820
+tt1235170,2011,Bronze Horse,Best Film,False,False,The Future,nm0432380,Miranda July,The Future,2011.0,Drama,1689357
+tt1650407,2011,Bronze Horse,Best Film,False,False,"Turn Me On, Dammit!",nm0414728,Jannicke Systad Jacobsen,"Turn Me On, Dammit!",2011.0,Comedy,1943921
+tt1204340,2011,Bronze Horse,Best Film,False,False,Tyrannosaur,nm0175916,Paddy Considine,Tyrannosaur,2011.0,Drama,810464
+tt1772424,2011,Bronze Horse,Best Film,True,False,Where Do We Go Now?,nm1701024,Nadine Labaki,Where Do We Go Now?,2012.0,Comedy,9063382
+tt1181614,2011,Bronze Horse,Best Film,False,False,Wuthering Heights,nm0036349,Andrea Arnold,Wuthering Heights,2012.0,Drama,2077992
+tt1306980,2011,Audience Award,,True,True,50/50,nm1349522,Jonathan Levine,50/50,2011.0,Comedy,83574639
+tt1429313,2011,WWW Award,,True,True,Africa United,nm3008980,Debs Paterson,Africa United,2011.0,Others,1367158
+tt2023473,2011,Rising Star Award,,False,False,A One-Way Trip to Antibes,nm0272581,Rebecca Ferguson,A One-Way Trip to Antibes,2011.0,Drama,1680067
+tt1827358,2011,Rising Star Award,,False,False,She Monkeys,nm2050806,Adam Lundgren,She Monkeys,2011.0,Drama,9684
+tt1340800,2011,FIPRESCI Prize,,True,True,Tinker Tailor Soldier Spy,nm0019247,Tomas Alfredson,Tinker Tailor Soldier Spy,2012.0,Drama,118131690
+tt2172095,2011,Feature Film Award,,True,True,The Deposit,nm2132286,Lisa Aschan,The Deposit,2015.0,Drama,5209
+tt1996310,2012,Bronze Horse,Best Film,True,True,Lore,nm0795153,Cate Shortland,Lore,2012.0,Drama,3681414
+tt2180277,2012,Bronze Horse,Best Film,False,False,90 Minutes,nm1576066,Eva Sørhaug,90 Minutes,2012.0,Drama,777225
+tt2368749,2012,Bronze Horse,Best Film,False,False,After Lucia,nm1633015,Michel Franco,After Lucia,2013.0,Drama,1751902
+tt2098628,2012,Bronze Horse,Best Film,False,False,Augustine,nm1356951,Alice Winocour,Augustine,2013.0,Drama,406340
+tt2125435,2012,Bronze Horse,Best Film,False,False,Beasts of the Southern Wild,nm1022455,Benh Zeitlin,Beasts of the Southern Wild,2012.0,Others,38223676
+tt1733105,2012,Bronze Horse,Best Film,False,False,Bekas,nm2545652,Karzan Kader,Bekas,2012.0,Others,531946
+tt2402623,2012,Bronze Horse,Best Film,False,False,Beyond the Walls,nm3460363,David Lambert,Beyond the Walls,2013.0,Drama,3576
+tt1977739,2012,Bronze Horse,Best Film,False,True,Call Girl,nm0545729,Mikael Marcimain,Call Girl,2012.0,Drama,2133745
+tt1971352,2012,Bronze Horse,Best Film,False,False,Compliance,nm0957505,Craig Zobel,Compliance,2012.0,Others,1027537
+tt1764234,2012,Bronze Horse,Best Film,False,True,Killing Them Softly,nm0231596,Andrew Dominik,Killing Them Softly,2012.0,Others,58782357
+tt1211890,2012,Bronze Horse,Best Film,False,False,Middle of Nowhere,nm1148550,Ava DuVernay,Middle of Nowhere,2012.0,Drama,533962
+tt2076897,2012,Bronze Horse,Best Film,False,False,My Brother the Devil,nm2260751,Sally El Hosaini,My Brother the Devil,2012.0,Others,199511
+tt2062969,2012,Bronze Horse,Best Film,False,False,Sister,nm0576732,Ursula Meier,Sister,2012.0,Others,783500
+tt2153963,2012,Bronze Horse,Best Film,False,False,Tabu,nm0326937,Miguel Gomes,Tabu,2012.0,Drama,1224588
+tt2311822,2012,Bronze Horse,Best Film,False,False,The Color of the Chameleon,nm0398619,Emil Christov,The Color of the Chameleon,2013.0,Comedy,53412
+tt2184331,2012,Bronze Horse,Best Film,False,True,Una noche,nm2280980,Lucy Mulloy,Una noche,2012.0,Drama,236339
+tt1684925,2012,Bronze Horse,Best Film,False,False,Wish You Were Here,nm0201061,Kieran Darcy-Smith,Wish You Were Here,2013.0,Drama,1744249
+tt2085002,2012,Rising Star Award,,True,True,Eat Sleep Die,nm4723934,Nermina Lukac,Eat Sleep Die,2012.0,Drama,64382
+tt1037223,2012,FIPRESCI Prize,,True,True,Everyday,nm0935863,Michael Winterbottom,Everyday,2013.0,Drama,28117
+tt2304426,2013,Bronze Horse,Best Film,True,False,The Selfish Giant,nm1163237,Clio Barnard,The Selfish Giant,2013.0,Drama,1232315
+tt2024544,2013,Bronze Horse,Best Film,False,True,12 Years a Slave,nm2588606,Steve McQueen,12 Years a Slave,2013.0,Others,267977546
+tt2388637,2013,Bronze Horse,Best Film,False,False,Ain't Them Bodies Saints,nm1108007,David Lowery,Ain't Them Bodies Saints,2013.0,Others,1560058
+tt3074610,2013,Bronze Horse,Best Film,False,False,Bad Hair,nm0740048,Mariana Rondón,Bad Hair,2014.0,Drama,2861245
+tt3118696,2013,Bronze Horse,Best Film,False,False,Club Sandwich,nm0251774,Fernando Eimbcke,Club Sandwich,2014.0,Comedy,3494
+tt2296697,2013,Bronze Horse,Best Film,False,False,Concussion,nm4945419,Stacie Passon,Concussion,2013.0,Drama,134901
+tt2991092,2013,Bronze Horse,Best Film,False,False,Eastern Boys,nm0133028,Robin Campillo,Eastern Boys,2014.0,Others,197870
+tt2315628,2013,Bronze Horse,Best Film,False,False,For Those in Peril,nm3591467,Paul Wright,For Those in Peril,2014.0,Drama,4174
+tt2334649,2013,Bronze Horse,Best Film,False,False,Fruitvale Station,nm3363032,Ryan Coogler,Fruitvale Station,2013.0,Others,36634099
+tt2835548,2013,Bronze Horse,Best Film,False,False,Grand Central,nm2294243,Rebecca Zlotowski,Grand Central,2013.0,Drama,1878972
+tt2852376,2013,Bronze Horse,Best Film,False,True,Heli,nm1661334,Amat Escalante,Heli,2013.0,Others,402528
+tt2357461,2013,Bronze Horse,Best Film,False,False,Honey,nm0000420,Valeria Golino,Honey,2013.0,Drama,1023417
+tt2901736,2013,Bronze Horse,Best Film,False,False,Ilo Ilo,nm2021547,Anthony Chen,Ilo Ilo,2013.0,Drama,1347479
+tt2402085,2013,Bronze Horse,Best Film,False,False,Jimi: All Is by My Side,nm0725983,John Ridley,Jimi: All Is by My Side,2014.0,Others,1017410
+tt3078242,2013,Bronze Horse,Best Film,False,True,Miss Violence,nm3189793,Alexandros Avranas,Miss Violence,2014.0,Drama,157429
+tt2350496,2013,Bronze Horse,Best Film,False,False,The Lunchbox,nm3592235,Ritesh Batra,The Lunchbox,2013.0,Drama,17326228
+tt2402091,2013,Bronze Horse,Best Film,False,False,The Reunion,nm5058908,Anna Odell,The Reunion,2013.0,Drama,2628753
+tt2187115,2013,Telia Film Award,,True,True,Child's Pose,nm0626754,Cãlin Peter Netzer,Child's Pose,2013.0,Drama,1196549
+tt1821549,2013,FIPRESCI Prize,,True,True,Nebraska,nm0668247,Alexander Payne,Nebraska,2014.0,Others,49530515
+tt2679680,2013,Best Documentary,,False,False,Plot for Peace,nm1259337,Carlos Agulló,Plot for Peace,2014.0,Others,50437
+tt3655522,2014,Bronze Horse,Best Film,True,True,Girlhood,nm1780037,Céline Sciamma,Girlhood,2014.0,Drama,2070528
+tt3661798,2014,Bronze Horse,Best Film,False,False,A Girl at My Door,nm4772133,July Jung,A Girl at My Door,2014.0,Drama,613282
+tt3365778,2014,Bronze Horse,Best Film,False,False,Breathe,nm0491259,Mélanie Laurent,Breathe,2015.0,Drama,1289840
+tt1100089,2014,Bronze Horse,Best Film,False,False,Foxcatcher,nm0587955,Bennett Miller,Foxcatcher,2015.0,Others,34228205
+tt3086442,2014,Bronze Horse,Best Film,False,False,Goodnight Mommy,nm3868633,Severin Fiala,Goodnight Mommy,2015.0,Others,3621103
+tt3687186,2014,Bronze Horse,Best Film,False,False,Heaven Knows What,nm1509478,Benny Safdie,Heaven Knows What,2015.0,Drama,177473
+tt3469918,2014,Bronze Horse,Best Film,False,False,Jack,nm0074163,Edward Berger,Jack,2014.0,Drama,86697
+tt2872718,2014,Bronze Horse,Best Film,False,False,Nightcrawler,nm0319659,Dan Gilroy,Nightcrawler,2014.0,Others,76501377
+tt2488778,2014,Bronze Horse,Best Film,False,False,The Keeping Room,nm2905562,Daniel Barber,The Keeping Room,2015.0,Drama,108566
+tt1745787,2014,Bronze Horse,Best Film,False,False,The Tribe,nm2990632,Myroslav Slaboshpytskyi,The Tribe,2014.0,Others,392502
+tt2582802,2014,Bronze Horse,Best Film,False,False,Whiplash,nm3227090,Damien Chazelle,Whiplash,2014.0,Drama,67814501
+tt3612616,2014,Audience Award,,True,True,Mommy,nm0230859,Xavier Dolan,Mommy,2014.0,Drama,17889741
+tt3114132,2014,Telia Film Award,,True,True,10.000 Km,nm3112190,Carlos Marques-Marcet,10.000 Km,2015.0,Comedy,251585
+tt2494834,2014,Rising Star Award,,True,True,Stockholm Stories,nm1743101,Julia Ragnarsson,Stockholm Stories,2013.0,Drama,23515
+tt3344922,2014,FIPRESCI Prize,,True,True,Hungry Hearts,nm0182459,Saverio Costanzo,Hungry Hearts,2015.0,Drama,601333
+tt2217859,2015,Bronze Horse,Best Film,True,False,Louder Than Bombs,nm1258686,Joachim Trier,Louder Than Bombs,2015.0,Drama,1423158
+tt4400174,2015,Bronze Horse,Best Film,False,False,As I Open My Eyes,nm3960987,Leyla Bouzid,As I Open My Eyes,2016.0,Drama,87272
+tt4085084,2015,Bronze Horse,Best Film,False,False,Disorder,nm1356951,Alice Winocour,Disorder,2016.0,Drama,544176
+tt4291590,2015,Bronze Horse,Best Film,False,True,Evolution,nm0352968,Lucile Hadzihalilovic,Evolution,2016.0,Drama,85504
+tt5097504,2015,Bronze Horse,Best Film,False,False,Lazy Hazy Crazy,nm4980076,Yee-sum Luk,Lazy Hazy Crazy,2015.0,Drama,193013
+tt3486542,2015,Bronze Horse,Best Film,False,True,Mediterranea,nm3476432,Jonas Carpignano,Mediterranea,2015.0,Drama,73721
+tt3966404,2015,Bronze Horse,Best Film,False,True,Mustang,nm2197025,Deniz Gamze Ergüven,Mustang,2015.0,Drama,6575847
+tt4636046,2015,Bronze Horse,Best Film,False,False,Nahid,nm5304764,Ida Panahandeh,Nahid,2015.0,Drama,155477
+tt4899406,2015,Bronze Horse,Best Film,False,False,Neon Bull,nm3486709,Gabriel Mascaro,Neon Bull,2015.0,Drama,214841
+tt3808342,2015,Bronze Horse,Best Film,False,True,Son of Saul,nm1841577,László Nemes,Son of Saul,2015.0,Drama,9060265
+tt3646344,2015,Bronze Horse,Best Film,False,False,Sworn Virgin,nm3053575,Laura Bispuri,Sworn Virgin,2015.0,Drama,122392
+tt3922816,2015,Bronze Horse,Best Film,False,False,The Daughter,nm1404307,Simon Stone,The Daughter,2017.0,Drama,1611977
+tt3172532,2015,Bronze Horse,Best Film,False,False,The Diary of a Teenage Girl,nm1716636,Marielle Heller,The Diary of a Teenage Girl,2015.0,Comedy,3487288
+tt4150494,2015,Bronze Horse,Best Film,False,False,The Here After,nm3281319,Magnus von Horn,The Here After,2015.0,Drama,104973
+tt2994832,2015,Bronze Horse,Best Film,False,True,The Summer of Sangaile,nm1626079,Alante Kavaite,The Summer of Sangaile,2015.0,Drama,64225
+tt4482858,2015,Bronze Horse,Best Film,False,False,Tikkun,nm3844801,Avishai Sivan,Tikkun,2015.0,Drama,29364
+tt3505682,2015,Best Documentary,,False,False,Bolshoi Babylon,nm1463439,Mark Franchetti,Bolshoi Babylon,2015.0,Others,141948
+tt4126304,2015,Best Documentary,,False,False,Cartel Land,nm1292648,Matthew Heineman,Cartel Land,2015.0,Others,1959998
+tt4937156,2015,Best Documentary,,False,False,Our Last Tango,nm0469378,German Kral,Our Last Tango,2016.0,Others,653378
+tt3669520,2015,Best Documentary,,False,False,Palio,nm1785694,Cosima Spender,Palio,2015.0,Others,97380
+tt3790720,2015,Best Documentary,,False,False,Peggy Guggenheim: Art Addict,nm4662682,Lisa Immordino Vreeland,Peggy Guggenheim: Art Addict,2015.0,Others,1410420
+tt4316236,2015,Best Documentary,,False,False,The Black Panthers: Vanguard of the Revolution,nm0625747,Stanley Nelson,The Black Panthers: Vanguard of the Revolution,2015.0,Others,1203895
+tt4185572,2015,Best Documentary,,False,False,The Hunting Ground,nm0225269,Kirby Dick,The Hunting Ground,2015.0,Others,893387
+tt4206218,2015,Best Documentary,,False,False,The Propaganda Game,nm1007525,Álvaro Longoria,The Propaganda Game,2015.0,Others,11809
+tt3263548,2015,Best Documentary,,False,False,The Seventh Fire,nm0725652,Jack Pettibone Riccobono,The Seventh Fire,2015.0,Others,65637
+tt2415458,2015,Best Documentary,,False,False,The Wolfpack,nm1145920,Crystal Moselle,The Wolfpack,2015.0,Others,2908086
+tt3962848,2015,Best Documentary,,False,False,Welcome to Leith,nm3607620,Michael Beach Nichols,Welcome to Leith,2015.0,Others,78212
+tt4668808,2015,Best Documentary,,False,False,What Our Fathers Did: A Nazi Legacy,nm0262678,David Evans,What Our Fathers Did: A Nazi Legacy,2015.0,Others,102308
+tt3043252,2015,Stockholm Impact Award,,True,True,Parched,nm1636742,Leena Yadav,Parched,2016.0,Drama,1467894
+tt4079902,2016,Bronze Horse,Best Documentary,True,False,Hooligan Sparrow,nm6811599,Nanfu Wang,Hooligan Sparrow,2016.0,Others,19982
+tt5146068,2016,Bronze Horse,Best Documentary,False,False,All These Sleepless Nights,nm2777808,Michal Marczak,All These Sleepless Nights,2017.0,Others,43396
+tt4170344,2016,Bronze Horse,Best Documentary,False,False,I Called Him Morgan,nm1548607,Kasper Collin,I Called Him Morgan,2017.0,Others,270401
+tt5952526,2016,Bronze Horse,Best Documentary,False,False,Karl Marx City,nm0258355,Petra Epperlein,Karl Marx City,2017.0,Others,86101
+tt3917210,2016,Bronze Horse,Best Documentary,False,False,"Life, Animated",nm2141317,Roger Ross Williams,"Life, Animated",2016.0,Comedy,645085
+tt4093700,2016,Bronze Horse,Best Documentary,False,False,Marina Abramovic In Brazil: The Space In Between,nm1848013,Marco Del Fiol,Marina Abramovic In Brazil: The Space In Between,2016.0,Others,78593
+tt5278868,2016,Bronze Horse,Best Documentary,False,False,The Lovers & the Despot,nm5366685,Ross Adam,The Lovers & the Despot,2016.0,Others,159865
+tt5494396,2016,Bronze Horse,Best Documentary,False,False,Tickling Giants,nm1582846,Sara Taksler,Tickling Giants,2016.0,Others,110009
+tt5451054,2016,Bronze Horse,Best Film,True,True,Godless,nm2432218,Ralitza Petrova,Godless,2016.0,Drama,7160
+tt5679536,2016,Bronze Horse,Best Film,False,False,A Decent Woman,nm3391638,Lukas Valenta Rinner,A Decent Woman,2017.0,Drama,1492
+tt4909984,2016,Bronze Horse,Best Film,False,False,Albüm,nm3172532,Mehmet Can Mertoglu,Albüm,2016.0,Comedy,18197
+tt5325492,2016,Bronze Horse,Best Film,False,False,Are We Not Cats,nm3545127,Xander Robin,Are We Not Cats,2018.0,Comedy,11326
+tt5088794,2016,Bronze Horse,Best Film,False,True,Dogs,nm3745731,Bogdan Mirica,Dogs,2016.0,Drama,86975
+tt5011242,2016,Bronze Horse,Best Film,False,False,Hedi,nm5411339,Mohamed Ben Attia,Hedi,2016.0,Drama,430224
+tt4034228,2016,Bronze Horse,Best Film,False,False,Manchester by the Sea,nm0518836,Kenneth Lonergan,Manchester by the Sea,2016.0,Drama,134090426
+tt4550098,2016,Bronze Horse,Best Film,False,False,Nocturnal Animals,nm1053530,Tom Ford,Nocturnal Animals,2016.0,Drama,43370944
+tt5474522,2016,Bronze Horse,Best Film,False,True,Old Stone,nm3534176,Johnny Ma,Old Stone,2016.0,Others,16140
+tt5154288,2016,Bronze Horse,Best Film,False,False,Prevenge,nm1546686,Alice Lowe,Prevenge,2017.0,Comedy,108890
+tt4196450,2016,Bronze Horse,Best Film,False,False,The Birth of a Nation,nm1676649,Nate Parker,The Birth of a Nation,2016.0,Others,34506763
+tt5991206,2016,Bronze Horse,Best Film,False,False,The Wedding Plan,nm5112815,Rama Burshtein,The Wedding Plan,2016.0,Comedy,3127558
+tt5100046,2016,Bronze Horse,Best Film,False,False,X500,nm3504479,Juan Andrés Arango Garcia,X500,2016.0,Drama,16556
+tt5168192,2016,Audience Award,,True,True,"I, Daniel Blake",nm0516360,Ken Loach,"I, Daniel Blake",2017.0,Drama,16747629
+tt5929472,2016,Audience Award,,False,False,Withered Green,nm7627626,Mohammed Hammad,Withered Green,2018.0,Drama,1745
+tt3721936,2016,FIPRESCI Prize,Competition,True,True,American Honey,nm0036349,Andrea Arnold,American Honey,2016.0,Others,2626441
+tt3607252,2016,Best First Film,Best Film,False,False,Sink,nm4840433,Brett Michael Innes,Sink,2016.0,Drama,75680
+tt5119268,2017,Bronze Horse,Best Documentary,True,False,For Ahkeem,nm5620701,Jeremy S. Levine,For Ahkeem,2017.0,Others,47938
+tt7115920,2017,Bronze Horse,Best Documentary,False,False,"Lots of Kids, a Monkey and a Castle",nm0758687,Gustavo Salmerón,"Lots of Kids, a Monkey and a Castle",2018.0,Others,509189
+tt5758404,2017,Bronze Horse,Best Documentary,False,False,Step,nm3094606,Amanda Lipitz,Step,2017.0,Others,2393046
+tt7109902,2017,Bronze Horse,Best Documentary,False,False,Tarzan's Testicles,nm0813285,Alexandru Solomon,Tarzan's Testicles,2017.0,Others,5233
+tt6159518,2017,Bronze Horse,Best Documentary,False,False,The Force,nm2426403,Peter Nicks,The Force,2017.0,Others,126094
+tt6642870,2017,Bronze Horse,Best Documentary,False,False,The Venerable W.,nm0775447,Barbet Schroeder,The Venerable W.,2019.0,Others,559312
+tt2095768,2017,Bronze Horse,Best Documentary,False,False,This Is Congo,nm4744716,Daniel McCabe,This Is Congo,2017.0,Others,16520
+tt5598160,2017,Bronze Horse,Best Film,True,False,Jeune femme,nm4874872,Léonor Serraille,Montparnasse Bienvenüe,2017.0,Drama,439010
+tt6802896,2017,Bronze Horse,Best Film,False,False,A Ciambra,nm3476432,Jonas Carpignano,A Ciambra,2018.0,Others,151289
+tt6194530,2017,Bronze Horse,Best Film,False,True,Ava,nm5674565,Léa Mysius,Ava,2017.0,Drama,515893
+tt6303866,2017,Bronze Horse,Best Film,False,False,Beach Rats,nm2151374,Eliza Hittman,Beach Rats,2017.0,Drama,1010656
+tt5628302,2017,Bronze Horse,Best Film,False,False,Beast,nm3705960,Michael Pearce,Beast,2018.0,Others,2584485
+tt6805354,2017,Bronze Horse,Best Film,False,False,Gabriel and the Mountain,nm1805204,Fellipe Barbosa,Gabriel and the Mountain,2018.0,Drama,537988
+tt5635086,2017,Bronze Horse,Best Film,False,True,God's Own Country,nm0497274,Francis Lee,God's Own Country,2017.0,Drama,3047086
+tt6213284,2017,Bronze Horse,Best Film,False,True,I Am Not a Witch,nm2509638,Rungano Nyoni,I Am Not a Witch,2018.0,Drama,236203
+tt6497898,2017,Bronze Horse,Best Film,False,False,In Syria,nm0887375,Philippe Van Leeuw,In Syria,2017.0,Drama,285975
+tt6596454,2017,Bronze Horse,Best Film,False,True,Los Perros,nm1888700,Marcela Said,Los Perros,2017.0,Drama,87391
+tt6207878,2017,Bronze Horse,Best Film,False,True,"No Date, No Signature",nm7522225,Vahid Jalilvand,"No Date, No Signature",2018.0,Drama,145752
+tt5371832,2017,Bronze Horse,Best Film,False,False,One Thousand Ropes,nm4044077,Tusi Tamasese,One Thousand Ropes,2017.0,Drama,138575
+tt6107516,2017,Bronze Horse,Best Film,False,False,The Family,nm2271584,Gustavo Rondón Córdova,The Family,2018.0,Drama,7491
+tt6217608,2017,Bronze Horse,Best Film,False,False,The Rider,nm2125482,Chloé Zhao,The Rider,2018.0,Drama,5898077
+tt4673790,2017,Bronze Horse,Best Film,False,False,Vazante,nm0858680,Daniela Thomas,Vazante,2018.0,Others,50492
+tt7060750,2017,Audience Award,Audience Award,False,False,Daybreak,nm5254577,Gentian Koçi,Daybreak,2017.0,Drama,447
+tt5893264,2017,FIPRESCI Prize,Best Film,True,True,Based on a True Story,nm0000591,Roman Polanski,Based on a True Story,2017.0,Drama,4131893
+tt4489562,2017,Stockholm Impact Award,,False,False,My Pure Land,nm1319499,Sarmad Masud,My Pure Land,2018.0,Drama,19866
+tt8647924,2018,Bronze Horse,Best Documentary,True,False,Putin's Witnesses,nm0543882,Vitaliy Manskiy,Putin's Witnesses,2018.0,Others,2183
+tt8632862,2018,Bronze Horse,Best Documentary,False,False,Fahrenheit 11/9,nm0601619,Michael Moore,Fahrenheit 11/9,2018.0,Others,13186906
+tt6762296,2018,Bronze Horse,Best Documentary,False,False,Freedom Fields,nm4139887,Naziha Arebi,Freedom Fields,2019.0,Others,9567
+tt7476236,2018,Bronze Horse,Best Documentary,False,False,Minding the Gap,nm3294913,Bing Liu,Minding the Gap,2018.0,Others,103706
+tt7478112,2018,Bronze Horse,Best Documentary,False,False,People's Republic of Desire,nm2222612,Hao Wu,People's Republic of Desire,2018.0,Others,30906
+tt7776430,2018,Bronze Horse,Best Film,False,True,All is Well,nm1690765,Eva Trobisch,Alles ist gut,2019.0,Drama,84399
+tt7318202,2018,Bronze Horse,Best Film,False,False,Butterflies,nm3796645,Tolga Karaçelik,Butterflies,2018.0,Comedy,362992
+tt8267604,2018,Bronze Horse,Best Film,False,True,Capernaum,nm1701024,Nadine Labaki,Capernaum,2018.0,Drama,66726600
+tt6522668,2018,Bronze Horse,Best Film,False,False,Diamantino,nm4085019,Gabriel Abrantes,Diamantino,2019.0,Comedy,288621
+tt7051048,2018,Bronze Horse,Best Film,False,False,Fugue,nm2835452,Agnieszka Smoczynska,Fugue,2018.0,Drama,1247
+tt8287690,2018,Bronze Horse,Best Film,False,False,Genesis,nm3679540,Philippe Lesage,Genesis,2019.0,Drama,7072
+tt8254556,2018,Bronze Horse,Best Film,False,True,Girl,nm4080113,Lukas Dhont,Girl,2019.0,Drama,4179831
+tt5942864,2018,Bronze Horse,Best Film,False,False,Styx,nm1625151,Wolfgang Fischer,Styx,2018.0,Drama,211167
+tt5855772,2018,Bronze Horse,Best Film,False,False,Sunset,nm1841577,László Nemes,Sunset,2019.0,Drama,1248205
+tt8331988,2018,Bronze Horse,Best Film,False,False,The Chambermaid,nm3569165,Lila Avilés,The Chambermaid,2019.0,Drama,149031
+tt7875464,2018,Bronze Horse,Best Film,False,False,The Heiresses,nm3308584,Marcelo Martinessi,The Heiresses,2019.0,Drama,889248
+tt7545566,2018,Best Directorial Debut,,True,True,Skate Kitchen,nm1145920,Crystal Moselle,Skate Kitchen,2018.0,Drama,531177
+tt6543652,2018,FIPRESCI Prize,Best Film,True,True,Cold War,nm0667734,Pawel Pawlikowski,Cold War,2019.0,Drama,24909769
+tt8327492,2018,Best Animation,Best Animation,False,False,Tito and the Birds,nm0825756,Gustavo Steinberg,Tito and the Birds,2018.0,Others,8755
+tt6386748,2018,Impact Award,,False,False,Birds of Passage,nm5305003,Cristina Gallego,Birds of Passage,2019.0,Drama,2822716
+tt7901610,2018,Impact Award,,False,False,Permission,nm6561914,Soheil Beiraghi,Cold Sweat,2019.0,Drama,85949
+tt6601502,2018,Impact Award,,False,False,Ray & Liz,nm2843837,Richard Billingham,Ray & Liz,2019.0,Drama,58509
+tt5960374,2018,Impact Award,,False,False,Vox Lux,nm1227232,Brady Corbet,Vox Lux,2018.0,Drama,2083629

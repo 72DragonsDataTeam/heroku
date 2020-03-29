@@ -1,0 +1,89 @@
+tconst,Year,awardName,categoryName,isWinner,otherAwards,primaryNominees,nconst,secondaryNominees,Name,releaseYear,Genre1,AdjustedTotalGross
+tt0119590,1997,FIPRESCI Prize,,True,True,Ma vie en rose,nm0075626,Alain Berliner,Ma Vie en Rose,1997.0,Drama,6850660
+tt0157016,1998,FIPRESCI Prize,,True,True,I Stand Alone,nm0637615,Gaspar Noé,I Stand Alone,1998.0,Others,21727
+tt0165901,1999,Jury Prize,,True,True,Okraina,nm0527494,Pyotr Lutsik,Okraina,1998.0,Drama,8716
+tt0151568,2000,Panorama Jury Prize,,True,True,Topsy-Turvy,nm0005139,Mike Leigh,Topsy-Turvy,2000.0,Others,18687656
+tt0244316,2000,Panorama Jury Prize,,True,True,Yi yi,nm0945981,Edward Yang,Yi Yi,2000.0,Drama,3426390
+tt0148103,2000,Panorama Jury Prize - Honorable Mention,,True,True,Set Me Free,nm0690794,Léa Pool,Set Me Free,1999.0,Drama,225015
+tt0169302,2000,Panorama Jury Prize - Honorable Mention,,True,True,The Terrorist,nm0007144,Santosh Sivan,The Terrorist,1998.0,Drama,488148
+tt0283509,2001,Best First Feature,,True,True,No Man's Land,nm0849786,Danis Tanovic,No Man's Land,2001.0,Drama,8443038
+tt0262196,2001,Best First Feature - Honorable Mention,,True,True,19,nm0913820,Kazushi Watanabe,19,2002.0,Comedy,502121
+tt0259072,2001,Best First Feature - Honorable Mention,,True,True,A Time for Drunken Horses,nm0315842,Bahman Ghobadi,A Time for Drunken Horses,2000.0,Drama,1791720
+tt0275847,2002,Audience Award,,True,True,Lilo & Stitch,nm0213450,Dean DeBlois,Lilo & Stitch,2002.0,Others,595102240
+tt0347105,2003,Best First Feature,,True,True,Fuse,nm0952429,Pjer Zalica,Fuse,2003.0,Comedy,84315
+tt0416032,2004,Jury Prize,,True,True,Mila ot Mars,nm1641326,Zornitsa Sophia,Mila from Mars,2005.0,Drama,65365
+tt0420233,2004,Special Jury Prize,,True,True,A Wonderful Night in Split,nm0652443,Arsen A. Ostojic,A Wonderful Night in Split,2005.0,Drama,561
+tt0361596,2004,Audience Award,,True,True,Fahrenheit 9/11,nm0601619,Michael Moore,Fahrenheit 9/11,2004.0,Others,460231107
+tt0439668,2005,Jury Prize,Best Film,True,True,Lady Zee,nm0006590,Georgi Djulgerov,Lady Zee,2006.0,Drama,11279
+tt0449642,2005,Heart of Sarajevo,Best Film,False,False,Ryna,nm1552776,Ruxandra Zenide,Ryna,2006.0,Drama,6280
+tt0476999,2006,Jury Prize,Best Film,True,True,Fraulein,nm0754098,Susann Rüdlinger,Fraulein,2007.0,Drama,14223
+tt0855843,2007,Special Jury Prize,,True,True,I Am from Titov Veles,nm0835294,Teona Strugar Mitevska,I Am from Titov Veles,2008.0,Drama,8457
+tt0466100,2007,Audience Award,Best Film - Section Teenarena,True,True,Max Minsky and Me,nm0433141,Anna Justice,Max Minsky and Me,2008.0,Comedy,189468
+tt1032856,2007,Audience Award,,True,True,The Band's Visit,nm0464115,Eran Kolirin,The Band's Visit,2008.0,Comedy,21075865
+tt0499262,2007,Heart of Sarajevo,Best Film,True,False,Takva: A Man's Fear of God,nm1699703,Özer Kiziltan,Takva: A Man's Fear of God,2006.0,Drama,2584385
+tt1043510,2007,Human Rights Award,,True,True,The Mosquito Problem and Other Stories,nm1269734,Andrey Paounov,The Mosquito Problem and Other Stories,2007.0,Others,3519
+tt1281962,2008,Special Jury Prize,,True,True,March,nm0405551,Klaus Händl,March,2008.0,Drama,28144
+tt0114814,2008,Audience Award,Best Feature Film,True,True,The Usual Suspects,nm0001741,Bryan Singer,The Usual Suspects,1995.0,Others,77870639
+tt0940688,2008,Audience Award,TeenArena's Audience Award,True,True,Dunya & Desie,nm0623937,Dana Nechushtan,Dunya & Desie,2009.0,Comedy,2631179
+tt0910860,2008,C.I.C.A.E. Award,,True,True,Delta,nm0610960,Kornél Mundruczó,Delta,2010.0,Drama,38960
+tt1379182,2009,Special Jury Prize,Feature Film,True,True,Dogtooth,nm0487166,Yorgos Lanthimos,Dogtooth,2010.0,Drama,591748
+tt1422101,2009,Heart of Sarajevo,Best Film,True,True,Ordinary People,nm0673829,Vladimir Perisic,Ordinary People,2010.0,Drama,5753
+tt1426361,2009,C.I.C.A.E. Award,,True,True,Eastern Plays,nm1189816,Kamen Kalev,Eastern Plays,2009.0,Drama,67825
+tt1312137,2009,EDN Talent Grant,,True,True,On the Way to School,nm2917126,Özgür Dogan,On the Way to School,2009.0,Others,472747
+tt1527049,2010,Special Jury Prize,Best Film,True,True,Tender Son: The Frankenstein Project,nm0610960,Kornél Mundruczó,Tender Son: The Frankenstein Project,2010.0,Drama,26524
+tt1320254,2010,Audience Award,Best Documentary Feature,True,True,Presumed Guilty,nm2370297,Roberto Hernández,Presumed Guilty,2010.0,Others,6891736
+tt1417067,2010,Audience Award,Best Feature Film,True,True,Cirkus Columbia,nm0849786,Danis Tanovic,Cirkus Columbia,2012.0,Comedy,19924
+tt1516593,2010,Heart of Sarajevo,Best Film,True,False,Tilva Rosh,nm3116547,Nikola Lezaic,Tilva Rosh,2011.0,Drama,22183
+tt0997035,2010,C.I.C.A.E. Award,,True,True,Bibliothèque Pascal,nm0354451,Szabolcs Hajdu,Bibliothèque Pascal,2010.0,Drama,34060
+tt1833647,2011,Special Jury Prize,Feature Film,True,True,Avé,nm1965972,Konstantin Bojanov,Avé,2011.0,Drama,34317
+tt1680679,2011,Best Actor,,True,True,Breathing,nm4752229,Thomas Schubert,Breathing,2012.0,Drama,900784
+tt1540133,2011,Audience Award,Best Feature Film,True,True,The Guard,nm0567620,John Michael McDonagh,The Guard,2011.0,Comedy,28917943
+tt1714209,2011,Heart of Sarajevo,Honorary Award,True,False,In the Land of Blood and Honey,nm0001401,Angelina Jolie,In the Land of Blood and Honey,2011.0,Drama,1707159
+tt1854524,2011,Human Rights Award,,True,True,Ecumenopolis: City Without Limits,nm4359456,Imre Azem,Ecumenopolis: City Without Limits,2012.0,Others,41220
+tt2106671,2012,Special Jury Prize,Feature Film,True,True,Tepenin Ardi,nm1625220,Emin Alper,Tepenin Ardi,2012.0,Drama,134291
+tt2123230,2012,Best Actress,,True,True,Children of Sarajevo,nm3626876,Marija Pikic,Children of Sarajevo,2013.0,Drama,42696
+tt2073029,2012,Audience Award,Best Feature Film,True,True,Marina Abramovic: The Artist Is Present,nm1128830,Matthew Akers,Marina Abramovic: The Artist Is Present,2012.0,Others,274338
+tt1675434,2012,Audience Award,Best Feature Film,True,True,The Intouchables,nm0619923,Olivier Nakache,The Intouchables,2012.0,Others,485125621
+tt2082193,2012,Heart of Sarajevo,Best Film,False,False,Babamin Sesi,,[],Babamin Sesi,2012.0,Drama,87069
+tt2298465,2012,Heart of Sarajevo,Best Film,False,False,Present Tense,,[],Present Tense,2013.0,Drama,5114
+tt1839522,2013,Audience Award,Best Feature Film,True,True,Circles,nm0326740,Srdan Golubovic,Circles,2013.0,Drama,79475
+tt2369543,2013,Audience Award,Best Feature Film,False,False,When I Saw You,nm1486975,Annemarie Jacir,When I Saw You,2014.0,Drama,48289
+tt2851294,2013,Heart of Sarajevo,Best Documentary,True,False,Sickfuckpeople,nm2978744,Juri Rechinsky,Sickfuckpeople,2013.0,Others,1248
+tt2741806,2013,Heart of Sarajevo,Best Film,True,True,In Bloom,nm2206574,Nana Ekvtimishvili,In Bloom,2014.0,Drama,167507
+tt1954315,2013,Heart of Sarajevo,Best Film,False,False,Borgman,nm0912334,Alex van Warmerdam,Borgman,2013.0,Drama,1164456
+tt3011894,2014,Audience Award,Best Feature Film,True,True,Wild Tales,nm1167933,Damián Szifron,Wild Tales,2014.0,Comedy,32353447
+tt3982854,2014,Heart of Sarajevo,Best Film,True,False,Song of My Mother,nm3646119,Erol Mintas,Song of My Mother,2015.0,Drama,11075
+tt3813916,2014,Heart of Sarajevo,Best Film,False,False,A Blast,nm1253546,Syllas Tzoumerkas,A Blast,2015.0,Drama,289
+tt1554929,2014,Heart of Sarajevo,Best Film,False,False,Cure: The Life of Another,nm0821620,Andrea Staka,Cure: The Life of Another,2015.0,Drama,1309
+tt2474310,2014,Heart of Sarajevo,Best Film,False,False,Land of Storms,nm2414670,Ádám Császi,Land of Storms,2014.0,Drama,3481
+tt3469960,2014,Heart of Sarajevo,Best Film,False,True,Macondo,nm2670854,Sudabeh Mortezai,Macondo,2014.0,Drama,49642
+tt3808342,2015,Special Jury Prize,Feature Film,True,True,Son of Saul,nm1841577,László Nemes,Son of Saul,2015.0,Drama,9060265
+tt4769042,2015,Heart of Sarajevo,Best Documentary,False,False,Over the Years,nm0315430,Nikolaus Geyrhalter,Over the Years,2015.0,Others,27669
+tt3966404,2015,Heart of Sarajevo,Best Film,True,False,Mustang,nm2197025,Deniz Gamze Ergüven,Mustang,2015.0,Drama,6575847
+tt3526706,2015,Heart of Sarajevo,Best Film,False,True,Chevalier,nm0718125,Athina Rachel Tsangari,Chevalier,2015.0,Comedy,110976
+tt4910994,2015,Heart of Sarajevo,Best Film,False,False,Entanglement,nm4248044,Tunç Davut,Entanglement,2015.0,Drama,1603
+tt2933004,2015,Heart of Sarajevo,Best Film,False,False,Panama,nm0904225,Pavle Vuckovic,Panama,2015.0,Drama,7013
+tt4454246,2015,Heart of Sarajevo,Best Film,False,True,Superwelt,nm0548686,Karl Markovics,Superwelt,2015.0,Drama,125133
+tt4515684,2015,Heart of Sarajevo,Best Film,False,False,The Treasure,nm1717949,Corneliu Porumboiu,The Treasure,2016.0,Comedy,143022
+tt4593108,2015,Heart of Sarajevo,Best Film,False,True,Zvizdan,nm0558094,Dalibor Matanic,The High Sun,2015.0,Drama,678448
+tt3492838,2015,Young Audience Award,,True,True,Next to Me,nm1194496,Stevan Filipovic,Next to Me,2015.0,Comedy,16125
+tt5451054,2016,Special Jury Prize,Best Film,True,True,Godless,nm2432218,Ralitza Petrova,Godless,2016.0,Drama,7160
+tt5088794,2016,Best Actor,,True,True,Dogs,nm0899786,Gheorghe Visu,Dogs,2016.0,Drama,86975
+tt4909984,2016,Heart of Sarajevo,Best Film,True,True,Albüm,nm3172532,Mehmet Can Mertoglu,Albüm,2016.0,Comedy,18197
+tt5679536,2016,Heart of Sarajevo,Best Film,False,False,A Decent Woman,nm3391638,Lukas Valenta Rinner,A Decent Woman,2017.0,Drama,1492
+tt5204020,2016,Heart of Sarajevo,Best Film,False,False,Scarred Hearts,nm1257492,Radu Jude,Scarred Hearts,2018.0,Others,14041
+tt5586310,2016,Heart of Sarajevo,Best Film,False,False,Tarla,nm4676168,Cemil Agacikoglu,Tarla,2015.0,Drama,715
+tt4182282,2016,Heart of Sarajevo,Documentary Film Competition,False,False,Young Wrestlers,nm2750021,Mete Gümürhan,Young Wrestlers,2016.0,Others,111
+tt2948166,2016,Young Audience Award,,True,True,Train Driver's Diary,,[],Train Driver's Diary,2017.0,Comedy,7905
+tt6220252,2017,Heart of Sarajevo,Best Documentary,False,True,Mr Gay Syria,nm8562898,Ayse Toprak,Mr Gay Syria,2017.0,Others,1774
+tt5943606,2017,Heart of Sarajevo,Best Documentary,False,False,Ultra,nm1488351,Balázs Simonyi,Ultra,2017.0,Others,31175
+tt7060750,2017,Heart of Sarajevo,Best Film,False,False,Daybreak,nm5254577,Gentian Koçi,Daybreak,2017.0,Drama,447
+tt6467968,2017,Heart of Sarajevo,Best Film,False,False,Directions,nm0464526,Stephan Komandarev,Directions,2017.0,Drama,203785
+tt4073682,2017,Heart of Sarajevo,Best Film,False,False,Grain,nm0969427,Semih Kaplanoglu,Grain,2017.0,Drama,76681
+tt5207262,2017,Heart of Sarajevo,Best Film,False,False,Hostages,nm2475544,Rezo Gigineishvili,Hostages,2017.0,Others,376106
+tt8267604,2018,Audience Award,Best Feature Film,True,True,Capernaum,nm1701024,Nadine Labaki,Capernaum,2018.0,Drama,66726600
+tt7356132,2018,Heart of Sarajevo,Best Film,False,False,Dragoste 1: Câine,nm2758521,Florin Serban,Dragoste 1: Câine,2018.0,Drama,2504
+tt6506276,2018,Heart of Sarajevo,Best Film,False,False,Lemonade,nm2031842,Ioana Uricaru,Lemonade,2018.0,Drama,217705
+tt7991628,2018,Heart of Sarajevo,Best Film,False,False,Mali,nm1126956,Antonio Nuic,Mali,2019.0,Others,21062
+tt8677444,2018,Heart of Sarajevo,Best Film,False,False,One and a Half Prince,nm2839048,Ana Lungu,One and a Half Prince,2018.0,Drama,3917
+tt8514874,2018,Heart of Sarajevo,Best Film,False,False,The Pigeon Thieves,nm3905593,Sinan Sertel,The Pigeon Thieves,2019.0,Drama,2692

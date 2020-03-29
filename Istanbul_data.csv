@@ -1,0 +1,229 @@
+tconst,Year,awardName,categoryName,isWinner,otherAwards,primaryNominees,nconst,secondaryNominees,Name,releaseYear,Genre1,AdjustedTotalGross
+tt0087803,1985,Golden Tulip,,True,False,1984,nm0705535,Michael Radford,1984,1985.0,Drama,40496153
+tt0092558,1987,Best Turkish Film of the Year,,True,True,Motherland Hotel,nm0442693,Ömer Kavur,Motherland Hotel,1987.0,Others,27394
+tt0090798,1987,Special Prize of the Jury,,True,True,Caravaggio,nm0418746,Derek Jarman,Caravaggio,1986.0,Others,21552
+tt0100234,1992,FIPRESCI Prize,,True,True,Close-Up,nm0452102,Abbas Kiarostami,Close-Up,1990.0,Others,5110
+tt0103616,1993,Special Prize of the Jury,,True,True,The Accompanist,nm0002218,Claude Miller,The Accompanist,1993.0,Drama,2699144
+tt0112714,1996,FIPRESCI Prize,International Competition,True,True,The Confessional,nm0503215,Robert Lepage,The Confessional,1996.0,Drama,934140
+tt0115669,1997,Golden Tulip,,True,True,The King of Masks,nm0943177,Tian-Ming Wu,The King of Masks,1997.0,Drama,3575754
+tt0117356,1997,FIPRESCI Prize,International Competition,True,True,Le polygraphe,nm0503215,Robert Lepage,Le polygraphe,1996.0,Others,99306
+tt0117056,1998,Golden Tulip,,True,False,The Mirror,nm0070159,Jafar Panahi,The Mirror,1998.0,Drama,217885
+tt0169364,1999,Golden Tulip,,True,False,Wind with the Gone,nm0002159,Alejandro Agresti,Wind with the Gone,1998.0,Comedy,127792
+tt0188653,1999,Best Turkish Film of the Year,,True,True,Journey to the Sun,nm0882445,Yesim Ustaoglu,Journey to the Sun,2001.0,Drama,6382
+tt0150216,2000,People's Choice Award,International Competition,True,True,Cradle Will Rock,nm0000209,Tim Robbins,Cradle Will Rock,2000.0,Drama,8917438
+tt0235841,2001,Golden Tulip,,True,True,No Place to Go,nm0753912,Oskar Roehler,No Place to Go,2000.0,Drama,60918
+tt0211718,2001,Special Prize of the Jury,International Competition,True,True,Vengo,nm0309697,Tony Gatlif,Vengo,2001.0,Drama,179449
+tt0262774,2001,FIPRESCI Prize,International Competition,True,True,"Smell of Camphor, Fragrance of Jasmine",nm0267715,Bahman Farmanara,"Smell of Camphor, Fragrance of Jasmine",2001.0,Drama,14263
+tt0200720,2001,People's Choice Award,International Competition,True,True,The House of Mirth,nm0203993,Terence Davies,The House of Mirth,2000.0,Drama,12075177
+tt0250258,2002,People's Choice Award,International Competition,True,True,The Experiment,nm0386570,Oliver Hirschbiegel,The Experiment,2002.0,Drama,19795063
+tt0324158,2003,Golden Tulip,,True,False,Suddenly,nm1195308,Diego Lerman,Suddenly,2003.0,Comedy,276842
+tt0294279,2003,Golden Tulip,,False,False,A Loving Father,nm0074213,Jacob Berger,A Loving Father,2003.0,Drama,109328
+tt0291032,2003,Golden Tulip,,False,False,Balzac and the Little Chinese Seamstress,nm0197246,Sijie Dai,Balzac and the Little Chinese Seamstress,2002.0,Others,8282238
+tt0304907,2003,Golden Tulip,,False,False,Life Kills Me,nm0801533,Jean-Pierre Sinapi,Life Kills Me,2003.0,Drama,163330
+tt0317887,2003,Golden Tulip,,False,False,Madame Satã,nm0014694,Karim Aïnouz,Madame Satã,2002.0,Others,870181
+tt0317226,2003,Golden Tulip,,False,False,Marooned in Iraq,nm0315842,Bahman Ghobadi,Marooned in Iraq,2002.0,Drama,444848
+tt0295238,2003,Golden Tulip,,False,True,Personal Velocity,nm0589182,Rebecca Miller,Personal Velocity,2002.0,Drama,2404045
+tt0313196,2003,Golden Tulip,,False,False,The Crime of Padre Amaro,nm0140196,Carlos Carrera,The Crime of Padre Amaro,2002.0,Drama,46213054
+tt0332381,2003,Golden Tulip,,False,True,The Sea,nm0466349,Baltasar Kormákur,The Sea,2003.0,Comedy,354975
+tt0346094,2003,Best Turkish Film of the Year,,True,True,Uzak,nm0149196,Nuri Bilge Ceylan,Distant,2003.0,Drama,569927
+tt0363648,2003,Best Turkish Film of the Year,,False,True,Gönderilmemis mektuplar,nm0476174,Yusuf Kurçenli,Gönderilmemis mektuplar,2002.0,Drama,1380696
+tt0363852,2003,Best Turkish Film of the Year,,False,False,O simdi asker,nm0022858,Mustafa Altioklar,O simdi asker,2003.0,Comedy,7909594
+tt0377556,2004,Golden Tulip,,True,False,"Goodbye, Dragon Inn",nm0158857,Ming-liang Tsai,"Goodbye, Dragon Inn",2003.0,Comedy,1470800
+tt0325675,2004,Best Turkish Film of the Year,,True,True,Boats Out of Watermelon Rinds,nm1204496,Ahmet Uluçay,Boats Out of Watermelon Rinds,2005.0,Comedy,17728
+tt0338977,2004,Special Prize of the Jury,International Competition,True,True,Games of Love and Chance,,[],Games of Love and Chance,2005.0,Comedy,2307488
+tt0418309,2004,Special Prize of the Jury,National Competition,True,True,Waiting for the Clouds,nm0882445,Yesim Ustaoglu,Waiting for the Clouds,2003.0,Drama,70194
+tt0416854,2004,Best Actor,National Competition,True,True,Insaat,nm1001195,Emre Kinay,Insaat,2005.0,Comedy,1247685
+tt0366943,2004,People's Choice Award,International Competition,True,True,Reconstruction,nm1061993,Christoffer Boe,Reconstruction,2003.0,Drama,753939
+tt0412596,2005,Golden Tulip,,True,False,Café Lumière,nm0396284,Hsiao-Hsien Hou,Café Lumière,2004.0,Drama,194196
+tt0382691,2005,Golden Tulip,,True,False,Gilles' Wife,nm0285090,Frédéric Fonteyne,Gilles' Wife,2005.0,Drama,388237
+tt0421625,2005,Best Turkish Film of the Year,,True,True,Istanbul Tales,nm0218531,Selim Demirdelen,Istanbul Tales,2005.0,Drama,978108
+tt0428059,2005,Best Actor,National Competition,True,True,Toss-Up,nm1015631,Olgun Simsek,Toss-Up,2004.0,Drama,1300742
+tt0855729,2006,Golden Tulip,Best Film,True,True,Times and Winds,nm0258732,Reha Erdem,Times and Winds,2008.0,Drama,476485
+tt0423409,2006,Golden Tulip,Best Foreign Film,True,False,Tristram Shandy: A Cock and Bull Story,nm0935863,Michael Winterbottom,Tristram Shandy: A Cock and Bull Story,2005.0,Comedy,6652195
+tt0854114,2006,Special Prize of the Jury,,True,True,Dreams,nm1865534,Mohamed Al Daradji,Dreams,2007.0,Drama,39859
+tt0816150,2006,Special Prize of the Jury,,True,True,"Ice Cream, I Scream",nm1729048,Yüksel Aksu,"Ice Cream, I Scream",2006.0,Comedy,4419445
+tt0476735,2006,Best Actor,,True,True,My Father and My Son,nm0476334,Fikret Kuskan,My Father and My Son,2005.0,Drama,24071430
+tt0827517,2007,Golden Tulip,Best Film,True,False,Reprise,nm1258686,Joachim Trier,Reprise,2007.0,Drama,2338238
+tt0885470,2007,Golden Tulip,Best Film,False,False,Adam and the Devil,nm0685157,Baris Pirhasan,Adam and the Devil,2007.0,Drama,567801
+tt0978649,2007,Golden Tulip,Best Film,False,False,Bliss,nm1283973,Abdullah Oguz,Bliss,2008.0,Drama,4363517
+tt0782032,2007,Golden Tulip,Best Film,False,False,Cenneti Beklerken,nm0952077,Dervis Zaim,Cenneti Beklerken,2006.0,Drama,439239
+tt0498097,2007,Golden Tulip,Best Film,False,True,Climates,nm0149196,Nuri Bilge Ceylan,Climates,2006.0,Drama,1905900
+tt0875595,2007,Golden Tulip,Best Film,False,True,Destiny,nm0218547,Zeki Demirkubuz,Destiny,2006.0,Drama,155870
+tt0845452,2007,Golden Tulip,Best Film,False,False,Eve Dönüs,nm0880127,Ömer Ugur,Eve Dönüs,2006.0,Drama,1549942
+tt0902955,2007,Golden Tulip,Best Film,False,False,In Bar,nm0015091,Serdar Akar,In Bar,2007.0,Others,1583672
+tt0845474,2007,Golden Tulip,Best Film,False,False,Küçük Kiyamet,nm1613185,Yagmur Taylan,Küçük Kiyamet,2006.0,Drama,2759741
+tt0929775,2007,Golden Tulip,Best Film,False,False,Mavi Gözlü Dev,nm0407648,Biket Ilhan,Mavi Gözlü Dev,2007.0,Others,2022464
+tt0826606,2007,Golden Tulip,Best Film,False,False,Police,nm1729447,Onur Ünlü,Police,2007.0,Others,1523972
+tt0903021,2007,Golden Tulip,Best Film,False,False,Sis ve Gece,nm1761151,Turgut Yasalar,Sis ve Gece,2007.0,Others,367747
+tt0499262,2007,Golden Tulip,Best Film,False,True,Takva: A Man's Fear of God,nm1699703,Özer Kiziltan,Takva: A Man's Fear of God,2006.0,Drama,2584385
+tt0893507,2007,Golden Tulip,Best Film,False,True,The International,nm2438657,Sirri Süreyya Önder,Beynelmilel,2006.0,Comedy,3052572
+tt0827503,2007,Golden Tulip,Best Film,False,False,The Magician,nm0051166,Ali Taner Baltaci,The Magician,2006.0,Comedy,11582939
+tt0985119,2007,Golden Tulip,Best Film,False,False,Zincirbozan,nm2074173,Atil Inaç,Zincirbozan,2007.0,Others,567047
+tt0856831,2007,Golden Tulip,Best Film,False,False,Çinliler Geliyor,nm0006703,Zeki Ökten,Çinliler Geliyor,2006.0,Comedy,147244
+tt0412637,2007,Special Prize of the Jury,International Competition,True,True,Delirious,nm0001139,Tom DiCillo,Delirious,2007.0,Comedy,941878
+tt0495040,2007,FIPRESCI Prize,,True,True,The Art of Crying,nm0283844,Peter Schønau Fog,The Art of Crying,2007.0,Comedy,20783
+tt0847050,2007,People's Choice Award,International Competition,True,True,Half Moon,nm0315842,Bahman Ghobadi,Half Moon,2007.0,Comedy,305725
+tt0814666,2007,FACE Award,,True,True,Bamako,nm0803066,Abderrahmane Sissako,Bamako,2006.0,Drama,1483625
+tt1021004,2008,Golden Tulip,Best Film,True,True,Egg,nm0969427,Semih Kaplanoglu,Egg,2007.0,Drama,328079
+tt1179793,2008,Best Turkish Film of the Year,,True,True,Summer Book,,[],Summer Book,2008.0,Drama,49302
+tt1433322,2008,Best Turkish Director of the Year,,True,True,Dot,nm0952077,Dervis Zaim,Dot,2009.0,Others,87134
+tt1149615,2008,Special Prize of the Jury,Special Jury Award,True,True,Ara,nm0880928,Ümit Ünal,Ara,2008.0,Drama,57277
+tt1063669,2008,Special Prize of the Jury,,True,True,The Wave,nm0304541,Dennis Gansel,The Wave,2011.0,Drama,36586095
+tt0920460,2008,Best Actress,National Competition,True,True,Gitmek: My Marlon and Brando,nm2477527,Ayça Damgaci,Gitmek: My Marlon and Brando,2008.0,Drama,66493
+tt0953318,2008,FIPRESCI Prize,International Competition,True,True,Ben X,nm0051206,Nic Balthazar,Ben X,2008.0,Drama,3324515
+tt0981352,2008,People's Choice Award,National Competition,True,True,The Messenger,nm1463981,Çagan Irmak,The Messenger,2008.0,Others,3932575
+tt1020972,2008,FACE Award,,True,True,Blind Mountain,nm1317258,Yang Li,Blind Mountain,2008.0,Others,67631
+tt1284591,2009,Golden Tulip,Best Cinematography,True,True,Milk,nm2639820,Özgür Eken,Milk,2009.0,Drama,70759
+tt1223975,2009,Golden Tulip,Best Film,True,False,Tony Manero,nm1883257,Pablo Larraín,Tony Manero,2008.0,Drama,827071
+tt1314197,2009,Golden Tulip,Best Film,False,False,Iki Çizgi,nm3146722,Selim Evci,Iki Çizgi,2009.0,Drama,19060
+tt1422811,2009,Golden Tulip,Best Music,True,False,Ali'nin sekiz günü,nm2116686,Nail Yurtsever,Ali'nin sekiz günü,2009.0,Drama,25631
+tt1366981,2009,Golden Tulip,Best Screenplay,True,True,Uzak Ihtimal,nm3312308,Tarik Tufan,Uzak Ihtimal,2009.0,Drama,194953
+tt1261397,2009,Golden Tulip,National Competition / Best Turkish Film Of The Year,True,False,Men on the Bridge,nm2196871,Asli Özge,Men on the Bridge,2012.0,Drama,30694
+tt1263679,2009,Special Prize of the Jury,Human Rights in Cinema,True,True,Firaaq,nm0201903,Nandita Das,Firaaq,2009.0,Drama,329948
+tt1139319,2009,Special Prize of the Jury,Jury Award,True,True,A Film with Me in It,nm0280416,Ian Fitzgibbon,A Film with Me in It,2010.0,Comedy,284476
+tt1422184,2009,Special Prize of the Jury,National Competition,True,True,10 to 11,nm1959064,Pelin Esmer,10 to 11,2009.0,Drama,86651
+tt1285130,2009,Best Actress,National Competition,True,True,Pandora's Box,nm0015764,Derya Alabora,Pandora's Box,2009.0,Drama,611551
+tt1370212,2009,FIPRESCI Prize,National Competition,True,True,My Only Sunshine,nm0258732,Reha Erdem,My Only Sunshine,2009.0,Drama,61768
+tt1350909,2009,People's Choice Award,National Competition,True,True,Children of the Otherside,nm0120268,Aydin Bulut,Children of the Otherside,2009.0,Others,257913
+tt1054674,2009,FACE Award,,True,True,Birdwatchers,nm0065009,Marco Bechis,Birdwatchers,2009.0,Drama,980687
+tt1571724,2010,Golden Tulip,Best Cinematography,True,True,Honey,nm0994020,Baris Özbiçer,Honey,2011.0,Drama,1517091
+tt1410272,2010,Golden Tulip,Best Music,True,False,Before Your Eyes,nm1076029,Mustafa Biber,Before Your Eyes,2010.0,Drama,118682
+tt1558877,2010,Golden Tulip,Best Screenplay,True,True,Vavien,nm1085525,Engin Günaydin,Vavien,2009.0,Comedy,1041092
+tt1537717,2010,Golden Tulip,National Competition / Best Turkish Film Of The Year,False,False,"Love, Bitter",,[],"Love, Bitter",2009.0,Drama,921806
+tt1285246,2010,Special Prize of the Jury,International Competition,True,True,Mademoiselle Chambon,nm0452161,Sandrine Kiberlain,Mademoiselle Chambon,2010.0,Drama,6803754
+tt1077262,2010,FACE Award,,True,True,Ajami,nm2738713,Scandar Copti,Ajami,2009.0,Others,2262881
+tt1235848,2010,FACE Award,,True,True,The Day God Walked Away,nm0887375,Philippe Van Leeuw,The Day God Walked Away,2010.0,Drama,10910
+tt1309178,2011,Golden Tulip,Best Cinematography,True,True,Our Grand Despair,nm0345661,Birgit Gudjonsdottir,Our Grand Despair,2011.0,Drama,98074
+tt1363362,2011,Golden Tulip,Best Film,False,False,A Step Into Darkness,nm2074173,Atil Inaç,A Step Into Darkness,2010.0,Drama,60781
+tt1848789,2011,Golden Tulip,Best Music,True,True,Atlikarinca,nm4338998,Ahmet Kenan Bilgic,Atlikarinca,2011.0,Drama,133973
+tt1711021,2011,Golden Tulip,Best Screenplay,True,False,Zefir,nm2268763,Belma Bas,Zefir,2011.0,Drama,13248
+tt1720215,2011,Best Turkish Film of the Year,,True,True,Hair,nm0685333,Tayfun Pirselimoglu,Hair,2011.0,Drama,1041
+tt1719497,2011,Special Prize of the Jury,International Competition,True,True,A Useful Life,nm0992159,Federico Veiroj,A Useful Life,2011.0,Drama,24977
+tt1897939,2011,Best Actor,National Competition,True,True,Görünmeyen,nm0577281,Ahmet Mekin,Görünmeyen,2011.0,Drama,1519
+tt1270842,2011,FIPRESCI Prize,International Competition,True,True,Norwegian Wood,nm0870841,Anh Hung Tran,Norwegian Wood,2011.0,Drama,20014193
+tt1456477,2011,FACE Award,,True,True,As If I Am Not There,nm3397365,Juanita Wilson,As If I Am Not There,2011.0,Drama,9685
+tt1961675,2012,Golden Tulip,Best Cinematography,True,True,Inside,nm3447972,Türksoy Gölebeyi,Inside,2012.0,Drama,304043
+tt1695405,2012,Golden Tulip,Best Film,True,False,The Loneliest Planet,nm0518123,Julia Loktev,The Loneliest Planet,2011.0,Others,449776
+tt1666318,2012,Golden Tulip,Best Film,False,False,The Delay,nm0687751,Rodrigo Plá,The Delay,2013.0,Drama,12342
+tt2118659,2012,Golden Tulip,Best Music,True,True,The Trace,nm1076029,Mustafa Biber,The Trace,2011.0,Drama,10913
+tt2082193,2012,Golden Tulip,Best Screenplay,True,False,Babamin Sesi,nm2916574,Orhan Eskiköy,Babamin Sesi,2012.0,Drama,87069
+tt2106671,2012,Golden Tulip,Best Screenplay,True,True,Tepenin Ardi,nm1625220,Emin Alper,Tepenin Ardi,2012.0,Drama,134291
+tt1641410,2012,Special Prize of the Jury,Human Rights in Cinema,True,True,Terraferma,nm0187740,Emanuele Crialese,Terraferma,2011.0,Drama,2669566
+tt1736633,2012,Special Prize of the Jury,International Competition,True,True,"Oslo, August 31st",nm1258686,Joachim Trier,"Oslo, August 31st",2012.0,Drama,1772487
+tt2298465,2012,Best Actress,National Competition,True,True,Present Tense,nm3793409,Sanem Öge,Present Tense,2013.0,Drama,5114
+tt1181614,2012,FIPRESCI Prize,International Competition,True,True,Wuthering Heights,nm0036349,Andrea Arnold,Wuthering Heights,2012.0,Drama,2077992
+tt1602098,2012,People's Choice Award,International Competition,True,True,Albert Nobbs,nm0006554,Rodrigo García,Albert Nobbs,2011.0,Drama,9742070
+tt2180335,2012,FACE Award,,True,True,Just the Wind,nm1212903,Benedek Fliegauf,Just the Wind,2013.0,Drama,141950
+tt2637978,2013,Golden Tulip,Best Cinematography,True,False,Lifelong,nm1304787,Emre Erkmen,Lifelong,2013.0,Drama,17430
+tt2092011,2013,Golden Tulip,Best Film,True,False,What Richard Did,,[],What Richard Did,2013.0,Drama,538725
+tt2369543,2013,Golden Tulip,Best Film,False,False,When I Saw You,nm1486975,Annemarie Jacir,When I Saw You,2014.0,Drama,48289
+tt2751862,2013,Golden Tulip,Best Music,True,False,Soguk,nm4252868,Mayki Murat Basaran,Soguk,2014.0,Drama,43162
+tt0787442,2013,Golden Tulip,International Competition,False,True,The Attack,nm0234780,Ziad Doueiri,The Attack,2012.0,Drama,4262509
+tt2388819,2013,Best Turkish Film of the Year,,False,True,Yozgat Blues,nm5035688,Halil Kardas,Yozgat Blues,2013.0,Comedy,53584
+tt2507592,2013,Special Prize of the Jury,Human Rights in Cinema,True,True,An Episode in the Life of an Iron Picker,nm0849786,Danis Tanovic,An Episode in the Life of an Iron Picker,2013.0,Drama,47977
+tt2018086,2013,Special Prize of the Jury,International Competition,True,True,Camille Claudel 1915,nm0241622,Bruno Dumont,Camille Claudel 1915,2013.0,Others,761187
+tt2204456,2013,Special Prize of the Jury,National Competition,True,True,Cycle,nm0952077,Dervis Zaim,Cycle,2013.0,Drama,3899
+tt3413534,2013,Best Actress,National Competition,True,True,Özür Dilerim,nm1106132,Sema Poyraz,Özür Dilerim,2013.0,Drama,5007
+tt1638353,2013,FACE Award,,True,True,The Patience Stone,nm1680298,Atiq Rahimi,The Patience Stone,2013.0,Drama,882768
+tt3176134,2014,Golden Tulip,Best Cinematography,True,False,Consequences,nm2674449,Ahmet Sesigurgil,Consequences,2014.0,Others,161098
+tt2236092,2014,Golden Tulip,Best Music,True,True,Come to My Voice,nm6230510,Ali Tekbas,Come to My Voice,2014.0,Drama,4067
+tt2616810,2014,Golden Tulip,International Competition,True,False,Blind,nm1258777,Eskil Vogt,Blind,2015.0,Drama,42351
+tt2719094,2014,Special Prize of the Jury,International Competition,True,True,Papusza,nm1732806,Joanna Kos-Krauze,Papusza,2013.0,Others,620996
+tt2920540,2014,FIPRESCI Prize,International Competition,True,True,"20,000 Days on Earth",,[],"20,000 Days on Earth",2014.0,Others,2581024
+tt2427892,2014,People's Choice Award,International Competition,True,True,Tom at the Farm,nm0230859,Xavier Dolan,Tom at the Farm,2015.0,Drama,737216
+tt2852470,2014,FACE Award,,True,True,The Missing Picture,nm0659454,Rithy Panh,The Missing Picture,2014.0,Others,140845
+tt3894190,2015,Golden Tulip,International Competition,False,False,Black Souls,nm0613359,Francesco Munzi,Black Souls,2015.0,Others,1492955
+tt2935476,2015,Golden Tulip,International Competition,False,False,Far from the Madding Crowd,nm0899121,Thomas Vinterberg,Far from the Madding Crowd,2015.0,Drama,45634966
+tt4844752,2015,Golden Tulip,International Competition,False,False,Hasret: Sehnsucht,nm0394114,Ben Hopkins,Hasret: Sehnsucht,2015.0,Others,9329
+tt3119360,2015,Golden Tulip,International Competition,False,False,Itsi Bitsi,nm0535234,Ole Christian Madsen,Itsi Bitsi,2015.0,Drama,1288119
+tt2172554,2015,Golden Tulip,International Competition,False,False,Life in a Fishbowl,nm3742120,Baldvin Zophoníasson,Life in a Fishbowl,2015.0,Drama,666884
+tt3093546,2015,Golden Tulip,International Competition,False,False,Listen Up Philip,nm3504405,Alex Ross Perry,Listen Up Philip,2014.0,Comedy,446092
+tt2764784,2015,Golden Tulip,International Competition,False,False,Phoenix,nm0678857,Christian Petzold,Phoenix,2015.0,Drama,9774276
+tt2392672,2015,Golden Tulip,International Competition,False,False,Reality,nm1189197,Quentin Dupieux,Reality,2015.0,Comedy,455225
+tt3924450,2015,Golden Tulip,International Competition,False,False,Star,nm1346885,Anna Melikyan,Star,2014.0,Comedy,56639
+tt3696086,2015,Golden Tulip,International Competition,False,False,The Golden Era,nm0401176,Ann Hui,The Golden Era,2014.0,Others,9161316
+tt3480164,2015,Golden Tulip,International Competition,False,False,Wild Life,nm0434806,Cédric Kahn,Wild Life,2015.0,Drama,561552
+tt4205954,2015,Golden Tulip,National Competition / Best Turkish Film Of The Year,False,False,Eksik,nm3146762,Baris Atay,Eksik,2015.0,Drama,53595
+tt4309356,2015,Golden Tulip,National Competition / Best Turkish Film Of The Year,False,False,Ivy,nm3796645,Tolga Karaçelik,Ivy,2015.0,Drama,86232
+tt3259424,2015,Golden Tulip,National Competition / Best Turkish Film Of The Year,False,False,Kar korsanlari,nm6015400,Faruk Hacihafizoglu,Kar korsanlari,2015.0,Drama,4069
+tt4695434,2015,Golden Tulip,National Competition / Best Turkish Film Of The Year,False,False,Kümes,nm1832249,Ufuk Bayraktar,Kümes,2015.0,Drama,3825
+tt4192740,2015,Golden Tulip,National Competition / Best Turkish Film Of The Year,False,False,Limonata,nm1778124,Ali Atay,Limonata,2015.0,Comedy,354311
+tt4466242,2015,Golden Tulip,National Competition / Best Turkish Film Of The Year,False,False,Until I Lose My Breath,nm4905018,Emine Emel Balci,Until I Lose My Breath,2015.0,Drama,4975
+tt3838028,2015,Golden Tulip,National Competition / Best Turkish Film Of The Year,False,False,Yeni Dünya,nm4706945,Caner Erzincan,Yeni Dünya,2015.0,Drama,22893
+tt3986926,2015,Seyfi Teoman Best First Film Award,Best First Film,False,False,Ve Panayir Köyden Gider,nm5534592,Mete Sozer,Ve Panayir Köyden Gider,2016.0,Drama,12924
+tt4569240,2016,Golden Tulip,International Competition,True,False,A Monster with a Thousand Heads,nm0687751,Rodrigo Plá,A Monster with a Thousand Heads,2015.0,Drama,55567
+tt5233510,2016,Golden Tulip,International Competition,False,True,All of a Sudden,nm2196871,Asli Özge,All of a Sudden,2016.0,Drama,8817
+tt3544218,2016,Golden Tulip,International Competition,False,False,Belgica,nm0886976,Felix van Groeningen,Belgica,2016.0,Drama,647677
+tt5599818,2016,Golden Tulip,International Competition,False,False,Ember,nm0218547,Zeki Demirkubuz,Ember,2016.0,Drama,55011
+tt2953182,2016,Golden Tulip,International Competition,False,False,Eva Doesn't Sleep,nm1893148,Pablo Agüero,Eva Doesn't Sleep,2015.0,Drama,29670
+tt3828058,2016,Golden Tulip,International Competition,False,False,Family Film,nm2601092,Olmo Omerzu,Family Film,2016.0,Drama,120127
+tt3894478,2016,Golden Tulip,International Competition,False,False,Heavenly Nomadic,nm0008333,Mirlan Abdykalykov,Heavenly Nomadic,2016.0,Drama,1324
+tt4073166,2016,Golden Tulip,International Competition,False,False,One Breath,nm0959255,Christian Zübert,One Breath,2016.0,Drama,47998
+tt4467282,2016,Golden Tulip,International Competition,False,False,Peace to Us in Our Dreams,nm0058401,Sharunas Bartas,Peace to Us in Our Dreams,2015.0,Drama,6382
+tt2815902,2016,Golden Tulip,International Competition,False,True,The Childhood of a Leader,nm1227232,Brady Corbet,The Childhood of a Leader,2016.0,Drama,260770
+tt4247492,2016,Golden Tulip,International Competition,False,False,The Demons,nm3679540,Philippe Lesage,The Demons,2016.0,Drama,1874
+tt4949088,2016,Golden Tulip,International Competition,False,False,Thirst,nm0875159,Svetla Tsotsorkova,Thirst,2016.0,Drama,14768
+tt5333110,2016,Golden Tulip,International Competition,False,False,United States of Love,nm3814074,Tomasz Wasilewski,United States of Love,2016.0,Drama,235200
+tt4991384,2016,Golden Tulip,International Competition,False,False,Visaaranai,nm4274575,Vetrimaaran,Visaaranai,2016.0,Others,2094
+tt3995416,2016,Golden Tulip,National Competition / Best Turkish Film Of The Year,True,True,Toz Bezi,nm4101864,Ahu Öztürk,Toz Bezi,2015.0,Drama,22826
+tt4182282,2016,Golden Tulip,National Documentary Competition,False,False,Young Wrestlers,nm2750021,Mete Gümürhan,Young Wrestlers,2016.0,Others,111
+tt5341008,2016,Best Turkish Film of the Year,,False,False,Blue Bicycle,nm7850791,Ümit Köreken,Blue Bicycle,2016.0,Drama,11693
+tt5280652,2016,Special Prize of the Jury,National Competition,True,True,Rauf,nm4446337,Soner Caner,Rauf,2016.0,Drama,3142
+tt4518234,2016,Best Actor,National Competition,True,True,Cold of Kalandar,nm7651710,Haydar Sisman,Cold of Kalandar,2016.0,Drama,61915
+tt4886070,2016,FIPRESCI Prize,National Competition,True,True,Ana Yurdu,nm4127109,Senem Tüzen,Ana Yurdu,2016.0,Drama,15801
+tt3486542,2016,FACE Award,Human Rights in Cinema Competition,True,True,Mediterranea,nm3476432,Jonas Carpignano,Mediterranea,2015.0,Drama,73721
+tt4695548,2016,Seyfi Teoman Best First Film Award,Best First Film,False,False,Bad Cat,nm7335981,Mehmet Kurtulus,Bad Cat,2019.0,Others,1656516
+tt5586310,2016,Best Music,,True,True,Tarla,nm4336232,Dogan Duru,Tarla,2015.0,Drama,715
+tt4285496,2016,FACE Award - Special Mention,,True,True,Embrace of the Serpent,nm1458734,Ciro Guerra,Embrace of the Serpent,2015.0,Others,5041646
+tt4688658,2016,Audentia Award,,True,True,The Magic Mountain,nm0198746,Anca Damian,The Magic Mountain,2015.0,Others,1277
+tt4400174,2016,Audentia Award,,False,False,As I Open My Eyes,nm3960987,Leyla Bouzid,As I Open My Eyes,2016.0,Drama,87272
+tt3526706,2016,Audentia Award,,False,False,Chevalier,nm0718125,Athina Rachel Tsangari,Chevalier,2015.0,Comedy,110976
+tt4291590,2016,Audentia Award,,False,False,Evolution,nm0352968,Lucile Hadzihalilovic,Evolution,2016.0,Drama,85504
+tt5588506,2016,Audentia Award,,False,False,Kasap havasi,nm1953072,Çigdem Sezgin,Kasap havasi,2015.0,Drama,2044
+tt2172095,2016,Audentia Award,,False,False,The Deposit,nm2132286,Lisa Aschan,The Deposit,2015.0,Drama,5209
+tt4071086,2016,Audentia Award,,False,False,Wild,nm0470514,Nicolette Krebitz,Wild,2016.0,Drama,77686
+tt4845154,2016,Audentia Award,,False,False,Yemekteydik ve karar verdim,nm1012511,Görkem Yeltan,Yemekteydik ve karar verdim,2015.0,Drama,2959
+tt6679498,2017,Golden Tulip,Best Cinematography,True,False,Sari sicak,nm1221333,Marton Miklauzic,Sari sicak,2017.0,Drama,12868
+tt4929038,2017,Golden Tulip,International Competition,True,False,The Ornithologist,nm0735134,João Pedro Rodrigues,The Ornithologist,2016.0,Others,132383
+tt5974388,2017,Golden Tulip,International Competition,False,True,In Between,nm4092213,Maysaloun Hamoud,In Between,2017.0,Drama,1881500
+tt4291600,2017,Golden Tulip,International Competition,False,False,Lady Macbeth,nm4399706,William Oldroyd,Lady Macbeth,2017.0,Drama,6817983
+tt4511200,2017,Golden Tulip,International Competition,False,False,Manifesto,nm2143474,Julian Rosefeldt,Manifesto,2017.0,Drama,607663
+tt5791536,2017,Golden Tulip,International Competition,False,False,My Happy Family,nm2206574,Nana Ekvtimishvili,My Happy Family,2017.0,Drama,444152
+tt5897636,2017,Golden Tulip,International Competition,False,True,Summer 1993,nm3427032,Carla Simón,Summer 1993,2018.0,Drama,2201771
+tt5698496,2017,Golden Tulip,International Competition,False,False,The Girl Without Hands,nm0490736,Sébastien Laudenbach,The Girl Without Hands,2017.0,Others,149117
+tt6144536,2017,Golden Tulip,International Competition,False,False,This is Our Land,nm0069711,Lucas Belvaux,This Is Our Land,2018.0,Drama,28302
+tt6123206,2017,Golden Tulip,International Competition,False,False,Zer,nm1078399,Kazim Öz,Zer,2017.0,Drama,79709
+tt6493472,2017,Golden Tulip,National Competition,False,False,Bütün Saadetler Mümkündür,nm2755627,Selman Kiliçaslan,Bütün Saadetler Mümkündür,2017.0,Drama,3886
+tt4373956,2017,Golden Tulip,National Competition,False,False,Clair Obscur,nm0882445,Yesim Ustaoglu,Clair Obscur,2017.0,Drama,52060
+tt5334076,2017,Golden Tulip,National Competition,False,False,Inflame,nm7388685,Ceylan Özgün Özçelik,Inflame,2017.0,Drama,22564
+tt6214084,2017,Golden Tulip,National Competition,False,True,Ise yarar bir sey,nm1959064,Pelin Esmer,Ise yarar bir sey,2017.0,Drama,46935
+tt6679058,2017,Golden Tulip,National Competition,False,False,Mahalle,nm2744078,Bugra Gülsoy,Mahalle,2017.0,Drama,10803
+tt6679468,2017,Golden Tulip,National Competition,False,False,Murtaza,nm2590834,Özgür Sevimli,Murtaza,2017.0,Drama,555
+tt5980798,2017,FACE Award,Human Rights in Cinema Competition,True,True,Félicité,nm0327120,Alain Gomis,Félicité,2017.0,Drama,287939
+tt5771640,2017,FACE Award,Human Rights in Cinema Competition,False,False,A Wedding,nm1437690,Stephan Streker,A Wedding,2017.0,Drama,668086
+tt6151714,2017,FACE Award,Human Rights in Cinema Competition,False,False,Amerika Square,nm1032435,Yannis Sakaridis,Amerika Square,2016.0,Drama,33515
+tt5937296,2017,FACE Award,Human Rights in Cinema Competition,False,False,Glory,nm1571492,Kristina Grozeva,Glory,2016.0,Drama,112210
+tt5804038,2017,FACE Award,Human Rights in Cinema Competition,False,False,I Am Not Your Negro,nm0669704,Raoul Peck,I Am Not Your Negro,2017.0,Others,16227745
+tt6333074,2017,FACE Award,Human Rights in Cinema Competition,False,False,Last Men in Aleppo,nm5926047,Feras Fayyad,Last Men in Aleppo,2017.0,Others,30539
+tt6484982,2017,FACE Award,Human Rights in Cinema Competition,False,False,Newton,nm3536895,Amit Masurkar,Newton,2017.0,Drama,15076
+tt5480782,2018,Golden Tulip,Best Film,False,False,Good Manners,nm1824290,Marco Dutra,Good Manners,2018.0,Others,67831
+tt5157326,2018,Golden Tulip,International Competition,True,False,Western,nm1007136,Valeska Grisebach,Western,2017.0,Drama,205911
+tt5708028,2018,Golden Tulip,International Competition,False,False,Cocote,nm4981904,Nelson Carlo de Los Santos Arias,Cocote,2018.0,Drama,8250
+tt5923026,2018,Golden Tulip,International Competition,False,False,Marlina the Murderer in Four Acts,nm3029226,Mouly Surya,Marlina the Murderer in Four Acts,2017.0,Drama,45708
+tt7262052,2018,Golden Tulip,International Competition,False,False,Soldiers: Story from Ferentari,nm3875677,Ivana Mladenovic,Soldiers. Story from Ferentari,2018.0,Drama,23664
+tt6217608,2018,Golden Tulip,International Competition,False,True,The Rider,nm2125482,Chloé Zhao,The Rider,2018.0,Drama,5898077
+tt5323760,2018,Golden Tulip,International Competition,False,False,Winter Brothers,nm6249843,Hlynur Palmason,Winter Brothers,2018.0,Drama,12864
+tt8495600,2018,Golden Tulip,National Competition / Best Turkish Film of the Year,True,False,Debt,,[],Debt,2019.0,Drama,3334
+tt8064342,2018,Best Turkish Film of the Year,,False,False,Halef,nm2493103,Murat Düzgünoglu,Halef,2018.0,Drama,1351
+tt7318202,2018,Special Prize of the Jury,National Competition,True,True,Butterflies,nm3796645,Tolga Karaçelik,Butterflies,2018.0,Comedy,362992
+tt6278192,2018,FIPRESCI Prize,National Competition,True,True,Körfez,nm4404267,Emre Yeksan,Körfez,2017.0,Drama,7605
+tt6464290,2018,Human Rights Competition,,True,True,Frost,nm0058401,Sharunas Bartas,Frost,2017.0,Drama,39211
+tt7177156,2018,Human Rights Competition,,False,False,A Season in France,nm0757958,Mahamat-Saleh Haroun,A Season in France,2018.0,Drama,99426
+tt6776106,2018,Human Rights Competition,,False,False,And Breathe Normally,nm1750324,Isold Uggadottir,And Breathe Normally,2019.0,Drama,96922
+tt7106928,2018,Human Rights Competition,,False,False,Birds Are Singing in Kigali,nm1732806,Joanna Kos-Krauze,Birds Are Singing in Kigali,2017.0,Drama,64927
+tt8144886,2018,Human Rights Competition,,False,False,Kaçis,nm3844796,Kenan Kavut,Kaçis,2016.0,Drama,27
+tt7216256,2018,Human Rights Competition,,False,False,Razzia,nm0043953,Nabil Ayouch,Razzia,2018.0,Drama,1187265
+tt5942864,2018,Human Rights Competition,,False,False,Styx,nm1625151,Wolfgang Fischer,Styx,2018.0,Drama,211167
+tt6083534,2018,Seyfi Teoman Best First Film Award,Best First Film,True,True,The Pigeon,nm6929029,Banu Sivaci,The Pigeon,2018.0,Drama,5049
+tt5845758,2018,Best Editing,,True,True,Sofra sirlari,nm3756817,Osman Bayraktaroglu,Sofra sirlari,2018.0,Comedy,210191
+tt8514874,2018,Meetings on the Bridge,Work in Progress,True,True,The Pigeon Thieves,nm3905593,Sinan Sertel,The Pigeon Thieves,2019.0,Drama,2692
